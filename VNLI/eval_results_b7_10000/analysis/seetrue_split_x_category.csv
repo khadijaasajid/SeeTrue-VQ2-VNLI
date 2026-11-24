@@ -1,0 +1,13 @@
+Split,Category,N,VQ2_AUC,VNLI_AUC,Delta_(VNLI-VQ2)
+DrawBench,Object / Count,536,79.67,81.41,1.74
+DrawBench,Attribute,256,76.11,85.43,9.32
+DrawBench,Action / Interaction,104,68.9,74.7,5.79
+DrawBench,Spatial Relation,416,66.86,77.59,10.73
+COCO-T2I,Object / Count,666,62.97,83.49,20.52
+COCO-T2I,Attribute,342,72.75,81.08,8.33
+COCO-T2I,Action / Interaction,225,66.51,85.04,18.52
+COCO-T2I,Spatial Relation,558,68.98,82.32,13.34
+EditBench,Object / Count,642,69.88,73.69,3.81
+EditBench,Attribute,880,67.02,72.0,4.98
+EditBench,Action / Interaction,496,63.02,73.79,10.77
+EditBench,Spatial Relation,1809,64.53,75.47,10.94

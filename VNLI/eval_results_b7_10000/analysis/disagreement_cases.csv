@@ -1,0 +1,46 @@
+error_bucket,split,primary_category,image,text,label,vq2_score,vnli_score
+VNLI_Correct_VQ2_Failed,COCO-T2I,Spatial Relation,id_67_sd_2_1_2.png,Three teddy bears laying in bed under the covers.,0,0.806527,0.02145073190331459
+VNLI_Correct_VQ2_Failed,COCO-T2I,Action / Interaction,id_56_sd_2_1_2.png,A man pushing a wheelchair on the street.,0,0.823991,0.04672496020793915
+VNLI_Correct_VQ2_Failed,COCO-T2I,Action / Interaction,id_56_sd_1_4_0.png,A man pushing a wheelchair on the street.,0,0.812645,0.039048291742801666
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_172_sd_2_1_0.png,The giraffe is sitting in the middle of the grass alone,0,0.780513,0.010328153148293495
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_172_sd_2_1_3.png,The giraffe is sitting in the middle of the grass alone,0,0.768205,0.0026730059180408716
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_172_sd_1_4_2.png,The giraffe is sitting in the middle of the grass alone,0,0.775386,0.011687257327139378
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_154_sd_1_4_0.png,a hot dog stand in a city with people,1,0.230193,0.9881309270858765
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_172_sd_1_4_0.png,The giraffe is sitting in the middle of the grass alone,0,0.776053,0.029986508190631866
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_172_sd_2_1_1.png,The giraffe is sitting in the middle of the grass alone,0,0.76368,0.029535336419939995
+VNLI_Correct_VQ2_Failed,DrawBench,Object / Count,id_37_Counting_sd_1_4_3.png,Three cars on the street.,0,0.749004,0.02228618785738945
+VNLI_Correct_VQ2_Failed,COCO-T2I,Spatial Relation,id_62_sd_2_1_0.png,A cat drinking out of a glass on top of a table.,0,0.74108,0.01640303246676922
+VNLI_Correct_VQ2_Failed,COCO-T2I,Object / Count,id_13_coco_val_0.png,A street sign that reads broadway on  a traffic light.,1,0.223595,0.941439151763916
+VNLI_Correct_VQ2_Failed,DrawBench,Attribute,id_3_Colors_sd_1_4_2.png,A black colored dog.,1,0.280765,0.9959613680839539
+VNLI_Correct_VQ2_Failed,DrawBench,Attribute,id_3_Colors_sd_1_4_1.png,A black colored dog.,1,0.287861,0.9966756105422974
+VNLI_Correct_VQ2_Failed,COCO-T2I,Spatial Relation,id_91_sd_1_4_2.png,A blue and yellow fire hydrant next to a yellow cone.,1,0.275334,0.9822876453399658
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_13_sd_1_4_3.png,A street sign that reads broadway on  a traffic light.,0,0.179358,0.9535353183746338
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_13_sd_1_4_2.png,A street sign that reads broadway on  a traffic light.,0,0.20508,0.9376689791679382
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_13_sd_2_1_0.png,A street sign that reads broadway on  a traffic light.,0,0.196972,0.9105454087257385
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_13_sd_2_1_1.png,A street sign that reads broadway on  a traffic light.,0,0.279695,0.9894702434539795
+VQ2_Correct_VNLI_Failed,COCO-T2I,Spatial Relation,id_67_coco_val_0.png,Three teddy bears laying in bed under the covers.,1,0.80954,0.10932482779026031
+VQ2_Correct_VNLI_Failed,DrawBench,Object / Count,id_58_DALL-E_sd_2_1_0.png,A sphere made of kitchen tile. A sphere with the texture of kitchen tile.,0,0.245111,0.936051607131958
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_13_sd_1_4_1.png,A street sign that reads broadway on  a traffic light.,0,0.294925,0.9734054803848267
+VQ2_Correct_VNLI_Failed,COCO-T2I,Spatial Relation,id_52_coco_val_0.png,A silver motorcycle parked next to a forest filled with lots of trees.,1,0.705126,0.02822098508477211
+VQ2_Correct_VNLI_Failed,EditBench,Attribute,3348_a=little_o=letter_style=real.png,"a few little letters \""bike\"" hanging off a tall tree in a concrete basketball court.",0,0.234541,0.9067357778549194
+VQ2_Correct_VNLI_Failed,EditBench,Attribute,3359_a=little_o=letter_style=real.png,"a few little letters \""bike\"" hanging off a tall tree in a concrete basketball court.",0,0.307609,0.9681411385536194
+VQ2_Correct_VNLI_Failed,EditBench,Object / Count,2527_a=pentagon_o=letter_style=real.png,a pentagon-shaped letter is printed on a block which is put on the back of a book.,0,0.306111,0.9662834405899048
+VQ2_Correct_VNLI_Failed,EditBench,Spatial Relation,3388_a=little_o=rodent_s=indoor.png,a little rodent is next to the blinds in a big office.,0,0.251071,0.910306453704834
+VQ2_Correct_VNLI_Failed,COCO-T2I,Object / Count,id_154_sd_1_4_3.png,a hot dog stand in a city with people,0,0.338468,0.9924227595329285
+VQ2_Correct_VNLI_Failed,DrawBench,Object / Count,id_58_DALL-E_sd_1_4_1.png,A sphere made of kitchen tile. A sphere with the texture of kitchen tile.,0,0.281508,0.9322068691253662
+VQ2_Correct_VNLI_Failed,EditBench,Attribute,3355_a=little_o=letter_style=real.png,"a few little letters \""bike\"" hanging off a tall tree in a concrete basketball court.",0,0.343603,0.9714016318321228
+Both_Failed,EditBench,Spatial Relation,379_a=pile_o=gecko_s=outdoor.png,a pile of geckos on a rock next to a beach.,1,0.430817,0.43014732003211975
+Both_Failed,EditBench,Spatial Relation,1472_a=silver_o=llama_s=real.png,a silver llama standing on a mat full of vegetables in a museum.,0,0.55739,0.5563995838165283
+Both_Failed,EditBench,Object / Count,2336_a=fan~shaped_o=bench_s=outdoor.png,a fan-shaped bench with a cat sleeping on it in a stone courtyard.,0,0.591385,0.5926666259765625
+Both_Failed,EditBench,Attribute,2039_a=stone_o=letter_style=indoor.png,gray,1,0.427336,0.42536652088165283
+Both_Failed,EditBench,Spatial Relation,1162_a=green_o=cat_s=outdoor.png,a green cat standing behind a pile of dice under a ferris wheel.,0,0.610323,0.6123096346855164
+Both_Failed,DrawBench,Action / Interaction,id_169_Reddit_sd_1_4_3.png,A photocopy of a photograph of a painting of a sculpture of a giraffe.,1,0.3604,0.3580162823200226
+Both_Failed,EditBench,Attribute,2045_a=stone_o=letter_style=indoor.png,gray,1,0.395706,0.39326852560043335
+Both_Failed,EditBench,Spatial Relation,1467_a=silver_o=llama_s=real.png,a silver llama standing on a mat full of vegetables in a museum.,0,0.534895,0.531209409236908
+Both_Failed,EditBench,Action / Interaction,2405_a=flat_o=wombat_s=painting.png,the painting of a flat-shaped wombat on the side of a school bus.,0,0.520642,0.524394690990448
+Both_Failed,COCO-T2I,Action / Interaction,id_116_sd_1_4_1.png,A young boy riding a skateboard and wearing a helmet.,0,0.677423,0.6818326711654663
+Both_Failed,EditBench,Spatial Relation,3159_a=gigantic_o=pig_s=outdoor.png,a gigantic pig is sitting on top of a branch of a pine tree next to a house.,1,0.424212,0.42919009923934937
+Both_Failed,EditBench,Action / Interaction,2415_a=flat_o=wombat_s=painting.png,the painting of a flat-shaped wombat on the side of a school bus.,0,0.516832,0.5117166042327881
+Both_Failed,COCO-T2I,Spatial Relation,id_7_sd_1_4_2.png,A giraffe lying on the ground in a zoo pin.,0,0.529566,0.524394690990448
+Both_Failed,EditBench,Action / Interaction,2416_a=flat_o=wombat_s=painting.png,the painting of a flat-shaped wombat on the side of a school bus.,0,0.523656,0.5292633771896362
+Both_Failed,EditBench,Spatial Relation,2809_a=square_o=horse_s=indoor.png,a square-shaped horse standing on a rug next to a television.,0,0.677952,0.672331690788269

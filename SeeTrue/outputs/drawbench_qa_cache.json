@@ -1,0 +1,3138 @@
+{
+  "A zebra to the right of a fire hydrant.": [
+    {
+      "question": "A zebra is to what side of a fire hydrant?",
+      "answer": "the right"
+    },
+    {
+      "question": "A zebra to the right of what?",
+      "answer": "a fire hydrant"
+    },
+    {
+      "question": "What animal is to the right of a fire hydrant?",
+      "answer": "A zebra"
+    },
+    {
+      "question": "To what side of a fire hydrant is a zebra?",
+      "answer": "right"
+    }
+  ],
+  "Abraham Lincoln touches his toes while George Washington does chin-ups. Lincoln is barefoot. Washington is wearing boots.": [
+    {
+      "question": "Who touches his toes?",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "question": "Which president does chin-ups?",
+      "answer": "George"
+    },
+    {
+      "question": "What does George Washington do?",
+      "answer": "chin-ups"
+    },
+    {
+      "question": "What is George Washington wearing?",
+      "answer": "boots"
+    },
+    {
+      "question": "Who does chin-ups?",
+      "answer": "George Washington"
+    },
+    {
+      "question": "Who is wearing boots?",
+      "answer": "Washington"
+    },
+    {
+      "question": "What does George Washington do with his chin?",
+      "answer": "ups"
+    },
+    {
+      "question": "What part of his body does Lincoln touch?",
+      "answer": "toes"
+    },
+    {
+      "question": "What part of his body does George Washington do?",
+      "answer": "chin"
+    },
+    {
+      "question": "What part of his body does Abraham Lincoln touch?",
+      "answer": "his toes"
+    }
+  ],
+  "A keyboard made of water, the water is made of light, the light is turned off.": [
+    {
+      "question": "What is a keyboard made of?",
+      "answer": "water"
+    },
+    {
+      "question": "What is turned off when a keyboard is made of water?",
+      "answer": "the light"
+    },
+    {
+      "question": "What is made of water?",
+      "answer": "keyboard"
+    },
+    {
+      "question": "A keyboard made of water, the water is made of what?",
+      "answer": "light"
+    }
+  ],
+  "A storefront with 'NeurIPS' written on it.": [
+    {
+      "question": "What is 'NeurIPS' written on?",
+      "answer": "storefront"
+    },
+    {
+      "question": "What is written on a storefront?",
+      "answer": "NeurIPS"
+    }
+  ],
+  "A photo of a confused grizzly bear in calculus class.": [
+    {
+      "question": "In what class is a confused grizzly bear?",
+      "answer": "calculus class"
+    },
+    {
+      "question": "What class is a grizzly bear in?",
+      "answer": "calculus"
+    },
+    {
+      "question": "What kind of bear is pictured in calculus class?",
+      "answer": "grizzly"
+    },
+    {
+      "question": "What is a photo of in calculus class?",
+      "answer": "a confused grizzly bear"
+    }
+  ],
+  "A black colored dog.": [
+    {
+      "question": "What is a dog?",
+      "answer": "A black colored dog"
+    }
+  ],
+  "A stop sign on the right of a refrigerator.": [
+    {
+      "question": "What is on the right of a refrigerator?",
+      "answer": "A stop sign"
+    },
+    {
+      "question": "On what side of a refrigerator is there a stop sign?",
+      "answer": "the right"
+    },
+    {
+      "question": "What is a stop sign on the right of?",
+      "answer": "refrigerator"
+    },
+    {
+      "question": "What is a sign on the right of a refrigerator?",
+      "answer": "stop"
+    }
+  ],
+  "An elephant under the sea.": [
+    {
+      "question": "What is an elephant under?",
+      "answer": "sea"
+    },
+    {
+      "question": "What animal is under the sea?",
+      "answer": "elephant"
+    },
+    {
+      "question": "What is under the sea?",
+      "answer": "An elephant"
+    },
+    {
+      "question": "Where is an elephant?",
+      "answer": "the sea"
+    }
+  ],
+  "A brown bird and a blue bear.": [
+    {
+      "question": "Along with a brown bird, what other animal is seen in the area?",
+      "answer": "bear"
+    },
+    {
+      "question": "What color is the bear?",
+      "answer": "blue"
+    },
+    {
+      "question": "Along with a blue bear, what is a common animal?",
+      "answer": "bird"
+    },
+    {
+      "question": "Along with a brown bird, what other animal is present?",
+      "answer": "a blue bear"
+    },
+    {
+      "question": "Along with a blue bear, what is a common bird?",
+      "answer": "A brown bird"
+    },
+    {
+      "question": "What color is the bird?",
+      "answer": "brown"
+    }
+  ],
+  "A pizza on the right of a suitcase.": [
+    {
+      "question": "What side of a suitcase is a pizza on?",
+      "answer": "the right"
+    },
+    {
+      "question": "What is on the right of a suitcase?",
+      "answer": "pizza"
+    },
+    {
+      "question": "A pizza is on the right of what?",
+      "answer": "suitcase"
+    },
+    {
+      "question": "A pizza is on what side of a suitcase?",
+      "answer": "right"
+    }
+  ],
+  "A black colored car.": [
+    {
+      "question": "What type of car?",
+      "answer": "A black colored car"
+    }
+  ],
+  "A couch on the left of a chair.": [
+    {
+      "question": "A couch is on the left of what?",
+      "answer": "a chair"
+    },
+    {
+      "question": "What is on the left of a chair?",
+      "answer": "couch"
+    },
+    {
+      "question": "A couch is on what side of a chair?",
+      "answer": "left"
+    }
+  ],
+  "An illustration of a small green elephant standing behind a large red mouse.": [
+    {
+      "question": "An illustration of a small green elephant standing behind what?",
+      "answer": "a large red mouse"
+    },
+    {
+      "question": "What size is the red mouse?",
+      "answer": "large"
+    },
+    {
+      "question": "What color is the elephant in the illustration?",
+      "answer": "green"
+    },
+    {
+      "question": "What is an illustration of standing behind a large red mouse?",
+      "answer": "a small green elephant"
+    },
+    {
+      "question": "What type of animal is shown in the illustration?",
+      "answer": "elephant"
+    },
+    {
+      "question": "A small green elephant stands behind what large animal?",
+      "answer": "mouse"
+    },
+    {
+      "question": "What color is the mouse in the illustration?",
+      "answer": "red"
+    }
+  ],
+  "A 1960s yearbook photo with animals dressed as humans.": [
+    {
+      "question": "What were the animals dressed as in the 1960s yearbook photo?",
+      "answer": "humans"
+    },
+    {
+      "question": "What is a photo of animals dressed as humans?",
+      "answer": "A 1960s yearbook photo"
+    },
+    {
+      "question": "What type of photo was taken in the 1960s?",
+      "answer": "yearbook"
+    },
+    {
+      "question": "In what decade were the animals in the yearbook photo taken?",
+      "answer": "1960s"
+    },
+    {
+      "question": "What was the subject of the photo?",
+      "answer": "animals"
+    }
+  ],
+  "An emoji of a baby panda wearing a red hat, blue gloves, green shirt, and blue pants.": [
+    {
+      "question": "Along with a red hat, green shirt, and blue pants, what is the color of the baby panda wearing?",
+      "answer": "blue gloves"
+    },
+    {
+      "question": "What color shirt is the baby panda wearing?",
+      "answer": "green"
+    },
+    {
+      "question": "What color are the pants of the baby panda?",
+      "answer": "blue"
+    },
+    {
+      "question": "Along with a hat, gloves, and pants, what is a baby panda wearing?",
+      "answer": "shirt"
+    },
+    {
+      "question": "What is the emoji of a baby panda wearing?",
+      "answer": "hat"
+    },
+    {
+      "question": "What type of panda is an emoji of?",
+      "answer": "baby"
+    },
+    {
+      "question": "What is an emoji of?",
+      "answer": "a baby panda"
+    },
+    {
+      "question": "What color is the hat of a baby panda?",
+      "answer": "red"
+    },
+    {
+      "question": "What is the color of the baby panda's pants?",
+      "answer": "blue pants"
+    },
+    {
+      "question": "What animal is an emoji of?",
+      "answer": "panda"
+    }
+  ],
+  "Five dogs on the street.": [
+    {
+      "question": "Where are five dogs?",
+      "answer": "the street"
+    }
+  ],
+  "New York Skyline with 'NeurIPS' written with fireworks on the sky.": [
+    {
+      "question": "What city's skyline has 'NeurIPS' written on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is on the New York skyline?",
+      "answer": "fireworks"
+    },
+    {
+      "question": "What is the name of the skyline of New York?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with 'NeurIPS' written on it?",
+      "answer": "New York Skyline"
+    },
+    {
+      "question": "What is the name of the fireworks on the New York skyline?",
+      "answer": "NeurIPS"
+    },
+    {
+      "question": "On what part of the New York skyline is 'NeurIPS' written?",
+      "answer": "sky"
+    }
+  ],
+  "An emoji of a baby panda wearing a red hat, green gloves, red shirt, and green pants.": [
+    {
+      "question": "What animal is an emoji of?",
+      "answer": "panda"
+    },
+    {
+      "question": "What color are the pants of the baby panda?",
+      "answer": "green"
+    },
+    {
+      "question": "Along with a red hat, green gloves, and red shirt, what is a baby panda wearing?",
+      "answer": "pants"
+    },
+    {
+      "question": "What is the emoji of a baby panda wearing?",
+      "answer": "hat"
+    },
+    {
+      "question": "Along with a red hat, green gloves, and green pants, what is a panda wearing?",
+      "answer": "shirt"
+    },
+    {
+      "question": "What type of panda is an emoji of?",
+      "answer": "baby"
+    },
+    {
+      "question": "What is an emoji of?",
+      "answer": "a baby panda"
+    },
+    {
+      "question": "What is the color of the baby panda's hat?",
+      "answer": "red shirt"
+    },
+    {
+      "question": "What color hat is the baby panda wearing?",
+      "answer": "red"
+    },
+    {
+      "question": "Along with a red hat, red shirt, and green pants, what is an emoji of a panda wearing?",
+      "answer": "green gloves"
+    },
+    {
+      "question": "Along with a red hat, red shirt, and green pants, what is a baby panda wearing?",
+      "answer": "gloves"
+    }
+  ],
+  "A bird scaring a scarecrow.": [
+    {
+      "question": "What does a bird scare?",
+      "answer": "a scarecrow"
+    },
+    {
+      "question": "What type of animal scares a scarecrow?",
+      "answer": "bird"
+    },
+    {
+      "question": "What is scaring a scarecrow?",
+      "answer": "A bird"
+    }
+  ],
+  "A banana on the left of an apple.": [
+    {
+      "question": "What is on the left of an apple?",
+      "answer": "banana"
+    },
+    {
+      "question": "A banana is on the left of what?",
+      "answer": "an apple"
+    },
+    {
+      "question": "On what side of an apple is a banana?",
+      "answer": "left"
+    }
+  ],
+  "A cat on the right of a tennis racket.": [
+    {
+      "question": "What side of a tennis racket is a cat on?",
+      "answer": "the right"
+    },
+    {
+      "question": "A cat is on the right of what type of racket?",
+      "answer": "tennis"
+    },
+    {
+      "question": "What is on the right of a tennis racket?",
+      "answer": "cat"
+    },
+    {
+      "question": "A cat is on the right of what?",
+      "answer": "a tennis racket"
+    }
+  ],
+  "A tomato has been put on top of a pumpkin on a kitchen stool. There is a fork sticking into the pumpkin. The scene is viewed from above.": [
+    {
+      "question": "On what side of the pumpkin is a tomato placed?",
+      "answer": "top"
+    },
+    {
+      "question": "A tomato is put on top of what?",
+      "answer": "a pumpkin"
+    },
+    {
+      "question": "What is on top of a pumpkin on a kitchen stool?",
+      "answer": "tomato"
+    },
+    {
+      "question": "What is sticking into the pumpkin?",
+      "answer": "a fork"
+    },
+    {
+      "question": "What is put on top of a pumpkin on a kitchen stool?",
+      "answer": "A tomato"
+    },
+    {
+      "question": "Where is the tomato placed on top of a pumpkin?",
+      "answer": "a kitchen stool"
+    },
+    {
+      "question": "What is a fork sticking into?",
+      "answer": "the pumpkin"
+    },
+    {
+      "question": "On what piece of furniture is a tomato placed on top of the pumpkin?",
+      "answer": "stool"
+    },
+    {
+      "question": "In what room is a fork sticking into the pumpkin?",
+      "answer": "kitchen"
+    }
+  ],
+  "A car playing soccer, digital art.": [
+    {
+      "question": "What is a car playing soccer?",
+      "answer": "digital art"
+    },
+    {
+      "question": "What kind of art is a car playing soccer?",
+      "answer": "digital"
+    },
+    {
+      "question": "What game does a car play?",
+      "answer": "soccer"
+    },
+    {
+      "question": "What type of vehicle is used to play soccer?",
+      "answer": "car"
+    },
+    {
+      "question": "What is an example of digital art?",
+      "answer": "A car playing soccer"
+    }
+  ],
+  "A couple of glasses are sitting on a table.": [
+    {
+      "question": "On what is a couple of glasses sitting?",
+      "answer": "table"
+    },
+    {
+      "question": "Where are glasses sitting?",
+      "answer": "a table"
+    },
+    {
+      "question": "How many glasses are sitting on a table?",
+      "answer": "couple"
+    },
+    {
+      "question": "A couple of what are sitting on a table?",
+      "answer": "glasses"
+    }
+  ],
+  "A storefront with 'Text to Image' written on it.": [
+    {
+      "question": "What is 'Text to Image' written on?",
+      "answer": "storefront"
+    }
+  ],
+  "A shark in the desert.": [
+    {
+      "question": "Where is a shark found?",
+      "answer": "the desert"
+    },
+    {
+      "question": "What kind of animal is found in the desert?",
+      "answer": "shark"
+    }
+  ],
+  "An elephant is behind a tree. You can see the trunk on one side and the back legs on the other.": [
+    {
+      "question": "What can you see on one side of an elephant?",
+      "answer": "the trunk"
+    },
+    {
+      "question": "What is behind a tree?",
+      "answer": "An elephant"
+    },
+    {
+      "question": "On which side can you see the trunk of an elephant?",
+      "answer": "one side"
+    },
+    {
+      "question": "What part of an elephant's back is visible on the other side?",
+      "answer": "legs"
+    },
+    {
+      "question": "What is an elephant behind?",
+      "answer": "a tree"
+    },
+    {
+      "question": "What part of an elephant is visible on the other side?",
+      "answer": "the back legs"
+    },
+    {
+      "question": "What part of an elephant is visible on one side?",
+      "answer": "trunk"
+    },
+    {
+      "question": "What animal is behind a tree?",
+      "answer": "elephant"
+    }
+  ],
+  "An old photograph of a 1920s airship shaped like a pig, floating over a wheat field.": [
+    {
+      "question": "What was the shape of the airship?",
+      "answer": "pig"
+    },
+    {
+      "question": "What type of field was the airship floating over?",
+      "answer": "wheat"
+    },
+    {
+      "question": "What was the image of the airship floating over?",
+      "answer": "a wheat field"
+    },
+    {
+      "question": "What type of ship was a pig in the 1920s?",
+      "answer": "airship"
+    },
+    {
+      "question": "An old photograph of what was floating over a wheat field?",
+      "answer": "a 1920s airship"
+    },
+    {
+      "question": "In what decade was the airship pictured?",
+      "answer": "1920s"
+    }
+  ],
+  "New York Skyline with 'Deep Learning' written with fireworks on the sky.": [
+    {
+      "question": "What city has 'Deep Learning' written on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is on the New York skyline?",
+      "answer": "fireworks"
+    },
+    {
+      "question": "What is the name of the skyline of New York?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with 'Deep Learning' written on it?",
+      "answer": "New York Skyline"
+    }
+  ],
+  "A screenshot of an iOS app for ordering different types of milk.": [
+    {
+      "question": "What is a screenshot of?",
+      "answer": "app"
+    },
+    {
+      "question": "What operating system is used to order milk?",
+      "answer": "iOS"
+    },
+    {
+      "question": "What is an example of an iOS app for ordering different types of milk?",
+      "answer": "screenshot"
+    },
+    {
+      "question": "A screenshot of an iOS app for ordering what kind of milk?",
+      "answer": "different types"
+    },
+    {
+      "question": "What is the name of the app that allows you to order different types of what?",
+      "answer": "milk"
+    }
+  ],
+  "A blue bird and a brown bear.": [
+    {
+      "question": "Along with a blue bird, what other animal is present in the area?",
+      "answer": "bear"
+    },
+    {
+      "question": "What color is the bird?",
+      "answer": "blue"
+    },
+    {
+      "question": "Along with a brown bear, what is a common bird?",
+      "answer": "A blue bird"
+    },
+    {
+      "question": "Along with a brown bear, what type of animal is a blue bear?",
+      "answer": "bird"
+    },
+    {
+      "question": "Along with a blue bird, what other animal is present in the park?",
+      "answer": "a brown bear"
+    },
+    {
+      "question": "What color is the bear?",
+      "answer": "brown"
+    }
+  ],
+  "A green cup and a blue cell phone.": [
+    {
+      "question": "Along with a blue cell phone, what else is in a green color?",
+      "answer": "cup"
+    },
+    {
+      "question": "What color is the cup?",
+      "answer": "green"
+    },
+    {
+      "question": "Along with a blue cell phone, what else is used?",
+      "answer": "A green cup"
+    },
+    {
+      "question": "What color is a cell phone?",
+      "answer": "blue"
+    },
+    {
+      "question": "A green cup and what else?",
+      "answer": "a blue cell phone"
+    }
+  ],
+  "Peristeronic.": [
+    {
+      "question": "Does this image show Peristeronic?",
+      "answer": "yes"
+    }
+  ],
+  "A black colored banana.": [
+    {
+      "question": "Does this image show A black colored banana?",
+      "answer": "yes"
+    }
+  ],
+  "A brown colored giraffe.": [
+    {
+      "question": "What animal is brown in color?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What is the color of the giraffe?",
+      "answer": "A brown colored giraffe"
+    }
+  ],
+  "An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with no umbrellas.": [
+    {
+      "question": "What type of clothing are the couple wearing when they go home?",
+      "answer": "formal evening wear"
+    },
+    {
+      "question": "Where do the couple go when they get caught in a downpour?",
+      "answer": "home"
+    },
+    {
+      "question": "What type of painting depicts a couple in formal evening wear going home?",
+      "answer": "oil"
+    },
+    {
+      "question": "What is the subject of the painting?",
+      "answer": "couple"
+    },
+    {
+      "question": "What type of evening wear did the couple wear when they went home?",
+      "answer": "formal"
+    },
+    {
+      "question": "In what season of the day is the painting of a couple in formal wear?",
+      "answer": "evening"
+    },
+    {
+      "question": "What kind of downpour causes the painting of a couple to get caught in?",
+      "answer": "heavy"
+    },
+    {
+      "question": "What type of weather did the painting of a couple get caught in?",
+      "answer": "downpour"
+    },
+    {
+      "question": "What type of painting depicts a couple in formal evening wear going home with no umbrellas?",
+      "answer": "An oil painting"
+    }
+  ],
+  "A fluffy baby sloth with a knitted hat trying to figure out a laptop, close up, highly detailed, studio lighting, screen reflecting in its eyes.": [
+    {
+      "question": "What is the sloth trying to figure out?",
+      "answer": "a laptop"
+    },
+    {
+      "question": "What type of hat does the sloth wear?",
+      "answer": "knitted"
+    },
+    {
+      "question": "What part of the screen does the sloth's face reflect?",
+      "answer": "eyes"
+    },
+    {
+      "question": "What kind of sloth is trying to figure out a laptop?",
+      "answer": "A fluffy baby sloth"
+    },
+    {
+      "question": "What type of computer is the sloth trying to figure out?",
+      "answer": "laptop"
+    },
+    {
+      "question": "What part of the screen is reflected in the eyes of the sloth?",
+      "answer": "screen"
+    },
+    {
+      "question": "What is a sloth wearing when trying to figure out a laptop?",
+      "answer": "hat"
+    },
+    {
+      "question": "A sloth with a knitted hat is what size?",
+      "answer": "baby"
+    },
+    {
+      "question": "What kind of animal is trying to figure out a laptop?",
+      "answer": "sloth"
+    },
+    {
+      "question": "What type of lighting does the sloth use?",
+      "answer": "studio"
+    },
+    {
+      "question": "What kind of creature is a baby sloth?",
+      "answer": "fluffy"
+    },
+    {
+      "question": "What is a fluffy baby sloth wearing when trying to figure out a laptop?",
+      "answer": "a knitted hat"
+    }
+  ],
+  "A storefront with 'Hello World' written on it.": [
+    {
+      "question": "What is 'Hello World' written on?",
+      "answer": "A storefront"
+    },
+    {
+      "question": "What is written on a storefront?",
+      "answer": "Hello World"
+    },
+    {
+      "question": "What word is written on a storefront?",
+      "answer": "Hello"
+    }
+  ],
+  "A stack of 3 cubes. A red cube is on the top, sitting on a red cube. The red cube is in the middle, sitting on a green cube. The green cube is on the bottom.": [
+    {
+      "question": "What is on the top of the cube?",
+      "answer": "A red cube"
+    },
+    {
+      "question": "A stack of 3 what?",
+      "answer": "cubes"
+    },
+    {
+      "question": "What is on the top of the stack?",
+      "answer": "cube"
+    },
+    {
+      "question": "What color is the cube on the bottom?",
+      "answer": "green"
+    },
+    {
+      "question": "Which cube is on the bottom?",
+      "answer": "The green cube"
+    },
+    {
+      "question": "Where is the green cube in the stack?",
+      "answer": "the bottom"
+    },
+    {
+      "question": "Which cube is in the middle of the stack?",
+      "answer": "The red cube"
+    },
+    {
+      "question": "How many cubes are in a stack?",
+      "answer": "3 cubes"
+    },
+    {
+      "question": "What color is the cube on the top?",
+      "answer": "red"
+    },
+    {
+      "question": "Where is the red cube on the cube stack?",
+      "answer": "the top"
+    }
+  ],
+  "A bridge connecting Europe and North America on the Atlantic Ocean, bird's eye view.": [
+    {
+      "question": "Where is the bridge between Europe and North America located?",
+      "answer": "the Atlantic Ocean"
+    },
+    {
+      "question": "What continent does the bridge connect Europe to?",
+      "answer": "North"
+    },
+    {
+      "question": "What ocean is the bridge connecting Europe and North America on?",
+      "answer": "Atlantic"
+    },
+    {
+      "question": "Where is the bridge located?",
+      "answer": "Ocean"
+    },
+    {
+      "question": "What continent does the bridge connect to North America?",
+      "answer": "Europe"
+    },
+    {
+      "question": "What connects Europe and North America on the Atlantic Ocean?",
+      "answer": "A bridge"
+    },
+    {
+      "question": "What type of eye view is offered by the bridge?",
+      "answer": "bird"
+    },
+    {
+      "question": "What is the bird's view of the Atlantic Ocean?",
+      "answer": "eye"
+    }
+  ],
+  "A storefront with 'Diffusion' written on it.": [
+    {
+      "question": "What word is written on a storefront?",
+      "answer": "Diffusion"
+    },
+    {
+      "question": "What is 'Diffusion' written on?",
+      "answer": "storefront"
+    }
+  ],
+  "Hovering cow abducting aliens.": [
+    {
+      "question": "Hovering what animal abducts aliens?",
+      "answer": "cow"
+    },
+    {
+      "question": "Hovering cow abducting what?",
+      "answer": "aliens"
+    }
+  ],
+  "Artophagous.": [
+    {
+      "question": "Does this image show Artophagous?",
+      "answer": "yes"
+    }
+  ],
+  "A sign that says 'Deep Learning'.": [
+    {
+      "question": "What says 'Deep Learning'?",
+      "answer": "A sign"
+    }
+  ],
+  "Greek statue of a man tripping over a cat.": [
+    {
+      "question": "What is the language of the statue of a man tripping over a cat?",
+      "answer": "Greek"
+    },
+    {
+      "question": "Who is depicted tripping over a cat?",
+      "answer": "man"
+    },
+    {
+      "question": "What animal was the statue of a man tripping over?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is the Greek statue of a man tripping over?",
+      "answer": "a cat"
+    }
+  ],
+  "A green colored banana.": [
+    {
+      "question": "What is a banana?",
+      "answer": "A green colored banana"
+    }
+  ],
+  "A black apple and a green backpack.": [
+    {
+      "question": "What color is the backpack?",
+      "answer": "green"
+    },
+    {
+      "question": "What color is an apple?",
+      "answer": "black"
+    },
+    {
+      "question": "A black apple and what else?",
+      "answer": "a green backpack"
+    },
+    {
+      "question": "Along with a green backpack, what type of fruit is used?",
+      "answer": "apple"
+    },
+    {
+      "question": "Along with a black apple, what else is used?",
+      "answer": "backpack"
+    }
+  ],
+  "Darth Vader playing with raccoon in Mars during sunset.": [
+    {
+      "question": "What animal does Darth Vader play with on Mars?",
+      "answer": "raccoon"
+    },
+    {
+      "question": "On what planet is Darth Vader playing with a raccoon?",
+      "answer": "Mars"
+    },
+    {
+      "question": "What time of day is Darth Vader on Mars?",
+      "answer": "sunset"
+    },
+    {
+      "question": "Who played with a raccoon on Mars?",
+      "answer": "Darth"
+    }
+  ],
+  "A cross-section view of a brain.": [
+    {
+      "question": "What is a cross-section view of?",
+      "answer": "brain"
+    },
+    {
+      "question": "What is a brain view?",
+      "answer": "A cross-section view"
+    }
+  ],
+  "New York Skyline with 'Diffusion' written with fireworks on the sky.": [
+    {
+      "question": "What city has a skyline with fireworks on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is on the New York skyline?",
+      "answer": "fireworks"
+    },
+    {
+      "question": "What is the name of the skyline of New York?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with fireworks on it?",
+      "answer": "New York Skyline"
+    },
+    {
+      "question": "What part of the New York skyline is 'Diffusion' written on?",
+      "answer": "sky"
+    },
+    {
+      "question": "What is the name of the fireworks on the New York skyline?",
+      "answer": "Diffusion"
+    }
+  ],
+  "A donkey and an octopus are playing a game. The donkey is holding a rope on one end, the octopus is holding onto the other. The donkey holds the rope in its mouth. A cat is jumping over the rope.": [
+    {
+      "question": "What animal is playing a game with an octopus?",
+      "answer": "A donkey"
+    },
+    {
+      "question": "What animal is playing with an octopus?",
+      "answer": "donkey"
+    },
+    {
+      "question": "Who is jumping over the rope?",
+      "answer": "cat"
+    },
+    {
+      "question": "Where does the donkey hold the rope?",
+      "answer": "its mouth"
+    },
+    {
+      "question": "A donkey and what other animal are playing a game with?",
+      "answer": "octopus"
+    },
+    {
+      "question": "What is the donkey holding on one end of the game?",
+      "answer": "a rope"
+    },
+    {
+      "question": "A donkey and an octopus are playing what?",
+      "answer": "game"
+    },
+    {
+      "question": "What is the donkey holding on one end?",
+      "answer": "rope"
+    },
+    {
+      "question": "On which end of the rope is the donkey holding the rope?",
+      "answer": "one end"
+    },
+    {
+      "question": "Who is holding a rope on one end?",
+      "answer": "The donkey"
+    },
+    {
+      "question": "A donkey and what other animal are playing a game?",
+      "answer": "an octopus"
+    },
+    {
+      "question": "What are a donkey and an octopus playing?",
+      "answer": "a game"
+    }
+  ],
+  "Octothorpe.": [
+    {
+      "question": "Does this image show Octothorpe?",
+      "answer": "yes"
+    }
+  ],
+  "Backlotter.": [
+    {
+      "question": "Does this image show Backlotter?",
+      "answer": "yes"
+    }
+  ],
+  "A stack of 3 plates. A blue plate is on the top, sitting on a blue plate. The blue plate is in the middle, sitting on a green plate. The green plate is on the bottom.": [
+    {
+      "question": "What color plate is on the bottom?",
+      "answer": "green"
+    },
+    {
+      "question": "What color plate is on the top of the stack?",
+      "answer": "blue"
+    },
+    {
+      "question": "Which plate is on the top of the stack?",
+      "answer": "The blue plate"
+    },
+    {
+      "question": "Which plate is on the bottom of the stack?",
+      "answer": "The green plate"
+    },
+    {
+      "question": "Where is the green plate on the stack?",
+      "answer": "the bottom"
+    },
+    {
+      "question": "How many plates are in a stack?",
+      "answer": "3 plates"
+    },
+    {
+      "question": "Where is the blue plate on the stack?",
+      "answer": "the top"
+    }
+  ],
+  "A sign that says 'Google Research Pizza Cafe'.": [
+    {
+      "question": "What does Google Research Pizza Cafe have?",
+      "answer": "A sign"
+    },
+    {
+      "question": "What is the name of the restaurant on the sign?",
+      "answer": "Google Research Pizza Cafe"
+    },
+    {
+      "question": "What is the name of the Google Research Pizza?",
+      "answer": "Cafe"
+    },
+    {
+      "question": "What does Google Research Pizza Cafe have on it?",
+      "answer": "sign"
+    }
+  ],
+  "An illustration of a large red elephant sitting on a small blue mouse.": [
+    {
+      "question": "An illustration of a large red elephant sitting on what?",
+      "answer": "a small blue mouse"
+    },
+    {
+      "question": "What is an illustration of sitting on a small blue mouse?",
+      "answer": "a large red elephant"
+    },
+    {
+      "question": "What color is the mouse?",
+      "answer": "blue"
+    },
+    {
+      "question": "What type of animal is depicted sitting on a mouse?",
+      "answer": "elephant"
+    },
+    {
+      "question": "On what animal is a large red elephant sitting?",
+      "answer": "mouse"
+    },
+    {
+      "question": "What color is the elephant?",
+      "answer": "red"
+    }
+  ],
+  "Three cars on the street.": [
+    {
+      "question": "Does this image show Three cars on the street?",
+      "answer": "yes"
+    }
+  ],
+  "Photo of a mega Lego space station inside a kid's bedroom.": [
+    {
+      "question": "What is inside a kid's bedroom?",
+      "answer": "a mega Lego space station"
+    },
+    {
+      "question": "What size is the Lego space station in a kid's bedroom?",
+      "answer": "mega"
+    },
+    {
+      "question": "Where is the mega Lego space station located?",
+      "answer": "bedroom"
+    },
+    {
+      "question": "What type of space station is in a kid's bedroom?",
+      "answer": "Lego"
+    },
+    {
+      "question": "Where is a mega Lego space station located?",
+      "answer": "a kid's bedroom"
+    }
+  ],
+  "A triangular purple flower pot. A purple flower pot in the shape of a triangle.": [
+    {
+      "question": "What color is a triangular flower pot?",
+      "answer": "purple"
+    }
+  ],
+  "Matutinal.": [
+    {
+      "question": "Does this image show Matutinal?",
+      "answer": "yes"
+    }
+  ],
+  "A blue colored dog.": [
+    {
+      "question": "What color is a dog?",
+      "answer": "A blue colored dog"
+    }
+  ],
+  "A sign that says 'Diffusion'.": [
+    {
+      "question": "What says 'Diffusion'?",
+      "answer": "A sign"
+    }
+  ],
+  "A grocery store refrigerator has pint cartons of milk on the top shelf, quart cartons on the middle shelf, and gallon plastic jugs on the bottom shelf.": [
+    {
+      "question": "Where are quart cartons of milk in a grocery store's refrigerator?",
+      "answer": "middle"
+    },
+    {
+      "question": "What kind of jugs are on the bottom shelf of a grocery store refrigerator?",
+      "answer": "plastic"
+    },
+    {
+      "question": "What type of cartons of milk are on the top shelf of a grocery store refrigerator?",
+      "answer": "pint cartons"
+    },
+    {
+      "question": "What type of refrigerator has pint cartons of milk on the top shelf?",
+      "answer": "store"
+    },
+    {
+      "question": "Where are gallon plastic jugs located in a grocery store refrigerator?",
+      "answer": "the bottom shelf"
+    },
+    {
+      "question": "What type of container is on the bottom shelf of a grocery store refrigerator?",
+      "answer": "jugs"
+    },
+    {
+      "question": "What type of store refrigerator has pint cartons of milk on the top shelf?",
+      "answer": "grocery"
+    },
+    {
+      "question": "Where are pint cartons of milk stored in a grocery store refrigerator?",
+      "answer": "shelf"
+    },
+    {
+      "question": "How many plastic jugs are on the bottom shelf of a grocery store refrigerator?",
+      "answer": "gallon"
+    },
+    {
+      "question": "How many cartons of milk are on the middle shelf of a grocery store refrigerator?",
+      "answer": "quart"
+    },
+    {
+      "question": "What type of appliance has pint cartons of milk on the top shelf?",
+      "answer": "refrigerator"
+    },
+    {
+      "question": "What type of milk is on the top shelf of a grocery store refrigerator?",
+      "answer": "cartons"
+    },
+    {
+      "question": "What type of cartons are on the middle shelf of a grocery store refrigerator?",
+      "answer": ", quart cartons"
+    },
+    {
+      "question": "What is on the bottom shelf of a grocery store refrigerator?",
+      "answer": "gallon plastic jugs"
+    },
+    {
+      "question": "How many cartons of milk are on the top shelf of a grocery store refrigerator?",
+      "answer": "pint"
+    },
+    {
+      "question": "What is on the top shelf of a grocery store refrigerator?",
+      "answer": "milk"
+    }
+  ],
+  "A maglev train going vertically downward in high speed, New York Times photojournalism.": [
+    {
+      "question": "What type of vehicle is a maglev?",
+      "answer": "train"
+    },
+    {
+      "question": "What type of train goes vertically downward in high speed?",
+      "answer": "A maglev train"
+    },
+    {
+      "question": "What kind of speed is the maglev train traveling?",
+      "answer": "high speed"
+    },
+    {
+      "question": "How fast is the maglev train?",
+      "answer": "high"
+    },
+    {
+      "question": "What is the name of the publication that features a maglev train?",
+      "answer": "New York Times photojournalism"
+    },
+    {
+      "question": "What is the speed of a maglev train?",
+      "answer": "speed"
+    },
+    {
+      "question": "What type of journalism is the New York Times known for?",
+      "answer": "photojournalism"
+    },
+    {
+      "question": "What is the name of the New York photojournalist?",
+      "answer": "Times"
+    }
+  ],
+  "A baby fennec sneezing onto a strawberry, detailed, macro, studio light, droplets, backlit ears.": [
+    {
+      "question": "A baby fennec sneezing onto what?",
+      "answer": "a strawberry"
+    },
+    {
+      "question": "Who sneezes on a strawberry?",
+      "answer": "A baby fennec"
+    },
+    {
+      "question": "What plant sneezes on a strawberry?",
+      "answer": "fennec"
+    },
+    {
+      "question": "What kind of detail is a fennec sneezing onto a strawberry?",
+      "answer": "detailed"
+    },
+    {
+      "question": "What kind of ears are used?",
+      "answer": "backlit"
+    },
+    {
+      "question": "What type of fennec sneezes onto a strawberry?",
+      "answer": "baby"
+    },
+    {
+      "question": "What part of the strawberry is backlit?",
+      "answer": "ears"
+    },
+    {
+      "question": "What type of light does the fennec use?",
+      "answer": "studio"
+    },
+    {
+      "question": "What kind of light is used to show a baby fennec on a strawberry?",
+      "answer": "light"
+    }
+  ],
+  "Rainbow coloured penguin.": [
+    {
+      "question": "What color is the penguin?",
+      "answer": "Rainbow"
+    }
+  ],
+  "New York Skyline with 'Hello World' written with fireworks on the sky.": [
+    {
+      "question": "What city has a skyline with fireworks on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is the name of the skyline of New York?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with fireworks on it?",
+      "answer": "New York Skyline"
+    }
+  ],
+  "A 1960s poster warning against climate change.": [
+    {
+      "question": "What was a warning about climate change in the 1960s?",
+      "answer": "poster"
+    },
+    {
+      "question": "A 1960s poster warned against what?",
+      "answer": "change"
+    },
+    {
+      "question": "In what decade was a poster created warning against climate change?",
+      "answer": "1960s"
+    }
+  ],
+  "Painting of Mona Lisa but the view is from behind of Mona Lisa.": [
+    {
+      "question": "What is from behind the Mona Lisa?",
+      "answer": "view"
+    },
+    {
+      "question": "What is from behind of Mona Lisa?",
+      "answer": "the view"
+    },
+    {
+      "question": "What is the view from behind of?",
+      "answer": "Mona Lisa"
+    }
+  ],
+  "A horse riding an astronaut.": [
+    {
+      "question": "What type of animal is riding an astronaut?",
+      "answer": "horse"
+    },
+    {
+      "question": "What is an astronaut riding?",
+      "answer": "A horse"
+    },
+    {
+      "question": "What is a horse riding?",
+      "answer": "an astronaut"
+    }
+  ],
+  "A red colored dog.": [
+    {
+      "question": "What color is a dog?",
+      "answer": "A red colored dog"
+    }
+  ],
+  "A storefront with 'Google Brain Toronto' written on it.": [
+    {
+      "question": "What is Google Brain Toronto on?",
+      "answer": "storefront"
+    },
+    {
+      "question": "What is the name of the company that has a storefront on it?",
+      "answer": "Google"
+    },
+    {
+      "question": "What is on the storefront?",
+      "answer": "Google Brain Toronto"
+    },
+    {
+      "question": "What city is Google Brain located?",
+      "answer": "Toronto"
+    },
+    {
+      "question": "What is the name of the Google storefront in Toronto?",
+      "answer": "Brain"
+    }
+  ],
+  "Illustration of a mouse using a mushroom as an umbrella.": [
+    {
+      "question": "What does a mouse use a mushroom as?",
+      "answer": "an umbrella"
+    },
+    {
+      "question": "What does a mouse use as an umbrella?",
+      "answer": "a mushroom"
+    },
+    {
+      "question": "What animal uses a mushroom as an umbrella?",
+      "answer": "mouse"
+    }
+  ],
+  "One cat and two dogs sitting on the grass.": [
+    {
+      "question": "How many dogs are on the grass?",
+      "answer": "two dogs"
+    },
+    {
+      "question": "What kind of animal is on the grass?",
+      "answer": "cat"
+    },
+    {
+      "question": "What do cats and dogs sit on?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "How many cats are on the lawn?",
+      "answer": "One cat"
+    }
+  ],
+  "A pizza cooking an oven.": [
+    {
+      "question": "What is cooking in an oven?",
+      "answer": "pizza"
+    },
+    {
+      "question": "What is cooking an oven?",
+      "answer": "A pizza"
+    },
+    {
+      "question": "What is a pizza cooking?",
+      "answer": "an oven"
+    }
+  ],
+  "An umbrella on top of a spoon.": [
+    {
+      "question": "What part of a spoon is an umbrella on?",
+      "answer": "top"
+    },
+    {
+      "question": "What is an umbrella on top of?",
+      "answer": "a spoon"
+    },
+    {
+      "question": "What is on top of a spoon?",
+      "answer": "An umbrella"
+    }
+  ],
+  "A red colored banana.": [
+    {
+      "question": "What color is a banana?",
+      "answer": "colored"
+    },
+    {
+      "question": "What is the color of a banana?",
+      "answer": "A red colored banana"
+    }
+  ],
+  "New York Skyline with 'Google Research Pizza Cafe' written with fireworks on the sky.": [
+    {
+      "question": "What city's skyline has a Google Research Pizza Cafe?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is on the skyline of Google Research Pizza Cafe?",
+      "answer": "fireworks"
+    },
+    {
+      "question": "Google Research Pizza Cafe is located in what city?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with Google Research Pizza Cafe?",
+      "answer": "New York Skyline"
+    },
+    {
+      "question": "What search engine has a pizza restaurant on the New York skyline?",
+      "answer": "Google"
+    },
+    {
+      "question": "What is the name of the restaurant on the New York skyline?",
+      "answer": "Google Research Pizza Cafe"
+    },
+    {
+      "question": "What is Google Research Pizza?",
+      "answer": "Cafe"
+    },
+    {
+      "question": "What type of food is on the New York skyline?",
+      "answer": "Pizza"
+    }
+  ],
+  "Four dogs on the street.": [
+    {
+      "question": "Where are four dogs?",
+      "answer": "the street"
+    }
+  ],
+  "A train on top of a surfboard.": [
+    {
+      "question": "A train is on what side of a surfboard?",
+      "answer": "top"
+    },
+    {
+      "question": "What is on top of a surfboard?",
+      "answer": "A train"
+    },
+    {
+      "question": "A train is on top of what?",
+      "answer": "surfboard"
+    }
+  ],
+  "A white colored sandwich.": [
+    {
+      "question": "Does this image show A white colored sandwich?",
+      "answer": "yes"
+    }
+  ],
+  "New York Skyline with 'Text to Image' written with fireworks on the sky.": [
+    {
+      "question": "What city's skyline has fireworks on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline of New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is written with fireworks on the New York skyline?",
+      "answer": "Text"
+    },
+    {
+      "question": "What is the name of the skyline of New York City?",
+      "answer": "New"
+    },
+    {
+      "question": "What is the name of the skyline with fireworks on it?",
+      "answer": "New York Skyline"
+    },
+    {
+      "question": "What is the name of the text on the New York skyline?",
+      "answer": "Image"
+    }
+  ],
+  "A donut underneath a toilet.": [
+    {
+      "question": "What is underneath a toilet?",
+      "answer": "donut"
+    },
+    {
+      "question": "What is a donut underneath?",
+      "answer": "a toilet"
+    }
+  ],
+  "A red car and a white sheep.": [
+    {
+      "question": "A red car and what else?",
+      "answer": "a white sheep"
+    },
+    {
+      "question": "Along with a white sheep, what type of vehicle is in red?",
+      "answer": "car"
+    },
+    {
+      "question": "What color is the sheep?",
+      "answer": "white"
+    },
+    {
+      "question": "Along with a white sheep, what else is in the mix?",
+      "answer": "A red car"
+    },
+    {
+      "question": "What color is the car?",
+      "answer": "red"
+    }
+  ],
+  "A small blue book sitting on a large red book.": [
+    {
+      "question": "What is sitting on a large red book?",
+      "answer": "book"
+    },
+    {
+      "question": "A small blue book sitting on what color book?",
+      "answer": "red"
+    },
+    {
+      "question": "What is a small blue book sitting on?",
+      "answer": "a large red book"
+    }
+  ],
+  "A cube made of denim. A cube with the texture of denim.": [
+    {
+      "question": "What is made of denim?",
+      "answer": "cube"
+    },
+    {
+      "question": "What is a cube made of?",
+      "answer": "denim"
+    }
+  ],
+  "One cat and three dogs sitting on the grass.": [
+    {
+      "question": "What do cats and dogs sit on?",
+      "answer": "the grass"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "three dogs"
+    },
+    {
+      "question": "What kind of surface are cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "How many cats are on the lawn?",
+      "answer": "One cat"
+    }
+  ],
+  "A cube made of brick. A cube with the texture of brick.": [
+    {
+      "question": "What is made of brick?",
+      "answer": "cube"
+    },
+    {
+      "question": "What is a cube made of?",
+      "answer": "brick"
+    }
+  ],
+  "A spider with a moustache bidding an equally gentlemanly grasshopper a good day during his walk to work.": [
+    {
+      "question": "What did the spider do to work?",
+      "answer": "walk"
+    },
+    {
+      "question": "What is a gentlemanly grasshopper bidding him a good day?",
+      "answer": "A spider"
+    },
+    {
+      "question": "What is a spider wearing on his walk to work?",
+      "answer": "a moustache"
+    },
+    {
+      "question": "What kind of costume does a spider wear?",
+      "answer": "moustache"
+    },
+    {
+      "question": "A spider with a moustache is bidding what kind of bird a good day?",
+      "answer": "grasshopper"
+    },
+    {
+      "question": "What kind of animal is a gentlemanly grasshopper?",
+      "answer": "spider"
+    },
+    {
+      "question": "A spider with a moustache bidding an equally gentlemanly grasshopper a good what?",
+      "answer": "day"
+    },
+    {
+      "question": "A spider with a moustache bidding an equally gentlemanly grasshopper a good day during his walk to what?",
+      "answer": "work"
+    },
+    {
+      "question": "A spider with a moustache bidding an equally gentlemanly grasshopper a what day?",
+      "answer": "good"
+    }
+  ],
+  "An IT-guy trying to fix hardware of a PC tower is being tangled by the PC cables like Laokoon. Marble, copy after Hellenistic original from ca. 200 BC. Found in the Baths of Trajan, 1506.": [
+    {
+      "question": "Where was the original marble found?",
+      "answer": "Baths"
+    },
+    {
+      "question": "Where was the marble found?",
+      "answer": "Trajan"
+    },
+    {
+      "question": "When was the Marble found?",
+      "answer": "1506"
+    },
+    {
+      "question": "What type of material was found in the Baths of Trajan, 1506?",
+      "answer": "Marble"
+    },
+    {
+      "question": "Who is trying to fix hardware of a PC tower?",
+      "answer": "An IT-guy"
+    },
+    {
+      "question": "An IT-guy is trying to fix hardware of what?",
+      "answer": "a PC tower"
+    },
+    {
+      "question": "What part of a PC tower is being tangled by PC cables?",
+      "answer": "hardware"
+    },
+    {
+      "question": "What is Laokoon tangled by?",
+      "answer": "the PC cables"
+    },
+    {
+      "question": "What is the name of the IT-guy who is being tangled by PC cables?",
+      "answer": "Laokoon"
+    },
+    {
+      "question": "What part of a PC is being tangled by PC cables?",
+      "answer": "tower"
+    },
+    {
+      "question": "In what year was the original Hellenistic marble found?",
+      "answer": "200"
+    }
+  ],
+  "A bicycle on top of a boat.": [
+    {
+      "question": "What part of a boat is a bicycle on?",
+      "answer": "top"
+    },
+    {
+      "question": "What is on top of a boat?",
+      "answer": "bicycle"
+    },
+    {
+      "question": "What is a bicycle on top of?",
+      "answer": "a boat"
+    }
+  ],
+  "A storefront with 'Deep Learning' written on it.": [
+    {
+      "question": "What term is written on a storefront?",
+      "answer": "Deep Learning"
+    },
+    {
+      "question": "What is 'Deep Learning' written on?",
+      "answer": "A storefront"
+    },
+    {
+      "question": "What word is written on a storefront?",
+      "answer": "Deep"
+    }
+  ],
+  "A cat on the left of a dog.": [
+    {
+      "question": "What is on the left of a dog?",
+      "answer": "cat"
+    },
+    {
+      "question": "What side of a dog is a cat on?",
+      "answer": "left"
+    },
+    {
+      "question": "A cat is on the left of what?",
+      "answer": "a dog"
+    },
+    {
+      "question": "A cat is on the left of what animal?",
+      "answer": "dog"
+    }
+  ],
+  "A pink colored car.": [
+    {
+      "question": "Does this image show A pink colored car?",
+      "answer": "yes"
+    }
+  ],
+  "A tennis racket underneath a traffic light.": [
+    {
+      "question": "What type of racket is under a traffic light?",
+      "answer": "tennis"
+    },
+    {
+      "question": "What is underneath a traffic light?",
+      "answer": "A tennis racket"
+    },
+    {
+      "question": "What is a tennis racket underneath?",
+      "answer": "a traffic light"
+    },
+    {
+      "question": "A tennis racket is underneath what light?",
+      "answer": "traffic"
+    }
+  ],
+  "A tiger in a lab coat with a 1980s Miami vibe, turning a well oiled science content machine, digital art.": [
+    {
+      "question": "What kind of art is the tiger in a lab coat?",
+      "answer": "digital art"
+    },
+    {
+      "question": "A tiger in a lab coat turned what into digital art?",
+      "answer": "machine"
+    },
+    {
+      "question": "What kind of art did the tiger turn into?",
+      "answer": "digital"
+    },
+    {
+      "question": "What animal in a lab coat turned a well oiled machine into digital art?",
+      "answer": "A tiger"
+    },
+    {
+      "question": "What type of coat did a tiger wear in the 1980s?",
+      "answer": "lab"
+    },
+    {
+      "question": "What is the tiger wearing in the 1980s?",
+      "answer": "coat"
+    },
+    {
+      "question": "What city did the tiger live in in the 1980s?",
+      "answer": "Miami"
+    },
+    {
+      "question": "What did a tiger wear in the 1980s?",
+      "answer": "a lab coat"
+    },
+    {
+      "question": "What animal is in a lab coat?",
+      "answer": "tiger"
+    },
+    {
+      "question": "What kind of vibe is a tiger in a lab coat?",
+      "answer": "a 1980s Miami vibe"
+    },
+    {
+      "question": "What decade was the tiger in a lab coat from?",
+      "answer": "1980s"
+    }
+  ],
+  "A blue coloured pizza.": [
+    {
+      "question": "What color is a pizza?",
+      "answer": "blue"
+    }
+  ],
+  "Acersecomicke.": [
+    {
+      "question": "Does this image show Acersecomicke?",
+      "answer": "yes"
+    }
+  ],
+  "Three cats and two dogs sitting on the grass.": [
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "two dogs"
+    },
+    {
+      "question": "What do three cats and two dogs sit on?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are the cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What other animal is on the grass?",
+      "answer": "dogs"
+    },
+    {
+      "question": "What kind of animals are on the grass?",
+      "answer": "cats"
+    },
+    {
+      "question": "How many cats are on the lawn?",
+      "answer": "Three cats"
+    }
+  ],
+  "35mm macro shot a kitten licking a baby duck, studio lighting.": [
+    {
+      "question": "What is the focal length of the macro shot?",
+      "answer": "35"
+    },
+    {
+      "question": "What type of camera shot a kitten licking a baby duck?",
+      "answer": "35mm macro"
+    },
+    {
+      "question": "What type of shot was used to capture a kitten licking a duck?",
+      "answer": "macro"
+    },
+    {
+      "question": "What animal is the kitten licking?",
+      "answer": "duck"
+    },
+    {
+      "question": "What is licking a duck?",
+      "answer": "a kitten"
+    },
+    {
+      "question": "What kind of duck does a kitten lick?",
+      "answer": "baby"
+    },
+    {
+      "question": "What type of lighting did the kitten use?",
+      "answer": "studio"
+    },
+    {
+      "question": "What animal licks a duck?",
+      "answer": "kitten"
+    },
+    {
+      "question": "What is the kitten licking?",
+      "answer": "a baby duck"
+    },
+    {
+      "question": "What kind of lighting was used?",
+      "answer": "studio lighting"
+    }
+  ],
+  "A collection of nail is sitting on a table.": [
+    {
+      "question": "What is a collection of nail sitting on?",
+      "answer": "table"
+    },
+    {
+      "question": "A collection of what is sitting on a table?",
+      "answer": "nail"
+    },
+    {
+      "question": "A collection of nail is sitting on what?",
+      "answer": "a table"
+    },
+    {
+      "question": "What is sitting on a table?",
+      "answer": "collection"
+    }
+  ],
+  "Two cats and three dogs sitting on the grass.": [
+    {
+      "question": "How many cats are on the grass?",
+      "answer": "Two cats"
+    },
+    {
+      "question": "Where are two cats and three dogs sitting?",
+      "answer": "the grass"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "three dogs"
+    },
+    {
+      "question": "What kind of surface are the cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What other animal is on the grass?",
+      "answer": "dogs"
+    },
+    {
+      "question": "What kind of animals are on the grass?",
+      "answer": "cats"
+    }
+  ],
+  "An ancient Egyptian painting depicting an argument over whose turn it is to take out the trash.": [
+    {
+      "question": "An ancient Egyptian painting depicts an argument over whose turn it is to take out what?",
+      "answer": "the trash"
+    },
+    {
+      "question": "What type of painting depicts an argument over who's turn to take out the trash?",
+      "answer": "Egyptian"
+    },
+    {
+      "question": "What depicts an argument over whose turn it is to take out the trash?",
+      "answer": "An ancient Egyptian painting"
+    },
+    {
+      "question": "What is depicted in an ancient Egyptian painting?",
+      "answer": "argument"
+    },
+    {
+      "question": "What type of Egyptian painting depicts an argument over who's turn to take out the trash?",
+      "answer": "ancient"
+    },
+    {
+      "question": "What ancient Egyptian art depicts an argument over whose turn it is to take out the trash?",
+      "answer": "painting"
+    },
+    {
+      "question": "An ancient Egyptian painting depicts an argument over what?",
+      "answer": "whose turn"
+    }
+  ],
+  "In late afternoon in January in New England, a man stands in the shadow of a maple tree.": [
+    {
+      "question": "In what part of a maple tree does a New England man stand?",
+      "answer": "the shadow"
+    },
+    {
+      "question": "In what month of the year does a man stand in the shadow of a maple tree?",
+      "answer": "January"
+    },
+    {
+      "question": "What tree does a man stand in the shadow of in New England?",
+      "answer": "a maple tree"
+    },
+    {
+      "question": "Who stands in the shadow of a maple tree in New England?",
+      "answer": "man"
+    },
+    {
+      "question": "What time of day is it in January in New England?",
+      "answer": "late"
+    },
+    {
+      "question": "In what state of England does a man stand in the shadow of a maple tree?",
+      "answer": "New"
+    },
+    {
+      "question": "In what state is a man standing in the shadow of a maple tree?",
+      "answer": "New England"
+    },
+    {
+      "question": "In what time of the day in January in New England does a man stand in the shadow of a maple tree?",
+      "answer": "afternoon"
+    },
+    {
+      "question": "In what country is a man standing in the shadow of a maple tree?",
+      "answer": "England"
+    },
+    {
+      "question": "What tree does a man stand in the shadow of?",
+      "answer": "maple"
+    },
+    {
+      "question": "In New England, a man stands in the shadow of what?",
+      "answer": "tree"
+    },
+    {
+      "question": "When does a New England man stand in the shadow of a maple tree?",
+      "answer": "late afternoon"
+    }
+  ],
+  "A pear cut into seven pieces arranged in a ring.": [
+    {
+      "question": "How many pieces is a pear cut into?",
+      "answer": "seven"
+    },
+    {
+      "question": "What is cut into seven pieces and arranged in a ring?",
+      "answer": "pear"
+    },
+    {
+      "question": "What is a pear arranged in?",
+      "answer": "a ring"
+    },
+    {
+      "question": "What is a pear cut into?",
+      "answer": "pieces"
+    }
+  ],
+  "Hyper-realistic photo of an abandoned industrial site during a storm.": [
+    {
+      "question": "What was abandoned during a storm?",
+      "answer": "site"
+    },
+    {
+      "question": "What type of weather is a hyper-realistic photo of?",
+      "answer": "a storm"
+    },
+    {
+      "question": "What is a hyper-realistic photo of during a storm?",
+      "answer": "an abandoned industrial site"
+    },
+    {
+      "question": "What type of site was abandoned during a storm?",
+      "answer": "industrial"
+    },
+    {
+      "question": "What type of photo shows an abandoned industrial site?",
+      "answer": "Hyper-realistic photo"
+    },
+    {
+      "question": "What type of photo shows an abandoned industrial site during a storm?",
+      "answer": "realistic"
+    },
+    {
+      "question": "What kind of realistic photo shows an abandoned industrial site during a storm?",
+      "answer": "Hyper"
+    }
+  ],
+  "Three dogs on the street.": [
+    {
+      "question": "Where are three dogs?",
+      "answer": "the street"
+    }
+  ],
+  "A yellow book and a red vase.": [
+    {
+      "question": "Along with a yellow book, what else is in the vase?",
+      "answer": "vase"
+    },
+    {
+      "question": "Along with a red vase, what else is in the vase?",
+      "answer": "book"
+    },
+    {
+      "question": "A yellow book and what else?",
+      "answer": "a red vase"
+    },
+    {
+      "question": "What color is the book?",
+      "answer": "yellow"
+    },
+    {
+      "question": "What color is the vase?",
+      "answer": "red"
+    }
+  ],
+  "A blue cup and a green cell phone.": [
+    {
+      "question": "Along with a green cell phone, what is a blue one?",
+      "answer": "cup"
+    },
+    {
+      "question": "What color is a cell phone?",
+      "answer": "green"
+    },
+    {
+      "question": "What color is the cup?",
+      "answer": "blue"
+    }
+  ],
+  "Photo of a cat singing in a barbershop quartet.": [
+    {
+      "question": "What type of animal sings in a barbershop quartet?",
+      "answer": "cat"
+    },
+    {
+      "question": "What type of barbershop is a cat singing in?",
+      "answer": "quartet"
+    },
+    {
+      "question": "Where does a cat sing?",
+      "answer": "a barbershop quartet"
+    },
+    {
+      "question": "Where is the photo of a cat singing?",
+      "answer": "barbershop"
+    },
+    {
+      "question": "What animal sings in a barbershop quartet?",
+      "answer": "a cat"
+    }
+  ],
+  "Colouring page of large cats climbing the eifel tower in a cyberpunk future.": [
+    {
+      "question": "Where are cats climbing the eifel tower?",
+      "answer": "a cyberpunk future"
+    },
+    {
+      "question": "What size are the cats on the eifel tower?",
+      "answer": "large"
+    },
+    {
+      "question": "What kind of cat is climbing the eifel tower?",
+      "answer": "large cats"
+    },
+    {
+      "question": "What type of animals are depicted climbing the eifel tower?",
+      "answer": "cats"
+    },
+    {
+      "question": "What is the name of the tower in cyberpunk?",
+      "answer": "eifel"
+    },
+    {
+      "question": "What do large cats climb in cyberpunk?",
+      "answer": "the eifel tower"
+    },
+    {
+      "question": "What type of future is the eifel tower?",
+      "answer": "cyberpunk"
+    }
+  ],
+  "A red colored car.": [
+    {
+      "question": "What color is a car?",
+      "answer": "colored"
+    },
+    {
+      "question": "What is the color of a car?",
+      "answer": "A red colored car"
+    }
+  ],
+  "Lego Arnold Schwarzenegger.": [
+    {
+      "question": "What is the name of the Lego character?",
+      "answer": "Arnold"
+    },
+    {
+      "question": "What is the real name of the actor?",
+      "answer": "Lego Arnold Schwarzenegger"
+    }
+  ],
+  "A carrot on the left of a broccoli.": [
+    {
+      "question": "A carrot is on the left of what?",
+      "answer": "a broccoli"
+    },
+    {
+      "question": "A carrot is on the left of what vegetable?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "What is on the left of a broccoli?",
+      "answer": "carrot"
+    },
+    {
+      "question": "On what side of a broccoli is a carrot?",
+      "answer": "left"
+    }
+  ],
+  "Photo of an athlete cat explaining it's latest scandal at a press conference to journalists.": [
+    {
+      "question": "At what event did an athlete cat explain the latest scandal?",
+      "answer": "a press conference"
+    },
+    {
+      "question": "What type of cat explained the latest scandal to journalists?",
+      "answer": "athlete"
+    },
+    {
+      "question": "What type of animal explained the latest scandal to journalists?",
+      "answer": "cat"
+    },
+    {
+      "question": "What type of conference did the cat attend?",
+      "answer": "press"
+    },
+    {
+      "question": "Who explained the latest scandal to journalists?",
+      "answer": "an athlete cat"
+    },
+    {
+      "question": "What did the cat explain at a press conference?",
+      "answer": "scandal"
+    },
+    {
+      "question": "Who did the cat explain the latest scandal to?",
+      "answer": "journalists"
+    },
+    {
+      "question": "What did an athlete cat explain at a press conference?",
+      "answer": "latest scandal"
+    },
+    {
+      "question": "At what event did the cat explain the latest scandal?",
+      "answer": "conference"
+    }
+  ],
+  "A storefront with 'Google Research Pizza Cafe' written on it.": [
+    {
+      "question": "What is Google Research Pizza Cafe?",
+      "answer": "A storefront"
+    },
+    {
+      "question": "What is Google Research Pizza Cafe on?",
+      "answer": "storefront"
+    },
+    {
+      "question": "What is on the storefront?",
+      "answer": "Google Research Pizza Cafe"
+    },
+    {
+      "question": "What is Google Research Pizza?",
+      "answer": "Cafe"
+    }
+  ],
+  "Supreme Court Justices play a baseball game with the FBI. The FBI is at bat, the justices are on the field.": [
+    {
+      "question": "What sport do Supreme Court Justices play with the FBI?",
+      "answer": "baseball"
+    },
+    {
+      "question": "Who plays baseball with the FBI?",
+      "answer": "justices"
+    },
+    {
+      "question": "Who are the Supreme Court Justices playing with?",
+      "answer": "The FBI"
+    },
+    {
+      "question": "What do the Supreme Court Justices play with the FBI?",
+      "answer": "game"
+    },
+    {
+      "question": "Who is on the field?",
+      "answer": "the justices"
+    },
+    {
+      "question": "What do Supreme Court Justices play with the FBI?",
+      "answer": "a baseball game"
+    },
+    {
+      "question": "Which court play a baseball game with the FBI?",
+      "answer": "Supreme"
+    }
+  ],
+  "A wine glass on top of a dog.": [
+    {
+      "question": "On what side of a dog is a wine glass placed?",
+      "answer": "top"
+    },
+    {
+      "question": "What is on top of a dog?",
+      "answer": "A wine glass"
+    },
+    {
+      "question": "What type of glass is on top of a dog?",
+      "answer": "wine"
+    },
+    {
+      "question": "What is a wine glass on top of?",
+      "answer": "a dog"
+    },
+    {
+      "question": "A wine glass is on top of what animal?",
+      "answer": "dog"
+    }
+  ],
+  "Five cars on the street.": [
+    {
+      "question": "Does this image show Five cars on the street?",
+      "answer": "yes"
+    }
+  ],
+  "Three cats and three dogs sitting on the grass.": [
+    {
+      "question": "Where are three cats and three dogs sitting?",
+      "answer": "the grass"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "three dogs"
+    },
+    {
+      "question": "What kind of surface do cats and dogs sit on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What other animal is on the grass?",
+      "answer": "dogs"
+    },
+    {
+      "question": "What kind of animals are on the grass?",
+      "answer": "cats"
+    },
+    {
+      "question": "How many cats are on the grass?",
+      "answer": "Three cats"
+    }
+  ],
+  "An orange colored sandwich.": [
+    {
+      "question": "What color is a sandwich?",
+      "answer": "orange"
+    }
+  ],
+  "Two cats and two dogs sitting on the grass.": [
+    {
+      "question": "How many cats are on the grass?",
+      "answer": "Two cats"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "two dogs"
+    },
+    {
+      "question": "What are two cats and two dogs sitting on?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are two cats and two dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What kind of animals are on the grass?",
+      "answer": "cats"
+    },
+    {
+      "question": "What other animal is on the grass?",
+      "answer": "dogs"
+    }
+  ],
+  "A black colored sandwich.": [
+    {
+      "question": "Does this image show A black colored sandwich?",
+      "answer": "yes"
+    }
+  ],
+  "A sphere made of kitchen tile. A sphere with the texture of kitchen tile.": [
+    {
+      "question": "What is made of kitchen tile?",
+      "answer": "sphere"
+    },
+    {
+      "question": "What is the texture of a sphere made of?",
+      "answer": "tile"
+    },
+    {
+      "question": "A sphere made of what type of tile is called a sphere?",
+      "answer": "kitchen"
+    }
+  ],
+  "New York Skyline with 'Google Brain Toronto' written with fireworks on the sky.": [
+    {
+      "question": "What city's skyline has fireworks on it?",
+      "answer": "York"
+    },
+    {
+      "question": "What is the name of the skyline in New York?",
+      "answer": "Skyline"
+    },
+    {
+      "question": "What is on the New York skyline?",
+      "answer": "fireworks"
+    },
+    {
+      "question": "Google Brain Toronto is located in what city?",
+      "answer": "New"
+    }
+  ],
+  "One dog on the street.": [
+    {
+      "question": "What type of animal is on the street?",
+      "answer": "dog"
+    }
+  ],
+  "A red book and a yellow vase.": [
+    {
+      "question": "Along with a yellow vase, what is in red?",
+      "answer": "book"
+    },
+    {
+      "question": "What color is the vase?",
+      "answer": "yellow"
+    },
+    {
+      "question": "What color is the book?",
+      "answer": "red"
+    },
+    {
+      "question": "A red book and what else?",
+      "answer": "a yellow vase"
+    },
+    {
+      "question": "Along with a yellow vase, what else is included in the collection?",
+      "answer": "A red book"
+    }
+  ],
+  "A triangular orange picture frame. An orange picture frame in the shape of a triangle.": [
+    {
+      "question": "What is an orange picture frame in?",
+      "answer": "the shape"
+    },
+    {
+      "question": "What color is a triangular picture frame?",
+      "answer": "orange"
+    }
+  ],
+  "Jentacular.": [
+    {
+      "question": "Does this image show Jentacular?",
+      "answer": "yes"
+    }
+  ],
+  "A yellow and black bus cruising through the rainforest.": [
+    {
+      "question": "What type of vehicle is seen cruising through the rainforest?",
+      "answer": "bus"
+    },
+    {
+      "question": "What color is the bus?",
+      "answer": "black"
+    },
+    {
+      "question": "What type of bus is cruising through the rainforest?",
+      "answer": "A yellow and black bus"
+    },
+    {
+      "question": "What color is the bus in the rainforest?",
+      "answer": "yellow"
+    },
+    {
+      "question": "A yellow and black bus is cruising through what area?",
+      "answer": "rainforest"
+    },
+    {
+      "question": "A yellow and black bus cruising through what area?",
+      "answer": "the rainforest"
+    }
+  ],
+  "A green apple and a black backpack.": [
+    {
+      "question": "What color is the backpack?",
+      "answer": "black"
+    },
+    {
+      "question": "What color is an apple?",
+      "answer": "green"
+    },
+    {
+      "question": "Along with a black backpack, what type of apple is used?",
+      "answer": "A green apple"
+    },
+    {
+      "question": "A green apple and what else?",
+      "answer": "a black backpack"
+    },
+    {
+      "question": "Along with a black backpack, what type of fruit is used?",
+      "answer": "apple"
+    },
+    {
+      "question": "Along with a green apple, what else is used?",
+      "answer": "backpack"
+    }
+  ],
+  "A sign that says 'Text to Image'.": [
+    {
+      "question": "What says 'Text to Image'?",
+      "answer": "A sign"
+    }
+  ],
+  "A pink colored giraffe.": [
+    {
+      "question": "What animal is pink in color?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What type of giraffe?",
+      "answer": "A pink colored giraffe"
+    }
+  ],
+  "A church with stained glass windows depicting a hamburger and french fries.": [
+    {
+      "question": "Along with french fries, what is depicted on stained glass windows in a church?",
+      "answer": "hamburger"
+    },
+    {
+      "question": "What type of building has stained glass windows depicting a hamburger and fries?",
+      "answer": "church"
+    },
+    {
+      "question": "What type of windows are in a church?",
+      "answer": "stained glass windows"
+    },
+    {
+      "question": "What do stained glass windows depict?",
+      "answer": "a hamburger and french fries"
+    },
+    {
+      "question": "Along with a hamburger, what is depicted on stained glass windows in a church?",
+      "answer": "fries"
+    },
+    {
+      "question": "What type of structure has stained glass windows depicting a hamburger and fries?",
+      "answer": "A church"
+    },
+    {
+      "question": "What kind of fries are depicted in stained glass windows in the church?",
+      "answer": "french"
+    }
+  ],
+  "A medieval painting of the wifi not working.": [
+    {
+      "question": "A medieval painting of what not working?",
+      "answer": "wifi"
+    },
+    {
+      "question": "What type of painting depicts the wifi not working?",
+      "answer": "A medieval painting"
+    },
+    {
+      "question": "What type of art depicts the wifi not working?",
+      "answer": "painting"
+    },
+    {
+      "question": "In what era was the wifi not working?",
+      "answer": "medieval"
+    }
+  ],
+  "A side view of an owl sitting in a field.": [
+    {
+      "question": "What is a view of an owl sitting in a field?",
+      "answer": "A side view"
+    },
+    {
+      "question": "What animal sits in a field?",
+      "answer": "owl"
+    },
+    {
+      "question": "A side view of what animal sitting in a field?",
+      "answer": "an owl"
+    },
+    {
+      "question": "A side view of an owl sitting in what?",
+      "answer": "field"
+    },
+    {
+      "question": "Where is an owl sitting?",
+      "answer": "a field"
+    }
+  ],
+  "A single clock is sitting on a table.": [
+    {
+      "question": "What is sitting on a table?",
+      "answer": "clock"
+    },
+    {
+      "question": "How many clocks are on a table?",
+      "answer": "single"
+    }
+  ],
+  "A pyramid made of falafel with a partial solar eclipse in the background.": [
+    {
+      "question": "What is in the background of the pyramid?",
+      "answer": "eclipse"
+    },
+    {
+      "question": "In what part of the pyramid is a partial solar eclipse?",
+      "answer": "background"
+    },
+    {
+      "question": "What is made of falafel?",
+      "answer": "pyramid"
+    },
+    {
+      "question": "What is the pyramid made of?",
+      "answer": "falafel"
+    },
+    {
+      "question": "What type of solar eclipse is seen in the background?",
+      "answer": "partial"
+    },
+    {
+      "question": "What type of eclipse is in the background?",
+      "answer": "solar"
+    }
+  ],
+  "A sheep to the right of a wine glass.": [
+    {
+      "question": "A sheep to what side of a wine glass?",
+      "answer": "the right"
+    },
+    {
+      "question": "A sheep to the right of what?",
+      "answer": "a wine glass"
+    },
+    {
+      "question": "What is to the right of a wine glass?",
+      "answer": "A sheep"
+    },
+    {
+      "question": "A sheep to the right of what glass?",
+      "answer": "wine"
+    },
+    {
+      "question": "What animal is to the right of a wine glass?",
+      "answer": "sheep"
+    },
+    {
+      "question": "A sheep is to what side of a wine glass?",
+      "answer": "right"
+    }
+  ],
+  "A photocopy of a photograph of a painting of a sculpture of a giraffe.": [
+    {
+      "question": "What is a photocopy of?",
+      "answer": "photograph"
+    },
+    {
+      "question": "A photocopy of a photograph of a sculpture of a giraffe is a what?",
+      "answer": "painting"
+    }
+  ],
+  "A hair drier underneath a sheep.": [
+    {
+      "question": "A hair drier underneath what animal?",
+      "answer": "a sheep"
+    },
+    {
+      "question": "What is underneath a sheep?",
+      "answer": "A hair drier"
+    },
+    {
+      "question": "What is drier underneath a sheep?",
+      "answer": "hair"
+    }
+  ],
+  "One cat and one dog sitting on the grass.": [
+    {
+      "question": "Along with a dog, what animal is on the grass?",
+      "answer": "cat"
+    },
+    {
+      "question": "What do cats and dogs sit on?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "Along with a cat, what other animal is on the grass?",
+      "answer": "dog"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "one dog"
+    }
+  ],
+  "A sign that says 'Google Brain Toronto'.": [
+    {
+      "question": "What says 'Google Brain Toronto'?",
+      "answer": "A sign"
+    },
+    {
+      "question": "What does the sign say?",
+      "answer": "Google Brain Toronto"
+    }
+  ],
+  "A magnifying glass over a page of a 1950s batman comic.": [
+    {
+      "question": "What is a glass used to look at a page of a 1950s batman comic?",
+      "answer": "magnifying"
+    },
+    {
+      "question": "What is used to magnify a page of a 1950s batman comic?",
+      "answer": "glass"
+    },
+    {
+      "question": "What was the title of the 1950s comic?",
+      "answer": "batman"
+    },
+    {
+      "question": "A magnifying glass over a page of what comic?",
+      "answer": "a 1950s batman comic"
+    },
+    {
+      "question": "In what decade was a batman comic published?",
+      "answer": "1950s"
+    },
+    {
+      "question": "What is used to look at a page of a 1950s batman comic?",
+      "answer": "A magnifying glass"
+    },
+    {
+      "question": "A magnifying glass is placed over what part of a 1950s batman comic?",
+      "answer": "a page"
+    }
+  ],
+  "A panda making latte art.": [
+    {
+      "question": "What does a panda make?",
+      "answer": "latte art"
+    },
+    {
+      "question": "What animal makes latte art?",
+      "answer": "A panda"
+    },
+    {
+      "question": "A panda making what kind of art?",
+      "answer": "latte"
+    },
+    {
+      "question": "A panda making latte what?",
+      "answer": "art"
+    }
+  ],
+  "Two dogs on the street.": [
+    {
+      "question": "What kind of animals are on the street?",
+      "answer": "dogs"
+    }
+  ],
+  "A laptop on top of a teddy bear.": [
+    {
+      "question": "On what side of a teddy bear is the laptop?",
+      "answer": "top"
+    },
+    {
+      "question": "What is a laptop on top of?",
+      "answer": "a teddy bear"
+    },
+    {
+      "question": "What is on top of a teddy bear?",
+      "answer": "A laptop"
+    },
+    {
+      "question": "A laptop on top of what animal?",
+      "answer": "teddy"
+    }
+  ],
+  "A fisheye lens view of a turtle sitting in a forest.": [
+    {
+      "question": "What is a fisheye lens?",
+      "answer": "view"
+    },
+    {
+      "question": "What is a fisheye lens view of?",
+      "answer": "a turtle"
+    },
+    {
+      "question": "What type of view of a turtle in a forest?",
+      "answer": "A fisheye lens view"
+    },
+    {
+      "question": "What type of lens is used to view a turtle in a forest?",
+      "answer": "fisheye"
+    },
+    {
+      "question": "A fisheye lens view of a turtle sitting in what type of environment?",
+      "answer": "forest"
+    },
+    {
+      "question": "What type of animal is seen in a forest?",
+      "answer": "turtle"
+    },
+    {
+      "question": "A fisheye lens view of a turtle sitting in what?",
+      "answer": "a forest"
+    }
+  ],
+  "A zebra underneath a broccoli.": [
+    {
+      "question": "What is underneath a broccoli?",
+      "answer": "A zebra"
+    },
+    {
+      "question": "What animal is underneath a broccoli?",
+      "answer": "zebra"
+    },
+    {
+      "question": "What is a zebra underneath?",
+      "answer": "broccoli"
+    }
+  ],
+  "A stack of 3 books. A green book is on the top, sitting on a red book. The red book is in the middle, sitting on a blue book. The blue book is on the bottom.": [
+    {
+      "question": "Where is the red book in the stack?",
+      "answer": "middle"
+    },
+    {
+      "question": "What color book is on the top of the stack?",
+      "answer": "green"
+    },
+    {
+      "question": "Which book is in the middle of the stack?",
+      "answer": "The red book"
+    },
+    {
+      "question": "What is on the top of the stack?",
+      "answer": "book"
+    },
+    {
+      "question": "Which book is on the bottom of the stack?",
+      "answer": "The blue book"
+    },
+    {
+      "question": "What color book is on the bottom of the stack?",
+      "answer": "blue"
+    },
+    {
+      "question": "How many books are in a stack?",
+      "answer": "3 books"
+    },
+    {
+      "question": "Where is the blue book in the stack?",
+      "answer": "the bottom"
+    },
+    {
+      "question": "What color book is in the middle of the stack?",
+      "answer": "red"
+    },
+    {
+      "question": "How many books are in the book stack?",
+      "answer": "3"
+    },
+    {
+      "question": "Where is the green book on the stack?",
+      "answer": "the top"
+    }
+  ],
+  "Two cats and one dog sitting on the grass.": [
+    {
+      "question": "How many cats are on the lawn?",
+      "answer": "Two cats"
+    },
+    {
+      "question": "Where are two cats and one dog sitting?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are two cats and one dog sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What other animal is sitting on the grass?",
+      "answer": "dog"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "one dog"
+    }
+  ],
+  "Three cats and one dog sitting on the grass.": [
+    {
+      "question": "Where do cats and dogs sit?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What kind of surface are cats and dogs sitting on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What other animal is on the grass?",
+      "answer": "dog"
+    },
+    {
+      "question": "How many cats are on the lawn?",
+      "answer": "Three cats"
+    },
+    {
+      "question": "How many dogs are sitting on the grass?",
+      "answer": "one dog"
+    }
+  ],
+  "A car on the left of a bus.": [
+    {
+      "question": "A car is on the left of what?",
+      "answer": "bus"
+    },
+    {
+      "question": "What is on the left of a bus?",
+      "answer": "car"
+    },
+    {
+      "question": "A car is on what side of a bus?",
+      "answer": "left"
+    },
+    {
+      "question": "Where is a car on a bus?",
+      "answer": "the left"
+    }
+  ],
+  "A yellow colored giraffe.": [
+    {
+      "question": "What animal is yellow in color?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What type of giraffe?",
+      "answer": "A yellow colored giraffe"
+    }
+  ],
+  "A white car and a red sheep.": [
+    {
+      "question": "A white car and what else?",
+      "answer": "a red sheep"
+    },
+    {
+      "question": "What type of vehicle is a red sheep?",
+      "answer": "car"
+    },
+    {
+      "question": "What color is the car?",
+      "answer": "white"
+    },
+    {
+      "question": "Along with a red sheep, what other type of car is present?",
+      "answer": "A white car"
+    },
+    {
+      "question": "What color is the sheep?",
+      "answer": "red"
+    },
+    {
+      "question": "Along with a white car, what animal is in red?",
+      "answer": "sheep"
+    }
+  ],
+  "A sign that says 'NeurIPS'.": [
+    {
+      "question": "What is the sign that says?",
+      "answer": "NeurIPS"
+    }
+  ],
+  "Two cars on the street.": [
+    {
+      "question": "Does this image show Two cars on the street?",
+      "answer": "yes"
+    }
+  ],
+  "A sign that says 'Hello World'.": [
+    {
+      "question": "What says 'Hello World'?",
+      "answer": "sign"
+    }
+  ],
+  "A giraffe underneath a microwave.": [
+    {
+      "question": "What animal is underneath a microwave?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What is a giraffe under?",
+      "answer": "microwave"
+    },
+    {
+      "question": "What is a giraffe underneath?",
+      "answer": "a microwave"
+    }
+  ],
+  "One car on the street.": [
+    {
+      "question": "What type of vehicle is on the street?",
+      "answer": "car"
+    }
+  ],
+  "A triangular pink stop sign. A pink stop sign in the shape of a triangle.": [
+    {
+      "question": "What is a stop sign in the shape of a triangle?",
+      "answer": "A triangular pink stop sign"
+    },
+    {
+      "question": "What is a triangular stop sign?",
+      "answer": "A pink stop sign"
+    },
+    {
+      "question": "What color is a triangular stop sign?",
+      "answer": "pink"
+    }
+  ],
+  "A fish eating a pelican.": [
+    {
+      "question": "What does a fish eat?",
+      "answer": "pelican"
+    },
+    {
+      "question": "What type of fish eats a pelican?",
+      "answer": "A fish"
+    }
+  ],
+  "A real life photography of super mario, 8k Ultra HD.": [
+    {
+      "question": "What type of photography is super mario?",
+      "answer": "A real life photography"
+    },
+    {
+      "question": "What kind of photography is super mario?",
+      "answer": "life"
+    },
+    {
+      "question": "What kind of photography does this super mario have?",
+      "answer": "real"
+    },
+    {
+      "question": "What kind of HD is the super mario?",
+      "answer": "Ultra"
+    },
+    {
+      "question": "A real life photography of what game?",
+      "answer": "super mario"
+    },
+    {
+      "question": "What is the resolution of the super mario?",
+      "answer": "8k Ultra HD"
+    },
+    {
+      "question": "What is the resolution of super mario?",
+      "answer": "8k"
+    }
+  ],
+  "Four cars on the street.": [
+    {
+      "question": "Does this image show Four cars on the street?",
+      "answer": "yes"
+    }
+  ]
+}

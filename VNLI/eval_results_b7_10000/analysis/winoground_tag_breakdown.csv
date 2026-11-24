@@ -1,0 +1,4 @@
+Winoground_Tag,Quartets,VQ2_AUC,VNLI_AUC,VQ2_Group_%,VNLI_Group_%,Ens50_Group_%,Group_Gain
+Relation,233,55.79,59.75,12.02,21.03,21.03,9.01
+Object,141,55.72,64.5,9.93,29.08,24.11,19.15
+Both,26,64.79,71.41,15.38,42.31,30.77,26.92

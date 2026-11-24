@@ -1,0 +1,1251 @@
+image,text,label,dataset_source
+train_21852.jpg,A person is roaming the streets.,1,snli_ve
+train_21853.jpg,A man is riding his bicycle down a ramp.,0,snli_ve
+train_21855.jpg,A woman is blue jeans walks by a large sign.,1,snli_ve
+train_21855.jpg,A man is blue jeans walks by a large sign.,0,snli_ve_synthetic_neg
+train_21857.jpg,A snowboarder is smiling and posing with their snowboard.,0,snli_ve
+train_21858.jpg,A man is sitting on the sidewalk.,0,snli_ve
+train_21859.jpg,The woman is crying.,0,snli_ve
+train_21860.jpg,A woman is wearing shoes.,1,snli_ve
+train_21860.jpg,A man is wearing shoes.,0,snli_ve_synthetic_neg
+train_21862.jpg,A little boy is falling up from the ground up onto a ledge,0,snli_ve
+train_21864.jpg,A woman standing under a scaffolding.,0,snli_ve
+train_21865.jpg,People with dresses,1,snli_ve
+train_21868.jpg,Five people are observing their surroundings.,1,snli_ve
+train_21871.jpg,the people are climbing,1,snli_ve
+train_21874.jpg,A man behind a counter waiting to burn the two forms.,0,snli_ve
+train_21876.jpg,A man is wearing a brown jacket.,1,snli_ve
+train_21876.jpg,A woman is wearing a brown jacket.,0,snli_ve_synthetic_neg
+train_21877.jpg,The students are reading together.,1,snli_ve
+train_21878.jpg,A man is in a vehicle.,1,snli_ve
+train_21878.jpg,A woman is in a vehicle.,0,snli_ve_synthetic_neg
+train_21882.jpg,There is a moving sidewalk with a bunch of people on it.,1,snli_ve
+train_21886.jpg,people working,1,snli_ve
+train_21888.jpg,The deck hand is sorting fish.,0,snli_ve
+train_21889.jpg,A woman baking cookies.,0,snli_ve
+train_21890.jpg,The people are surfing in the ocean.,0,snli_ve
+train_21891.jpg,A bus advertisement passes a woman with comedic timing.,1,snli_ve
+train_21891.jpg,A bus advertisement passes a man with comedic timing.,0,snli_ve_synthetic_neg
+train_21893.jpg,A blond woman is diving to the bottom of a pool.,0,snli_ve
+train_21896.jpg,No one has bags.,0,snli_ve
+train_21897.jpg,The baby was just lain down for an afternoon nap.,0,snli_ve
+train_21900.jpg,Humans board a bus.,1,snli_ve
+train_21902.jpg,A crowd is out in public.,1,snli_ve
+train_21903.jpg,A female police officer has no cap.,0,snli_ve
+train_21904.jpg,The man is wearing yellow,0,snli_ve
+train_21905.jpg,A person with clothing.,1,snli_ve
+train_21906.jpg,A grandma is laying down on the couch,0,snli_ve
+train_21907.jpg,The kids are drinking hot chocolate at the kitchen counter.,0,snli_ve
+train_21908.jpg,Two dogs are outside near a pool.,1,snli_ve
+train_21908.jpg,Three dogs are outside near a pool.,0,snli_ve_synthetic_neg
+train_21910.jpg,A fat boy eats broccoli.,0,snli_ve
+train_21913.jpg,A woman is asleep.,0,snli_ve
+train_21915.jpg,girls play soccer upside down,0,snli_ve
+train_21916.jpg,A basketball player is lying on the court.,0,snli_ve
+train_21917.jpg,Helicopter is spinning up its rotors.,1,snli_ve
+train_21918.jpg,A woman is washing the dishes in the kitchen sink.,0,snli_ve
+train_21920.jpg,a group of people in blue walk down a street,1,snli_ve
+train_21920.jpg,a group of people in green walk down a street,0,snli_ve_synthetic_neg
+train_21923.jpg,The child is outside at the water fountain.,0,snli_ve
+train_21925.jpg,A man is playing a tape recorder into a microphone.,0,snli_ve
+train_21929.jpg,The patriot has a horse.,1,snli_ve
+train_21930.jpg,Women are working,1,snli_ve
+train_21930.jpg,Men are working,0,snli_ve_synthetic_neg
+train_21932.jpg,A man is sleeping on the ground.,0,snli_ve
+train_21934.jpg,There are two dancers.,1,snli_ve
+train_21934.jpg,There are three dancers.,0,snli_ve_synthetic_neg
+train_21935.jpg,A human running,1,snli_ve
+train_21935.jpg,A human sleeping,0,snli_ve_synthetic_neg
+train_21936.jpg,A person is surfing.,1,snli_ve
+train_21938.jpg,A boy plays with electronics.,1,snli_ve
+train_21938.jpg,A girl plays with electronics.,0,snli_ve_synthetic_neg
+train_21939.jpg,A man waits for a person to take him skydiving.,0,snli_ve
+train_21940.jpg,A man carries his dog.,0,snli_ve
+train_21944.jpg,The man is performing a hand stand.,0,snli_ve
+train_21947.jpg,Two goldfish are riding bikes in a giant pile of mashed potatoes.,0,snli_ve
+train_21952.jpg,The skater is skating on the ground.,0,snli_ve
+train_21954.jpg,The people are sleeping in their bed.,0,snli_ve
+train_21955.jpg,People are playing football.,0,snli_ve
+train_21957.jpg,A man is jogging.,0,snli_ve
+train_21958.jpg,The girl with the balloon is outside with other kids,1,snli_ve
+train_21958.jpg,The boy with the balloon is outside with other kids,0,snli_ve_synthetic_neg
+train_21959.jpg,Women competing in a boat race.,0,snli_ve
+train_21960.jpg,A roller blader skating around a skating rink.,0,snli_ve
+train_21961.jpg,The woman is driving a car.,0,snli_ve
+train_21962.jpg,The biker is sitting down.,0,snli_ve
+train_21966.jpg,A child jumping from a small height to the sidewalk,1,snli_ve
+train_21967.jpg,A woman is riding the subway.,1,snli_ve
+train_21967.jpg,A man is riding the subway.,0,snli_ve_synthetic_neg
+train_21968.jpg,People are walking in the rain.,0,snli_ve
+train_21969.jpg,People are ordering food.,1,snli_ve
+train_21970.jpg,Two ladies are working.,0,snli_ve
+train_21972.jpg,A boy is leaving his hotel room via a fire escape.,0,snli_ve
+train_21974.jpg,Two men are throwing each other around like javelins into bags.,0,snli_ve
+train_21975.jpg,a white dog running,1,snli_ve
+train_21975.jpg,a white dog sleeping,0,snli_ve_synthetic_neg
+train_21976.jpg,The person jumps the rock in a car.,0,snli_ve
+train_21977.jpg,A woman makes dinner on the ceramic stovetop.,0,snli_ve
+train_21978.jpg,He is next to a train,0,snli_ve
+train_21979.jpg,A girl is by a building.,1,snli_ve
+train_21979.jpg,A boy is by a building.,0,snli_ve_synthetic_neg
+train_21981.jpg,Men are videoing and smiling,1,snli_ve
+train_21981.jpg,Women are videoing and smiling,0,snli_ve_synthetic_neg
+train_21982.jpg,The man is looking at the woman,1,snli_ve
+train_21982.jpg,The man is looking at the man,0,snli_ve_synthetic_neg
+train_21984.jpg,The people are sitting in the theater.,0,snli_ve
+train_21985.jpg,There is a man shoveling gravel.,1,snli_ve
+train_21985.jpg,There is a woman shoveling gravel.,0,snli_ve_synthetic_neg
+train_21986.jpg,A child is playing baseball.,1,snli_ve
+train_21989.jpg,A woman is walking outside.,1,snli_ve
+train_21989.jpg,A man is walking outside.,0,snli_ve_synthetic_neg
+train_21990.jpg,A woman is standing outside.,1,snli_ve
+train_21990.jpg,A woman is sitting outside.,0,snli_ve_synthetic_neg
+train_21991.jpg,A man is walking down a crowded city street.,0,snli_ve
+train_21992.jpg,The dog grabs a stick,1,snli_ve
+train_21992.jpg,The cat grabs a stick,0,snli_ve_synthetic_neg
+train_21993.jpg,Jets crash during an aerial show,0,snli_ve
+train_21994.jpg,A woman and her baby are in a car.,1,snli_ve
+train_21994.jpg,A man and her baby are in a car.,0,snli_ve_synthetic_neg
+train_21996.jpg,men skating,1,snli_ve
+train_21996.jpg,women skating,0,snli_ve_synthetic_neg
+train_21997.jpg,There is a monk walking.,1,snli_ve
+train_21998.jpg,The man is walking down the stairs.,0,snli_ve
+train_21999.jpg,Two basketball players sitting on the bench.,0,snli_ve
+train_22001.jpg,Two ladies are walking through a cemetary and crying.,0,snli_ve
+train_22002.jpg,A woman is sleeping at home,0,snli_ve
+train_22003.jpg,3 guys stand on each other's shoulders,1,snli_ve
+train_22006.jpg,The men are selling home made cheese and butter.,0,snli_ve
+train_22007.jpg,the women are playing golf,0,snli_ve
+train_22008.jpg,A man is jogging on the road.,0,snli_ve
+train_22009.jpg,The people are having a picnic together.,1,snli_ve
+train_22010.jpg,A woman is moving her lips.,1,snli_ve
+train_22010.jpg,A man is moving her lips.,0,snli_ve_synthetic_neg
+train_22012.jpg,Two hockey players sit in the sidelines as they fought before.,0,snli_ve
+train_22013.jpg,There are people outdoors.,1,snli_ve
+train_22013.jpg,There are people indoors.,0,snli_ve_synthetic_neg
+train_22014.jpg,The roller blader fwll down the wall.,1,snli_ve
+train_22015.jpg,Two rafts are floating in the water.,0,snli_ve
+train_22016.jpg,The three girls are on their bottoms.,1,snli_ve
+train_22016.jpg,The four girls are on their bottoms.,0,snli_ve_synthetic_neg
+train_22017.jpg,The cowboy got kicked off a bucking horse,1,snli_ve
+train_22018.jpg,A horse jumps over a person.,1,snli_ve
+train_22020.jpg,A large amount of people dancing at a rave.,0,snli_ve
+train_22021.jpg,"The man is sitting down in his truckbed, eating his lunch.",0,snli_ve
+train_22022.jpg,The dogs were outdoors by water.,1,snli_ve
+train_22022.jpg,The dogs were indoors by water.,0,snli_ve_synthetic_neg
+train_22023.jpg,Puppy crunch the ball,1,snli_ve
+train_22024.jpg,A woman's lower half can be seen walking in front of a sign.,1,snli_ve
+train_22025.jpg,A man is relaxing on a couch.,1,snli_ve
+train_22025.jpg,A woman is relaxing on a couch.,0,snli_ve_synthetic_neg
+train_22026.jpg,Young boys are racing.,1,snli_ve
+train_22027.jpg,A businessman checking out the construction project.,0,snli_ve
+train_22029.jpg,The man is sitting on a burning couch.,0,snli_ve
+train_22030.jpg,The guide shows a woman a rare painting inside the exclusive museum room.,0,snli_ve
+train_22032.jpg,women smile as they cross the street,1,snli_ve
+train_22032.jpg,men smile as they cross the street,0,snli_ve_synthetic_neg
+train_22034.jpg,The dog sits on the edge of the field.,0,snli_ve
+train_22036.jpg,Four dogs are in the road.,0,snli_ve
+train_22037.jpg,An older man is reclining.,1,snli_ve
+train_22037.jpg,An older woman is reclining.,0,snli_ve_synthetic_neg
+train_22038.jpg,People watching tennis.,1,snli_ve
+train_22039.jpg,a band plays inside,1,snli_ve
+train_22040.jpg,Two dogs in the water.,1,snli_ve
+train_22040.jpg,Three dogs in the water.,0,snli_ve_synthetic_neg
+train_22041.jpg,A woman is buying asparagus.,1,snli_ve
+train_22041.jpg,A man is buying asparagus.,0,snli_ve_synthetic_neg
+train_22042.jpg,the woman is visible,1,snli_ve
+train_22042.jpg,the man is visible,0,snli_ve_synthetic_neg
+train_22043.jpg,The parade was for Christmas.,0,snli_ve
+train_22045.jpg,There are two people in this picture.,1,snli_ve
+train_22045.jpg,There are three people in this picture.,0,snli_ve_synthetic_neg
+train_22046.jpg,A lady wearing clothes.,1,snli_ve
+train_22048.jpg,A lady is dancing in the rain.,0,snli_ve
+train_22049.jpg,The gymnast is performing a cartwheel.,0,snli_ve
+train_22051.jpg,man runs in snow,1,snli_ve
+train_22051.jpg,woman runs in snow,0,snli_ve_synthetic_neg
+train_22052.jpg,There are people practicing cheerleading.,1,snli_ve
+train_22054.jpg,There is a lady sitting,0,snli_ve
+train_22056.jpg,A girl is outside.,1,snli_ve
+train_22056.jpg,A boy is outside.,0,snli_ve_synthetic_neg
+train_22062.jpg,A young boy is wearing a red and black shirt,0,snli_ve
+train_22064.jpg,A person holding a man in one arm and a girl in the other.,1,snli_ve
+train_22064.jpg,A person holding a woman in one arm and a girl in the other.,0,snli_ve_synthetic_neg
+train_22066.jpg,A woman in a pink blouse looking at a martini.,0,snli_ve
+train_22067.jpg,A man is speaking in a classroom.,1,snli_ve
+train_22067.jpg,A woman is speaking in a classroom.,0,snli_ve_synthetic_neg
+train_22068.jpg,A person is using an ATV.,1,snli_ve
+train_22070.jpg,The boy is in the USA.,0,snli_ve
+train_22071.jpg,A man sitting in the street.,1,snli_ve
+train_22071.jpg,A woman sitting in the street.,0,snli_ve_synthetic_neg
+train_22074.jpg,The man is standing on a blacktop.,0,snli_ve
+train_22075.jpg,The horse is sleeping.,0,snli_ve
+train_22076.jpg,The people are running on a treadmill.,0,snli_ve
+train_22078.jpg,A woman is sitting on the sidewalk.,0,snli_ve
+train_22079.jpg,There is two people that have fallen,0,snli_ve
+train_22080.jpg,Two women are moving across the street.,1,snli_ve
+train_22080.jpg,Two men are moving across the street.,0,snli_ve_synthetic_neg
+train_22081.jpg,A woman walks in front of a bus with advertisements.,1,snli_ve
+train_22081.jpg,A man walks in front of a bus with advertisements.,0,snli_ve_synthetic_neg
+train_22082.jpg,A man is sitting behind the counter.,0,snli_ve
+train_22083.jpg,A woman and a child are shopping in a toy store.,0,snli_ve
+train_22085.jpg,A man walks down the street.,1,snli_ve
+train_22085.jpg,A woman walks down the street.,0,snli_ve_synthetic_neg
+train_22092.jpg,The boy ran away,0,snli_ve
+train_22094.jpg,A cat is in a basket.,1,snli_ve
+train_22094.jpg,A dog is in a basket.,0,snli_ve_synthetic_neg
+train_22095.jpg,People wait to get on a double decker bus at night.,1,snli_ve
+train_22095.jpg,People wait to get on a double decker bus at day.,0,snli_ve_synthetic_neg
+train_22096.jpg,Two women are sitting down at a table.,0,snli_ve
+train_22097.jpg,There are people wrestling.,1,snli_ve
+train_22098.jpg,A group of dancers showing their appreciation for the audiance.,1,snli_ve
+train_22099.jpg,A woman sleeping in her bed.,0,snli_ve
+train_22100.jpg,The boy is not on a boat.,0,snli_ve
+train_22101.jpg,A boy is running outside.,1,snli_ve
+train_22101.jpg,A boy is sleeping outside.,0,snli_ve_synthetic_neg
+train_22105.jpg,A man is sleeping.,0,snli_ve
+train_22106.jpg,A boy in a uniform swinging a baseball bat.,1,snli_ve
+train_22106.jpg,A girl in a uniform swinging a baseball bat.,0,snli_ve_synthetic_neg
+train_22111.jpg,A woman walking around.,1,snli_ve
+train_22111.jpg,A man walking around.,0,snli_ve_synthetic_neg
+train_22112.jpg,A person is putting chairs out.,1,snli_ve
+train_22113.jpg,The jeep is not driving on paved streets.,1,snli_ve
+train_22116.jpg,Someon is riding a skateboard.,1,snli_ve
+train_22118.jpg,The boy can shoot flames through his nostrils.,0,snli_ve
+train_22119.jpg,The donkeys are outdoors.,1,snli_ve
+train_22119.jpg,The donkeys are indoors.,0,snli_ve_synthetic_neg
+train_22120.jpg,A group of people is working.,1,snli_ve
+train_22122.jpg,A dog is barking at a cat.,0,snli_ve
+train_22123.jpg,The man is strolling in the park,0,snli_ve
+train_22124.jpg,The man is cleaning his dek.,0,snli_ve
+train_22125.jpg,A human looks at the camera while building something.,1,snli_ve
+train_22128.jpg,The boy is swimming.,0,snli_ve
+train_22129.jpg,A man is cooking on his grill,1,snli_ve
+train_22129.jpg,A woman is cooking on his grill,0,snli_ve_synthetic_neg
+train_22133.jpg,She is wearing clothes,1,snli_ve
+train_22134.jpg,a woman is active,1,snli_ve
+train_22134.jpg,a man is active,0,snli_ve_synthetic_neg
+train_22135.jpg,A child is running around happily on the playground.,0,snli_ve
+train_22136.jpg,A young boy is laying on the ground.,0,snli_ve
+train_22137.jpg,Two men are sitting on chairs.,0,snli_ve
+train_22138.jpg,There are people outside.,1,snli_ve
+train_22139.jpg,Two women are eating at a cafe.,0,snli_ve
+train_22140.jpg,The people are looking at model trains,0,snli_ve
+train_22141.jpg,Two men are carrying bags.,1,snli_ve
+train_22141.jpg,Three men are carrying bags.,0,snli_ve_synthetic_neg
+train_22142.jpg,A man is playing an instrument.,1,snli_ve
+train_22142.jpg,A woman is playing an instrument.,0,snli_ve_synthetic_neg
+train_22143.jpg,A boy putting together a puzzle.,0,snli_ve
+train_22145.jpg,a black dog walking home,0,snli_ve
+train_22148.jpg,A young person is playing with an object in the air.,1,snli_ve
+train_22151.jpg,the young girl stands up inside,0,snli_ve
+train_22152.jpg,A boy is smiling with a go-cart in the background.,1,snli_ve
+train_22152.jpg,A girl is smiling with a go-cart in the background.,0,snli_ve_synthetic_neg
+train_22154.jpg,Some people are snowmobiling.,1,snli_ve
+train_22155.jpg,"A child is in the sand,",1,snli_ve
+train_22157.jpg,Three girls are running.,0,snli_ve
+train_22159.jpg,A woman is driving a car while a man and a woman sit in the back.,0,snli_ve
+train_22160.jpg,Boys are playing indoors.,0,snli_ve
+train_22161.jpg,A group of students are sitting in a classroom.,1,snli_ve
+train_22161.jpg,A group of students are running in a classroom.,0,snli_ve_synthetic_neg
+train_22163.jpg,The person is on a tree swing in the rain.,0,snli_ve
+train_22165.jpg,A man wearing a coat waiting in traffic.,0,snli_ve
+train_22167.jpg,A young boy in a red shirt eats a burger,0,snli_ve
+train_22168.jpg,A bunch of old ladies sitting around.,0,snli_ve
+train_22169.jpg,A child plays a boardgame with some friends.,0,snli_ve
+train_22171.jpg,Two girls wash a building for spending money.,0,snli_ve
+train_22173.jpg,a cat is sitting on top of a sign on a building,1,snli_ve
+train_22173.jpg,a cat is running on top of a sign on a building,0,snli_ve_synthetic_neg
+train_22176.jpg,Woman walking passed a no parking zone.,1,snli_ve
+train_22176.jpg,Man walking passed a no parking zone.,0,snli_ve_synthetic_neg
+train_22177.jpg,A couple is sitting eating dinner at a dinning table.,0,snli_ve
+train_22179.jpg,A large crowd is outside.,1,snli_ve
+train_22180.jpg,A woman sits in a cafe.,0,snli_ve
+train_22181.jpg,An old man is swimming in the ocean.,0,snli_ve
+train_22183.jpg,Two people are riding bicycles.,0,snli_ve
+train_22184.jpg,Some africans are shopping for vegetables.,1,snli_ve
+train_22185.jpg,A young man washing dishes.,0,snli_ve
+train_22186.jpg,Two men eating pizza,0,snli_ve
+train_22188.jpg,A team in red and black uniforms doesn't stand on each others' shoulders,0,snli_ve
+train_22191.jpg,The buggy is outdoors.,1,snli_ve
+train_22191.jpg,The buggy is indoors.,0,snli_ve_synthetic_neg
+train_22193.jpg,There is a hockey game.,1,snli_ve
+train_22194.jpg,A little boy has a small snack.,1,snli_ve
+train_22194.jpg,A little girl has a small snack.,0,snli_ve_synthetic_neg
+train_22195.jpg,A boy is at home.,0,snli_ve
+train_22197.jpg,A person is in a store.,1,snli_ve
+train_22199.jpg,Children are playing at a park.,0,snli_ve
+train_22201.jpg,A child play a carnival game.,1,snli_ve
+train_22202.jpg,A few people are doing the washing up in the kitchen.,1,snli_ve
+train_22205.jpg,Young white children are eating.,0,snli_ve
+train_22207.jpg,Female ballerina posing in a room with a red floor.,1,snli_ve
+train_22207.jpg,Female ballerina posing in a room with a blue floor.,0,snli_ve_synthetic_neg
+train_22208.jpg,The men are on stage,1,snli_ve
+train_22208.jpg,The women are on stage,0,snli_ve_synthetic_neg
+train_22211.jpg,The ladies are Puerto Rican.,0,snli_ve
+train_22212.jpg,The older man is sitting with his arms crossed.,0,snli_ve
+train_22213.jpg,A child is in a black shirt.,1,snli_ve
+train_22213.jpg,A child is in a white shirt.,0,snli_ve_synthetic_neg
+train_22214.jpg,The man is wearing a dress.,0,snli_ve
+train_22215.jpg,There is a person with rope.,1,snli_ve
+train_22217.jpg,The man is playing a flute.,0,snli_ve
+train_22218.jpg,Oriental woman with a white purse.,1,snli_ve
+train_22218.jpg,Oriental man with a white purse.,0,snli_ve_synthetic_neg
+train_22219.jpg,"Boys are sitting in a row, arms crossed, facing away from the missionary",0,snli_ve
+train_22221.jpg,Two old women are eating at a restaurant.,0,snli_ve
+train_22223.jpg,The two basketball players are by the halfcout line.,0,snli_ve
+train_22224.jpg,Two women are working out on a rock.,0,snli_ve
+train_22225.jpg,People look at a fish that someone caught.,1,snli_ve
+train_22226.jpg,A woman is empty handed.,0,snli_ve
+train_22227.jpg,Man in a robe walking along a wall.,1,snli_ve
+train_22227.jpg,Woman in a robe walking along a wall.,0,snli_ve_synthetic_neg
+train_22229.jpg,There is a helicopter in the airfield.,1,snli_ve
+train_22230.jpg,A small worksite has nobody in it and only a pile of soil can be seen.,0,snli_ve
+train_22231.jpg,The children are looking for oil.,0,snli_ve
+train_22232.jpg,a man is cleaning a TV,0,snli_ve
+train_22233.jpg,The man is sleeping.,0,snli_ve
+train_22234.jpg,The man is naked.,0,snli_ve
+train_22236.jpg,An individual is sitting on the bus.,0,snli_ve
+train_22237.jpg,The children are on a working bike.,1,snli_ve
+train_22238.jpg,A small girl dressed in a blue sweater is holding up a flower.,0,snli_ve
+train_22239.jpg,A nun orders coffee at a cafe.,0,snli_ve
+train_22240.jpg,The guy looks like a devil.,1,snli_ve
+train_22241.jpg,A woman swings a baseball bat.,0,snli_ve
+train_22242.jpg,The football players always fight.,0,snli_ve
+train_22243.jpg,A man is holding something.,1,snli_ve
+train_22243.jpg,A woman is holding something.,0,snli_ve_synthetic_neg
+train_22245.jpg,The man is outside.,1,snli_ve
+train_22245.jpg,The woman is outside.,0,snli_ve_synthetic_neg
+train_22247.jpg,A girl is playing with a train.,1,snli_ve
+train_22247.jpg,A boy is playing with a train.,0,snli_ve_synthetic_neg
+train_22249.jpg,Three men are playing musical instruments.,1,snli_ve
+train_22249.jpg,Four men are playing musical instruments.,0,snli_ve_synthetic_neg
+train_22252.jpg,The baseball player holds the ball and looks across the field.,0,snli_ve
+train_22254.jpg,The little boy is playing baseball.,0,snli_ve
+train_22255.jpg,the dog is rolling on the ground,1,snli_ve
+train_22255.jpg,the cat is rolling on the ground,0,snli_ve_synthetic_neg
+train_22257.jpg,The gymnast is wearing a costume.,1,snli_ve
+train_22258.jpg,A man is watching TV in his home.,0,snli_ve
+train_22259.jpg,A dog is outside.,1,snli_ve
+train_22259.jpg,A cat is outside.,0,snli_ve_synthetic_neg
+train_22261.jpg,A dog is playing poker.,0,snli_ve
+train_22262.jpg,The child is sitting down.,1,snli_ve
+train_22262.jpg,The child is running down.,0,snli_ve_synthetic_neg
+train_22264.jpg,The boy is little,1,snli_ve
+train_22264.jpg,The girl is little,0,snli_ve_synthetic_neg
+train_22267.jpg,The dogs are swimming in the pool.,0,snli_ve
+train_22268.jpg,An elephant blocks the two kids,0,snli_ve
+train_22269.jpg,Two girls are holding hands outside.,1,snli_ve
+train_22269.jpg,Three girls are holding hands outside.,0,snli_ve_synthetic_neg
+train_22272.jpg,A woman eats her lunch in the cafeteria.,0,snli_ve
+train_22273.jpg,a man holds a gun in his left hand,0,snli_ve
+train_22274.jpg,The person is climbing a ladder,0,snli_ve
+train_22275.jpg,A child has a toy.,1,snli_ve
+train_22278.jpg,The person is wearing pink.,0,snli_ve
+train_22281.jpg,The billboard is advertising new movies.,1,snli_ve
+train_22282.jpg,man walks in rain,1,snli_ve
+train_22282.jpg,woman walks in rain,0,snli_ve_synthetic_neg
+train_22283.jpg,A little girl is swinging.,1,snli_ve
+train_22283.jpg,A little boy is swinging.,0,snli_ve_synthetic_neg
+train_22284.jpg,The doctor talks with the nurses about the new office to open.,0,snli_ve
+train_22285.jpg,The boy is driving a car.,0,snli_ve
+train_22286.jpg,A kid is doing a handstand,1,snli_ve
+train_22288.jpg,A child is playing in a pool.,1,snli_ve
+train_22289.jpg,Two males fighting in the water.,0,snli_ve
+train_22291.jpg,A pretty woman has a shirt on.,1,snli_ve
+train_22291.jpg,A pretty man has a shirt on.,0,snli_ve_synthetic_neg
+train_22292.jpg,A man gestures with his hand.,1,snli_ve
+train_22292.jpg,A woman gestures with his hand.,0,snli_ve_synthetic_neg
+train_22293.jpg,A woman is singing in front of the band.,1,snli_ve
+train_22293.jpg,A man is singing in front of the band.,0,snli_ve_synthetic_neg
+train_22297.jpg,The man is using his bandanna to wipe his face.,0,snli_ve
+train_22299.jpg,all black dressed females are singers and dancers as well,0,snli_ve
+train_22301.jpg,The men are dancing together.,1,snli_ve
+train_22301.jpg,The women are dancing together.,0,snli_ve_synthetic_neg
+train_22302.jpg,It rained today.,0,snli_ve
+train_22304.jpg,A woman is watching a movie at the theater.,0,snli_ve
+train_22306.jpg,The boys are running in the park.,0,snli_ve
+train_22307.jpg,A boy is wearing shorts.,1,snli_ve
+train_22307.jpg,A girl is wearing shorts.,0,snli_ve_synthetic_neg
+train_22308.jpg,A man is singing acapello.,0,snli_ve
+train_22309.jpg,a woman is playing frisbee,0,snli_ve
+train_22312.jpg,A group of men near the lake.,1,snli_ve
+train_22312.jpg,A group of women near the lake.,0,snli_ve_synthetic_neg
+train_22313.jpg,The two people are doing ballet.,1,snli_ve
+train_22313.jpg,The three people are doing ballet.,0,snli_ve_synthetic_neg
+train_22315.jpg,"A group of people are sitting in white plastic chairs, in Hell.",0,snli_ve
+train_22316.jpg,A few people standing at a vegetable stand are purchasing vegetables,1,snli_ve
+train_22316.jpg,A few people sitting at a vegetable stand are purchasing vegetables,0,snli_ve_synthetic_neg
+train_22319.jpg,A woman is walking on the sidewalk.,1,snli_ve
+train_22319.jpg,A man is walking on the sidewalk.,0,snli_ve_synthetic_neg
+train_22322.jpg,The man is flying a drone.,0,snli_ve
+train_22323.jpg,They are in the city.,1,snli_ve
+train_22326.jpg,The rear view of a woman in a city.,1,snli_ve
+train_22326.jpg,The rear view of a man in a city.,0,snli_ve_synthetic_neg
+train_22327.jpg,the woman with no glasses dressed as a cat.,0,snli_ve
+train_22328.jpg,A man in a gray shirt is outdoors.,0,snli_ve
+train_22329.jpg,The woman is getting ready to go to the beach.,0,snli_ve
+train_22332.jpg,There are two girls looking.,1,snli_ve
+train_22332.jpg,There are three girls looking.,0,snli_ve_synthetic_neg
+train_22333.jpg,A man is next to a bull.,1,snli_ve
+train_22333.jpg,A woman is next to a bull.,0,snli_ve_synthetic_neg
+train_22334.jpg,The clidren are watching a game,0,snli_ve
+train_22335.jpg,A woman walks near a bus.,1,snli_ve
+train_22335.jpg,A man walks near a bus.,0,snli_ve_synthetic_neg
+train_22338.jpg,Woman selling items.,1,snli_ve
+train_22338.jpg,Man selling items.,0,snli_ve_synthetic_neg
+train_22339.jpg,Someone is sitting inside.,0,snli_ve
+train_22341.jpg,Doctors and nurses are tarrying about without aim.,0,snli_ve
+train_22342.jpg,planes are being launched from vehicles,1,snli_ve
+train_22343.jpg,a man is taking a photo of a shark while deep sea diving,0,snli_ve
+train_22344.jpg,The bus was late that day,0,snli_ve
+train_22347.jpg,Bulls are chasing people down the street.,1,snli_ve
+train_22349.jpg,There is a man outside.,1,snli_ve
+train_22349.jpg,There is a woman outside.,0,snli_ve_synthetic_neg
+train_22350.jpg,Two children are playing in something they built.,1,snli_ve
+train_22350.jpg,Three children are playing in something they built.,0,snli_ve_synthetic_neg
+train_22351.jpg,People of all ages sit and look at the water and fountains in a popular spot.,1,snli_ve
+train_22352.jpg,A girl holding a frisbee close to her face.,0,snli_ve
+train_22353.jpg,A mountain biker obeys traffic signals while commuting to work.,0,snli_ve
+train_22354.jpg,There is a woman eating pie at the dinner table.,0,snli_ve
+train_22355.jpg,A girl is playing with toys.,1,snli_ve
+train_22355.jpg,A boy is playing with toys.,0,snli_ve_synthetic_neg
+train_22356.jpg,Students sit at tables listening to the teacher sitting at their desk.,1,snli_ve
+train_22356.jpg,Students sit at tables listening to the teacher running at their desk.,0,snli_ve_synthetic_neg
+train_22357.jpg,All three guys are playing guitars.,0,snli_ve
+train_22358.jpg,The women are at the beach playing volleyball.,0,snli_ve
+train_22359.jpg,A man is looking at candy.,0,snli_ve
+train_22360.jpg,A man is sleeping in his bed.,0,snli_ve
+train_22361.jpg,Two woman on the computer.,1,snli_ve
+train_22361.jpg,Two man on the computer.,0,snli_ve_synthetic_neg
+train_22362.jpg,The people are riding on a ski lift.,0,snli_ve
+train_22363.jpg,A woman is dancing on the street.,0,snli_ve
+train_22364.jpg,There is a group of both men and women,1,snli_ve
+train_22364.jpg,There is a group of both women and women,0,snli_ve_synthetic_neg
+train_22366.jpg,A zebra looks for food.,0,snli_ve
+train_22367.jpg,A man is reading a paper.,1,snli_ve
+train_22367.jpg,A woman is reading a paper.,0,snli_ve_synthetic_neg
+train_22368.jpg,the person is in the church preaching,0,snli_ve
+train_22369.jpg,A man is wearing rollerblades at the park.,1,snli_ve
+train_22369.jpg,A woman is wearing rollerblades at the park.,0,snli_ve_synthetic_neg
+train_22370.jpg,A person is standing.,1,snli_ve
+train_22370.jpg,A person is sitting.,0,snli_ve_synthetic_neg
+train_22372.jpg,A group of people are on a boat.,0,snli_ve
+train_22373.jpg,A younger man is working at the Israeli shop.,1,snli_ve
+train_22373.jpg,A younger woman is working at the Israeli shop.,0,snli_ve_synthetic_neg
+train_22374.jpg,a person walks across the street,1,snli_ve
+train_22375.jpg,A man dressed in black with a sour face.,1,snli_ve
+train_22375.jpg,A man dressed in white with a sour face.,0,snli_ve_synthetic_neg
+train_22376.jpg,A man is reading.,1,snli_ve
+train_22376.jpg,A woman is reading.,0,snli_ve_synthetic_neg
+train_22377.jpg,The people are in an elevator standing.,0,snli_ve
+train_22378.jpg,There is a flash mob dancing in the street while two women in the background sit watching.,0,snli_ve
+train_22380.jpg,A dog is running outdoors.,1,snli_ve
+train_22380.jpg,A cat is running outdoors.,0,snli_ve_synthetic_neg
+train_22381.jpg,A man is skiing.,0,snli_ve
+train_22383.jpg,A woman is standing in front of a billboard.,0,snli_ve
+train_22384.jpg,A couple sitting hand in hand on a bench outside of a building.,0,snli_ve
+train_22385.jpg,A child in a black shirt is sitting at a game.,1,snli_ve
+train_22385.jpg,A child in a white shirt is sitting at a game.,0,snli_ve_synthetic_neg
+train_22386.jpg,The river is dried out and he boat is empty.,0,snli_ve
+train_22388.jpg,Man at work,1,snli_ve
+train_22388.jpg,Woman at work,0,snli_ve_synthetic_neg
+train_22389.jpg,A woman spends money.,1,snli_ve
+train_22389.jpg,A man spends money.,0,snli_ve_synthetic_neg
+train_22391.jpg,A musician playing an instrument.,1,snli_ve
+train_22394.jpg,Tourists ride in a chariot.,0,snli_ve
+train_22396.jpg,A kid is running through the park.,0,snli_ve
+train_22397.jpg,The jeep is driving through an intersection.,0,snli_ve
+train_22398.jpg,Two soccer players are fighting.,0,snli_ve
+train_22399.jpg,3 dogs are swimming near the road.,1,snli_ve
+train_22400.jpg,A man sleeping on a piano.,0,snli_ve
+train_22401.jpg,A woman has a guitar.,1,snli_ve
+train_22401.jpg,A man has a guitar.,0,snli_ve_synthetic_neg
+train_22402.jpg,A costumed person posing for a photo.,1,snli_ve
+train_22403.jpg,the family gathered to mourn the death outside.,1,snli_ve
+train_22404.jpg,A woman sitting and eating her bag lunch.,0,snli_ve
+train_22405.jpg,A large dog is jumping,1,snli_ve
+train_22405.jpg,A large cat is jumping,0,snli_ve_synthetic_neg
+train_22406.jpg,The horse was riding the cowboy until he got tired.,0,snli_ve
+train_22407.jpg,Three men are driving motor scooters.,0,snli_ve
+train_22408.jpg,Two men hiking through the Sahara desert,0,snli_ve
+train_22412.jpg,Two young people are speaking with a microphone to a group of young girls.,1,snli_ve
+train_22412.jpg,Three young people are speaking with a microphone to a group of young girls.,0,snli_ve_synthetic_neg
+train_22414.jpg,The woman is flying an airplane.,0,snli_ve
+train_22415.jpg,A food vendor is driving home.,0,snli_ve
+train_22416.jpg,Laundry is being hung by a woman on the line.,1,snli_ve
+train_22416.jpg,Laundry is being hung by a man on the line.,0,snli_ve_synthetic_neg
+train_22418.jpg,The bike is flying through the air.,1,snli_ve
+train_22420.jpg,A man is at the beach with a cat.,0,snli_ve
+train_22421.jpg,The poster is displayed on the outside of the movie theater.,1,snli_ve
+train_22423.jpg,The people are outside.,1,snli_ve
+train_22424.jpg,The people are lounging on the beach.,0,snli_ve
+train_22427.jpg,Two runners are racing in front of men on motorcycles.,1,snli_ve
+train_22427.jpg,Three runners are racing in front of men on motorcycles.,0,snli_ve_synthetic_neg
+train_22428.jpg,They are active.,1,snli_ve
+train_22429.jpg,People washing.,1,snli_ve
+train_22430.jpg,The people are outdoors.,1,snli_ve
+train_22430.jpg,The people are indoors.,0,snli_ve_synthetic_neg
+train_22431.jpg,The father is playing catch with his son.,0,snli_ve
+train_22434.jpg,a man daydreams outside while looking up at the clouds.,0,snli_ve
+train_22435.jpg,a girl dancing,1,snli_ve
+train_22435.jpg,a boy dancing,0,snli_ve_synthetic_neg
+train_22437.jpg,Two dogs are outside.,1,snli_ve
+train_22437.jpg,Three dogs are outside.,0,snli_ve_synthetic_neg
+train_22438.jpg,A man is fishing from his couch.,0,snli_ve
+train_22439.jpg,The man is wearing a orange coat.,0,snli_ve
+train_22440.jpg,A man is outside.,1,snli_ve
+train_22440.jpg,A woman is outside.,0,snli_ve_synthetic_neg
+train_22441.jpg,A boat is getting painted,0,snli_ve
+train_22443.jpg,There is a woman in this picture,1,snli_ve
+train_22443.jpg,There is a man in this picture,0,snli_ve_synthetic_neg
+train_22444.jpg,The man is sleeping.,1,snli_ve
+train_22444.jpg,The woman is sleeping.,0,snli_ve_synthetic_neg
+train_22445.jpg,a woman sews socks inside,0,snli_ve
+train_22446.jpg,"A woman in a bar, holding a beer and a shot glass.",0,snli_ve
+train_22447.jpg,A man gets ready to hit a punching bag.,1,snli_ve
+train_22447.jpg,A woman gets ready to hit a punching bag.,0,snli_ve_synthetic_neg
+train_22448.jpg,The woman is by the ocean.,1,snli_ve
+train_22448.jpg,The man is by the ocean.,0,snli_ve_synthetic_neg
+train_22450.jpg,A person traveling in the snow.,1,snli_ve
+train_22451.jpg,Two men sell vegetables at an outdoor stand.,1,snli_ve
+train_22451.jpg,Three men sell vegetables at an outdoor stand.,0,snli_ve_synthetic_neg
+train_22452.jpg,The girl has long blond hair.,1,snli_ve
+train_22452.jpg,The boy has long blond hair.,0,snli_ve_synthetic_neg
+train_22453.jpg,The quarterback is about to be tackled.,1,snli_ve
+train_22454.jpg,Bulls are driving cars down the street.,0,snli_ve
+train_22455.jpg,The two basketball players prepare for a jump ball.,0,snli_ve
+train_22456.jpg,A man just finished a run.,1,snli_ve
+train_22456.jpg,A woman just finished a run.,0,snli_ve_synthetic_neg
+train_22457.jpg,A man is riding a bike through an intersection.,1,snli_ve
+train_22457.jpg,A woman is riding a bike through an intersection.,0,snli_ve_synthetic_neg
+train_22458.jpg,the boy is at home crying,0,snli_ve
+train_22459.jpg,The teens are riding skateboards,1,snli_ve
+train_22462.jpg,A man is standing by a spaceship.,0,snli_ve
+train_22463.jpg,A man is shopping.,1,snli_ve
+train_22463.jpg,A woman is shopping.,0,snli_ve_synthetic_neg
+train_22465.jpg,The sidewalk is empty.,0,snli_ve
+train_22466.jpg,Three people are in the picture.,1,snli_ve
+train_22466.jpg,Four people are in the picture.,0,snli_ve_synthetic_neg
+train_22467.jpg,A woman is in a bathing suit.,1,snli_ve
+train_22467.jpg,A man is in a bathing suit.,0,snli_ve_synthetic_neg
+train_22468.jpg,A kid is riding his bike outside.,1,snli_ve
+train_22469.jpg,Two children ride the same bike.,1,snli_ve
+train_22469.jpg,Three children ride the same bike.,0,snli_ve_synthetic_neg
+train_22470.jpg,Women are wearing roller skates.,1,snli_ve
+train_22470.jpg,Men are wearing roller skates.,0,snli_ve_synthetic_neg
+train_22473.jpg,People are riding on a bus.,0,snli_ve
+train_22474.jpg,A person is riding a car through a flat.,0,snli_ve
+train_22477.jpg,A man looks out a window.,1,snli_ve
+train_22477.jpg,A woman looks out a window.,0,snli_ve_synthetic_neg
+train_22478.jpg,There is a lady in the parade wearing a costume.,1,snli_ve
+train_22479.jpg,The quarterback is happy he is being held by the opposing player.,0,snli_ve
+train_22480.jpg,The little girl hates the game.,0,snli_ve
+train_22483.jpg,A woman is in the Olympics.,1,snli_ve
+train_22483.jpg,A man is in the Olympics.,0,snli_ve_synthetic_neg
+train_22484.jpg,A man repairs bed sheets.,1,snli_ve
+train_22484.jpg,A woman repairs bed sheets.,0,snli_ve_synthetic_neg
+train_22486.jpg,There is a person in a jacket.,1,snli_ve
+train_22487.jpg,A couple of women are on the street.,1,snli_ve
+train_22487.jpg,A couple of men are on the street.,0,snli_ve_synthetic_neg
+train_22488.jpg,There is a large man in the back and foreground flying around using his wings.,0,snli_ve
+train_22489.jpg,Women fixing dinner.,0,snli_ve
+train_22490.jpg,There is a cat stealing the laundry.,0,snli_ve
+train_22492.jpg,The guy is getting examined by his doc.,0,snli_ve
+train_22493.jpg,A woman is not having plastic bag and digital camera to capture natural videos,0,snli_ve
+train_22495.jpg,The two children are happy.,1,snli_ve
+train_22495.jpg,The three children are happy.,0,snli_ve_synthetic_neg
+train_22496.jpg,dogs play by a pool,1,snli_ve
+train_22497.jpg,There are a number of people walking down the street.,1,snli_ve
+train_22498.jpg,A basketball player is in motion.,1,snli_ve
+train_22502.jpg,The child is practicing his karate.,1,snli_ve
+train_22505.jpg,The kids are outside.,1,snli_ve
+train_22506.jpg,During a basketball game a player is not about to dunk,0,snli_ve
+train_22507.jpg,Someone is putting something into a container over heat.,1,snli_ve
+train_22509.jpg,Three people are outside smoking.,0,snli_ve
+train_22511.jpg,Men try to tackle the ball carrier.,0,snli_ve
+train_22512.jpg,There are women in an art galley.,1,snli_ve
+train_22512.jpg,There are men in an art galley.,0,snli_ve_synthetic_neg
+train_22513.jpg,A man is pulling a rope.,1,snli_ve
+train_22513.jpg,A woman is pulling a rope.,0,snli_ve_synthetic_neg
+train_22514.jpg,The man drove his car.,0,snli_ve
+train_22516.jpg,Two men are standing in close proximity to each other.,1,snli_ve
+train_22516.jpg,Two men are sitting in close proximity to each other.,0,snli_ve_synthetic_neg
+train_22517.jpg,Two animals interact with a pool.,1,snli_ve
+train_22517.jpg,Three animals interact with a pool.,0,snli_ve_synthetic_neg
+train_22521.jpg,The soldier is wearing an old uniform.,1,snli_ve
+train_22522.jpg,The billboard is advertising a weightloss supplement.,0,snli_ve
+train_22523.jpg,A man wearing black clothing works on an engine.,1,snli_ve
+train_22523.jpg,A woman wearing black clothing works on an engine.,0,snli_ve_synthetic_neg
+train_22525.jpg,They are interacting with one another.,1,snli_ve
+train_22525.jpg,They are interacting with two another.,0,snli_ve_synthetic_neg
+train_22526.jpg,There is a kid at the playground.,1,snli_ve
+train_22527.jpg,Three people eating breakfast.,0,snli_ve
+train_22528.jpg,Happy girls are holding hands.,1,snli_ve
+train_22529.jpg,A man walks through the forest.,1,snli_ve
+train_22529.jpg,A woman walks through the forest.,0,snli_ve_synthetic_neg
+train_22530.jpg,A woman is getting ready to go swimming.,0,snli_ve
+train_22531.jpg,The woman is wearing all black.,0,snli_ve
+train_22534.jpg,A bronco bucks a man off its back.,0,snli_ve
+train_22535.jpg,The child is touching a kite.,1,snli_ve
+train_22536.jpg,Two women playing volleyball.,0,snli_ve
+train_22537.jpg,The girl is watching the batman movie underwater.,0,snli_ve
+train_22538.jpg,A person is walking under a train track.,1,snli_ve
+train_22540.jpg,The man is at a wrestling match.,1,snli_ve
+train_22540.jpg,The woman is at a wrestling match.,0,snli_ve_synthetic_neg
+train_22541.jpg,The kids are flying a kite.,0,snli_ve
+train_22542.jpg,The mother and her two children are hanging laundry.,1,snli_ve
+train_22542.jpg,The mother and her three children are hanging laundry.,0,snli_ve_synthetic_neg
+train_22543.jpg,Man with casual wear performing in front of crowd.,1,snli_ve
+train_22543.jpg,Woman with casual wear performing in front of crowd.,0,snli_ve_synthetic_neg
+train_22544.jpg,Girls are friends,1,snli_ve
+train_22546.jpg,man plays violin,1,snli_ve
+train_22546.jpg,woman plays violin,0,snli_ve_synthetic_neg
+train_22547.jpg,A woman empties her fridge of food and throws it in the trash,0,snli_ve
+train_22548.jpg,The man is on the computer in his office.,1,snli_ve
+train_22548.jpg,The woman is on the computer in his office.,0,snli_ve_synthetic_neg
+train_22550.jpg,The two men and woman are asleep.,0,snli_ve
+train_22551.jpg,A camera crew is shooting a horror movie at night.,0,snli_ve
+train_22553.jpg,Two ladies are looking at items on the wall.,1,snli_ve
+train_22553.jpg,Three ladies are looking at items on the wall.,0,snli_ve_synthetic_neg
+train_22554.jpg,Some children have balloons on their heads.,1,snli_ve
+train_22557.jpg,Two men are leaning on some railing.,1,snli_ve
+train_22557.jpg,Two women are leaning on some railing.,0,snli_ve_synthetic_neg
+train_22558.jpg,Some kids are reading books.,0,snli_ve
+train_22560.jpg,A child is taking a photograph.,1,snli_ve
+train_22561.jpg,A man is using a projector to watch television.,0,snli_ve
+train_22562.jpg,The older man in the blue shirt looks high in the sky at the jet passing overhead.,0,snli_ve
+train_22563.jpg,The young boy is walking.,0,snli_ve
+train_22567.jpg,Two woman are lounging around on a hot day.,0,snli_ve
+train_22568.jpg,A girl smiles at her friend.,1,snli_ve
+train_22568.jpg,A boy smiles at her friend.,0,snli_ve_synthetic_neg
+train_22569.jpg,A person is not touching the ground.,1,snli_ve
+train_22570.jpg,Two dancers are running through the crowd.,0,snli_ve
+train_22571.jpg,The boy is close to retirement age.,0,snli_ve
+train_22572.jpg,A guy is carrying a guy carrying bags.,1,snli_ve
+train_22573.jpg,a woman drowns,0,snli_ve
+train_22574.jpg,a trader with many wares,1,snli_ve
+train_22575.jpg,The man is lying down in front of a building.,0,snli_ve
+train_22576.jpg,the child was happy`,0,snli_ve
+train_22578.jpg,The team in blue is playing a game against the team in white,1,snli_ve
+train_22578.jpg,The team in green is playing a game against the team in white,0,snli_ve_synthetic_neg
+train_22580.jpg,Jets are flying.,1,snli_ve
+train_22582.jpg,A man is playing football indoors.,0,snli_ve
+train_22583.jpg,Three dog running around by themselves,1,snli_ve
+train_22583.jpg,Three cat running around by themselves,0,snli_ve_synthetic_neg
+train_22586.jpg,Two people are skateboarding.,0,snli_ve
+train_22587.jpg,A woman is running outside.,0,snli_ve
+train_22589.jpg,The ballerina is sitting down judging the children's dancing.,0,snli_ve
+train_22593.jpg,Two men snowboarding.,0,snli_ve
+train_22594.jpg,Two men greet and shake hands.,0,snli_ve
+train_22597.jpg,Two men picking their noses.,0,snli_ve
+train_22598.jpg,There is a giraffe on the stage.,0,snli_ve
+train_22599.jpg,A female ballet dancer performing with another.,1,snli_ve
+train_22600.jpg,Two kids are eating ice cream and reading books.,0,snli_ve
+train_22602.jpg,Two hockey players are getting ready to play.,1,snli_ve
+train_22602.jpg,Three hockey players are getting ready to play.,0,snli_ve_synthetic_neg
+train_22608.jpg,The young man is a quarterback.,0,snli_ve
+train_22609.jpg,Older people are with younger people.,1,snli_ve
+train_22610.jpg,The teenagers are skateboarding outdoors.,1,snli_ve
+train_22610.jpg,The teenagers are skateboarding indoors.,0,snli_ve_synthetic_neg
+train_22611.jpg,The pet is outside.,1,snli_ve
+train_22615.jpg,The man sitting on the wooden bench will be inline skating soon.,0,snli_ve
+train_22616.jpg,three old women walk from behind,1,snli_ve
+train_22616.jpg,four old women walk from behind,0,snli_ve_synthetic_neg
+train_22618.jpg,A person is sitting in a chair.,0,snli_ve
+train_22620.jpg,The couple is walking.,1,snli_ve
+train_22621.jpg,A dog has tan color fur.,1,snli_ve
+train_22621.jpg,A cat has tan color fur.,0,snli_ve_synthetic_neg
+train_22622.jpg,A woman is crossing the street.,1,snli_ve
+train_22622.jpg,A man is crossing the street.,0,snli_ve_synthetic_neg
+train_22623.jpg,The women is inside.,0,snli_ve
+train_22624.jpg,A man works alone in a kitchen.,0,snli_ve
+train_22625.jpg,The girls are dressed up,1,snli_ve
+train_22627.jpg,The two men are walking together.,0,snli_ve
+train_22629.jpg,An young man wearing a no shirt is smiling.,0,snli_ve
+train_22630.jpg,The customer is not a young person.,1,snli_ve
+train_22631.jpg,Oriental woman dancing at a rave.,0,snli_ve
+train_22632.jpg,The children are outside.,1,snli_ve
+train_22633.jpg,Homeless man outside.,1,snli_ve
+train_22633.jpg,Homeless woman outside.,0,snli_ve_synthetic_neg
+train_22634.jpg,People are surfing in the ocean,0,snli_ve
+train_22636.jpg,Two woman at work on their computer.,0,snli_ve
+train_22637.jpg,The woman is wearing clothes.,1,snli_ve
+train_22637.jpg,The man is wearing clothes.,0,snli_ve_synthetic_neg
+train_22638.jpg,The little girl is doing cartwheels.,0,snli_ve
+train_22639.jpg,A boy holds a tripod and take a picture.,1,snli_ve
+train_22639.jpg,A girl holds a tripod and take a picture.,0,snli_ve_synthetic_neg
+train_22640.jpg,A car is stuck in the mud.,0,snli_ve
+train_22641.jpg,A gray dog runs along the side of a pool while a yellow dog jumps in the pool outside.,1,snli_ve
+train_22641.jpg,A gray dog runs along the side of a pool while a black dog jumps in the pool outside.,0,snli_ve_synthetic_neg
+train_22642.jpg,Three men play golf near water.,1,snli_ve
+train_22642.jpg,Four men play golf near water.,0,snli_ve_synthetic_neg
+train_22648.jpg,The boat is green.,0,snli_ve
+train_22649.jpg,The children are outdoors.,1,snli_ve
+train_22649.jpg,The children are indoors.,0,snli_ve_synthetic_neg
+train_22650.jpg,A woman in white sits quietly.,0,snli_ve
+train_22651.jpg,The skaters are naked.,0,snli_ve
+train_22652.jpg,A young boy is daydreaming in his math class.,0,snli_ve
+train_22654.jpg,Three people punch each other.,0,snli_ve
+train_22655.jpg,The shirt is white,1,snli_ve
+train_22655.jpg,The shirt is brown,0,snli_ve_synthetic_neg
+train_22656.jpg,Students are working indoors.,1,snli_ve
+train_22656.jpg,Students are working outdoors.,0,snli_ve_synthetic_neg
+train_22658.jpg,A man looking at prepared food.,1,snli_ve
+train_22658.jpg,A woman looking at prepared food.,0,snli_ve_synthetic_neg
+train_22659.jpg,A child is on a couch.,1,snli_ve
+train_22661.jpg,Three men stare warily at one another after an argument leads to all three drawing firearms simultaneously.,0,snli_ve
+train_22662.jpg,"A man in his office, is staring intently at the computer screen",1,snli_ve
+train_22662.jpg,"A woman in his office, is staring intently at the computer screen",0,snli_ve_synthetic_neg
+train_22663.jpg,The young child is wearing a red sweatshirt.,0,snli_ve
+train_22664.jpg,a man is at the movie theatre with his family,0,snli_ve
+train_22666.jpg,A blue dog is asleep.,0,snli_ve
+train_22667.jpg,The people are sitting together at a table with another facing away.,1,snli_ve
+train_22667.jpg,The people are running together at a table with another facing away.,0,snli_ve_synthetic_neg
+train_22668.jpg,A girl playing on the sidewalk,0,snli_ve
+train_22669.jpg,People sleeping,1,snli_ve
+train_22671.jpg,A woman wearing sunglasses taking a picture.,1,snli_ve
+train_22671.jpg,A man wearing sunglasses taking a picture.,0,snli_ve_synthetic_neg
+train_22675.jpg,Two men are sitting together.,1,snli_ve
+train_22675.jpg,Three men are sitting together.,0,snli_ve_synthetic_neg
+train_22676.jpg,a person is near a landmark,1,snli_ve
+train_22677.jpg,A few animals are by a river with one swimming.,1,snli_ve
+train_22677.jpg,A few animals are by a river with two swimming.,0,snli_ve_synthetic_neg
+train_22678.jpg,A boy is playing the piano.,0,snli_ve
+train_22681.jpg,The men are wearing black pants.,1,snli_ve
+train_22681.jpg,The women are wearing black pants.,0,snli_ve_synthetic_neg
+train_22682.jpg,A human speaking,1,snli_ve
+train_22686.jpg,That man has a bat.,1,snli_ve
+train_22686.jpg,That woman has a bat.,0,snli_ve_synthetic_neg
+train_22687.jpg,The stage lights are off.,0,snli_ve
+train_22688.jpg,The students are listening to a lecture.,1,snli_ve
+train_22689.jpg,People in terminal,1,snli_ve
+train_22690.jpg,A female wears shorts.,0,snli_ve
+train_22693.jpg,two females cheering,1,snli_ve
+train_22693.jpg,three females cheering,0,snli_ve_synthetic_neg
+train_22697.jpg,The large rock is very poky.,0,snli_ve
+train_22699.jpg,Soldiers are marching in what appears to be a WWII Victory Day parade.,1,snli_ve
+train_22699.jpg,Soldiers are marching in what appears to be a WWII Victory Night parade.,0,snli_ve_synthetic_neg
+train_22700.jpg,Two girls jumping on a trampoline.,0,snli_ve
+train_22701.jpg,Family grabbing a bite to eat,0,snli_ve
+train_22702.jpg,Two hockey players lean towards a referee.,1,snli_ve
+train_22702.jpg,Three hockey players lean towards a referee.,0,snli_ve_synthetic_neg
+train_22703.jpg,A man lies cozy and content on his lounge.,0,snli_ve
+train_22704.jpg,A young boy playing kickball.,0,snli_ve
+train_22705.jpg,a dirt bike rider is on a dirt road,0,snli_ve
+train_22707.jpg,A bicyclist rides behind two bikes.,1,snli_ve
+train_22707.jpg,A bicyclist rides behind three bikes.,0,snli_ve_synthetic_neg
+train_22709.jpg,Nobody is sitting.,0,snli_ve
+train_22710.jpg,The restaurant is closing now.,0,snli_ve
+train_22711.jpg,A man wearing baggy shorts is taking a picture of a desert.,0,snli_ve
+train_22712.jpg,The child is swimming in the pool.,0,snli_ve
+train_22713.jpg,A man dressed like the statue of liberty is playing golf.,0,snli_ve
+train_22714.jpg,Old men playing dominoes.,0,snli_ve
+train_22715.jpg,Two people play sports.,1,snli_ve
+train_22715.jpg,Three people play sports.,0,snli_ve_synthetic_neg
+train_22716.jpg,The black dog is playing.,1,snli_ve
+train_22716.jpg,The black cat is playing.,0,snli_ve_synthetic_neg
+train_22717.jpg,A man is running away,0,snli_ve
+train_22718.jpg,Two dogs run through grass.,1,snli_ve
+train_22718.jpg,Three dogs run through grass.,0,snli_ve_synthetic_neg
+train_22719.jpg,The men are drinking scotch at a strip club.,0,snli_ve
+train_22722.jpg,The bus passengers are using their arms while being transported.,1,snli_ve
+train_22723.jpg,A female has a Macy's bag.,1,snli_ve
+train_22724.jpg,People march down the street.,1,snli_ve
+train_22725.jpg,A group of people are afloat paddling and laughing.,1,snli_ve
+train_22727.jpg,A child is fed a banana.,1,snli_ve
+train_22728.jpg,A middle-aged man is reclinedon a lounge.,1,snli_ve
+train_22728.jpg,A middle-aged woman is reclinedon a lounge.,0,snli_ve_synthetic_neg
+train_22731.jpg,Two players are put in penalty after fighting at a hockey game.,0,snli_ve
+train_22734.jpg,There is a cat and a cow.,0,snli_ve
+train_22735.jpg,The street is empty and no one is outside.,0,snli_ve
+train_22736.jpg,There are blue uniforms.,1,snli_ve
+train_22736.jpg,There are green uniforms.,0,snli_ve_synthetic_neg
+train_22737.jpg,The boat has food inside.,1,snli_ve
+train_22739.jpg,Someone is working,1,snli_ve
+train_22740.jpg,two women walk down a street,1,snli_ve
+train_22740.jpg,two men walk down a street,0,snli_ve_synthetic_neg
+train_22741.jpg,A quarterback is being tackled,1,snli_ve
+train_22743.jpg,Two cyclists are outdoors.,1,snli_ve
+train_22743.jpg,Three cyclists are outdoors.,0,snli_ve_synthetic_neg
+train_22744.jpg,A crowd has gathered outside at a fair.,1,snli_ve
+train_22746.jpg,A man is hitting a bag,1,snli_ve
+train_22746.jpg,A woman is hitting a bag,0,snli_ve_synthetic_neg
+train_22748.jpg,A man awaits his food order,1,snli_ve
+train_22748.jpg,A woman awaits his food order,0,snli_ve_synthetic_neg
+train_22750.jpg,Someone is pointing guns at a guy.,1,snli_ve
+train_22751.jpg,People are swimming in a community pool.,0,snli_ve
+train_22752.jpg,A man is sitting on the subway.,0,snli_ve
+train_22753.jpg,The man is wearing typical painter apparel.,0,snli_ve
+train_22756.jpg,Discussing a pamphlet.,1,snli_ve
+train_22759.jpg,There is a large man in the back and foreground.,1,snli_ve
+train_22759.jpg,There is a large woman in the back and foreground.,0,snli_ve_synthetic_neg
+train_22760.jpg,The women are near a mirror,1,snli_ve
+train_22760.jpg,The men are near a mirror,0,snli_ve_synthetic_neg
+train_22761.jpg,A dog is outside.,1,snli_ve
+train_22761.jpg,A cat is outside.,0,snli_ve_synthetic_neg
+train_22762.jpg,Three people play ring around the rosy.,0,snli_ve
+train_22763.jpg,The construction worker uses his flag to direct traffic around the work zone.,1,snli_ve
+train_22764.jpg,The girl is next to some toys.,1,snli_ve
+train_22764.jpg,The boy is next to some toys.,0,snli_ve_synthetic_neg
+train_22766.jpg,The girls are playing hopscotch.,0,snli_ve
+train_22769.jpg,A lady in a dress and sneakers.,0,snli_ve
+train_22771.jpg,Man with no arms standing on a wood base.,0,snli_ve
+train_22772.jpg,A helicopter just landed.,0,snli_ve
+train_22773.jpg,A bride and groom are pictured on their wedding day.,1,snli_ve
+train_22773.jpg,A bride and groom are pictured on their wedding night.,0,snli_ve_synthetic_neg
+train_22774.jpg,A child is eating a banana.,1,snli_ve
+train_22775.jpg,A person is outdoors.,1,snli_ve
+train_22775.jpg,A person is indoors.,0,snli_ve_synthetic_neg
+train_22776.jpg,A male child has a toy.,1,snli_ve
+train_22778.jpg,One person is swimming.,0,snli_ve
+train_22780.jpg,A snowboard is sitting up against a house while a man stands idly by.,0,snli_ve
+train_22781.jpg,five dogs are standing in a circle,0,snli_ve
+train_22782.jpg,A man is giving a woman red meat.,0,snli_ve
+train_22783.jpg,The little girl broke the statue.,0,snli_ve
+train_22785.jpg,A girl throws a football.,0,snli_ve
+train_22786.jpg,A group of people are smoking cigarettes while sitting on a bench in the park.,0,snli_ve
+train_22787.jpg,"The people are either standing or seated, not lying down.",1,snli_ve
+train_22787.jpg,"The people are either sitting or seated, not lying down.",0,snli_ve_synthetic_neg
+train_22789.jpg,People are drinking beer.,1,snli_ve
+train_22790.jpg,"Woman wearing USA colors, holding a Russian Flag, riding a horse draped in the South Korean Flag in an arena.",0,snli_ve
+train_22792.jpg,The children are on a plane.,0,snli_ve
+train_22793.jpg,The child is reading a book about birds in class,0,snli_ve
+train_22794.jpg,A person is shoveling.,1,snli_ve
+train_22795.jpg,A woman is wearing a short dress,1,snli_ve
+train_22795.jpg,A man is wearing a short dress,0,snli_ve_synthetic_neg
+train_22797.jpg,A cat laps up milk outside on the porch.,0,snli_ve
+train_22798.jpg,One person climbing a tree.,0,snli_ve
+train_22800.jpg,The ship is sailing in the sea.,0,snli_ve
+train_22801.jpg,There is a man on front of the white wall.,1,snli_ve
+train_22801.jpg,There is a woman on front of the white wall.,0,snli_ve_synthetic_neg
+train_22802.jpg,the wielder is making a safe,0,snli_ve
+train_22803.jpg,The boy is looking up at the sky with a black and white shirt on.,0,snli_ve
+train_22805.jpg,There are musicians int he photo.,1,snli_ve
+train_22806.jpg,The woman is inside her home.,0,snli_ve
+train_22807.jpg,A person is riding a vehicle through the dirt.,1,snli_ve
+train_22811.jpg,Nobody is smoking,0,snli_ve
+train_22812.jpg,A man gives himself a short haircut.,0,snli_ve
+train_22813.jpg,Woman in a white dress walking passed a no parking zone.,0,snli_ve
+train_22814.jpg,A man is grilling at a barbeque.,1,snli_ve
+train_22814.jpg,A woman is grilling at a barbeque.,0,snli_ve_synthetic_neg
+train_22816.jpg,The back of a lady on a walkpath,1,snli_ve
+train_22817.jpg,A group of construction workers sail to atlantis,0,snli_ve
+train_22818.jpg,A few young girls at the mall.,0,snli_ve
+train_22819.jpg,A bunch of kids playing cricket,0,snli_ve
+train_22820.jpg,The woman's camera is stored inside its case.,0,snli_ve
+train_22821.jpg,A gymnast practices.,1,snli_ve
+train_22822.jpg,A woman does chores outside.,1,snli_ve
+train_22822.jpg,A man does chores outside.,0,snli_ve_synthetic_neg
+train_22825.jpg,A man is being lifted by two female cheerleaders.,0,snli_ve
+train_22826.jpg,Some people are standing up indoors.,0,snli_ve
+train_22827.jpg,a black male poses for a picture,1,snli_ve
+train_22827.jpg,a white male poses for a picture,0,snli_ve_synthetic_neg
+train_22828.jpg,kids are deep ocean swimming,0,snli_ve
+train_22829.jpg,The man is watching a movie.,0,snli_ve
+train_22830.jpg,Children outside in the snow.,1,snli_ve
+train_22831.jpg,The dogs are drinking from the same bowl.,0,snli_ve
+train_22832.jpg,A woman standing near her car.,0,snli_ve
+train_22833.jpg,A child is not good at soccer.,1,snli_ve
+train_22835.jpg,The boys are carrying the containers.,1,snli_ve
+train_22836.jpg,Someone is having an operation.,1,snli_ve
+train_22837.jpg,not watched at alll,0,snli_ve
+train_22839.jpg,the man is jumping off a cliff,0,snli_ve
+train_22840.jpg,Two boys are swimming with a toy.,0,snli_ve
+train_22841.jpg,Cabbage makes a lovely cumberbund.,0,snli_ve
+train_22843.jpg,The ballerina's leg is lifted behind her.,1,snli_ve
+train_22844.jpg,An old lady rides her bike in the street.,0,snli_ve
+train_22846.jpg,A guy is performing at an event.,1,snli_ve
+train_22848.jpg,The boy is riding a unicorn through the grassy field.,0,snli_ve
+train_22849.jpg,The girl is sitting alone inside her house,0,snli_ve
+train_22850.jpg,The ice skating rink is full of people for the game.,0,snli_ve
+train_22851.jpg,Two kids playing chess.,0,snli_ve
+train_22853.jpg,dog runs on shoreline,1,snli_ve
+train_22853.jpg,cat runs on shoreline,0,snli_ve_synthetic_neg
+train_22854.jpg,women are riding an animal,1,snli_ve
+train_22854.jpg,men are riding an animal,0,snli_ve_synthetic_neg
+train_22855.jpg,A man spelunks in a cave,0,snli_ve
+train_22857.jpg,A man is being pulled by himself.,0,snli_ve
+train_22858.jpg,The bike rider is sleeping.,0,snli_ve
+train_22859.jpg,A woman walking holding an umbrella.,1,snli_ve
+train_22859.jpg,A man walking holding an umbrella.,0,snli_ve_synthetic_neg
+train_22860.jpg,Four women are driving an all terrain vehicle.,1,snli_ve
+train_22860.jpg,Two women are driving an all terrain vehicle.,0,snli_ve_synthetic_neg
+train_22861.jpg,There are two people standing on each other.,1,snli_ve
+train_22861.jpg,There are three people standing on each other.,0,snli_ve_synthetic_neg
+train_22862.jpg,The woman is wearing a skirt.,0,snli_ve
+train_22865.jpg,Musicians playing in the street.,1,snli_ve
+train_22866.jpg,A child is sad.,1,snli_ve
+train_22867.jpg,Two men are sleeping outside.,1,snli_ve
+train_22867.jpg,Three men are sleeping outside.,0,snli_ve_synthetic_neg
+train_22869.jpg,The elderly women are sitting in a coffee store.,0,snli_ve
+train_22870.jpg,A group of men go for a drive.,0,snli_ve
+train_22871.jpg,Two people are reading a book and a third is drinking something.,1,snli_ve
+train_22871.jpg,Three people are reading a book and a third is drinking something.,0,snli_ve_synthetic_neg
+train_22873.jpg,The person has a home.,0,snli_ve
+train_22874.jpg,Two women and a man are seated at an artist's booth,1,snli_ve
+train_22874.jpg,Two men and a man are seated at an artist's booth,0,snli_ve_synthetic_neg
+train_22875.jpg,Three girls are not sad,1,snli_ve
+train_22875.jpg,Four girls are not sad,0,snli_ve_synthetic_neg
+train_22876.jpg,A man is rockclimbing.,1,snli_ve
+train_22876.jpg,A woman is rockclimbing.,0,snli_ve_synthetic_neg
+train_22877.jpg,The girl is wearing overalls.,0,snli_ve
+train_22879.jpg,A group of people are sliding down the mountainside.,0,snli_ve
+train_22881.jpg,The two kids are asleep,0,snli_ve
+train_22882.jpg,The back of a woman is seen as she stands on the city sidewalk.,1,snli_ve
+train_22882.jpg,The back of a man is seen as she stands on the city sidewalk.,0,snli_ve_synthetic_neg
+train_22884.jpg,A man sleeps by the lake.,0,snli_ve
+train_22888.jpg,A person rides a red motorcycle.,1,snli_ve
+train_22888.jpg,A person rides a blue motorcycle.,0,snli_ve_synthetic_neg
+train_22889.jpg,A child eats an ice cream.,0,snli_ve
+train_22890.jpg,"A grandmother holds her granddaughter, who is holding a pink toy phone.",0,snli_ve
+train_22891.jpg,there is no cup,0,snli_ve
+train_22894.jpg,A child is doing a headstand while on a boat.,0,snli_ve
+train_22895.jpg,A person is in a tree.,0,snli_ve
+train_22897.jpg,A skier travels through the snow.,1,snli_ve
+train_22898.jpg,The teacher is sitting at his desk quietly.,0,snli_ve
+train_22900.jpg,A man is in the forest.,1,snli_ve
+train_22900.jpg,A woman is in the forest.,0,snli_ve_synthetic_neg
+train_22901.jpg,An adult is nearby.,1,snli_ve
+train_22903.jpg,A guy is carrying another guy while they are holding puppies.,0,snli_ve
+train_22904.jpg,A boy is being photographed,1,snli_ve
+train_22904.jpg,A girl is being photographed,0,snli_ve_synthetic_neg
+train_22906.jpg,Men wearing orange jackets lean over the rail to watch traffic.,1,snli_ve
+train_22906.jpg,Women wearing orange jackets lean over the rail to watch traffic.,0,snli_ve_synthetic_neg
+train_22910.jpg,Two runners are swimming while motorists drive by the lake.,0,snli_ve
+train_22911.jpg,A woman holds an American Flag while riding a horse in an arena.,1,snli_ve
+train_22911.jpg,A man holds an American Flag while riding a horse in an arena.,0,snli_ve_synthetic_neg
+train_22914.jpg,The woman drives with her dogs.,1,snli_ve
+train_22914.jpg,The man drives with her dogs.,0,snli_ve_synthetic_neg
+train_22915.jpg,A person is waterskiing.,0,snli_ve
+train_22917.jpg,two men wrestle,0,snli_ve
+train_22918.jpg,Men are working,1,snli_ve
+train_22918.jpg,Women are working,0,snli_ve_synthetic_neg
+train_22920.jpg,The dogs are walking.,1,snli_ve
+train_22921.jpg,A lazy bachelor is watching TV.,0,snli_ve
+train_22922.jpg,A woman walks along a busy street.,1,snli_ve
+train_22922.jpg,A man walks along a busy street.,0,snli_ve_synthetic_neg
+train_22924.jpg,The boy is sitting in a go kart.,0,snli_ve
+train_22926.jpg,A woman is on top of a jet wrestling a bear.,0,snli_ve
+train_22927.jpg,the man was baking cake,0,snli_ve
+train_22930.jpg,Two men in water,1,snli_ve
+train_22930.jpg,Three men in water,0,snli_ve_synthetic_neg
+train_22931.jpg,The man is near the windows of a building.,1,snli_ve
+train_22931.jpg,The woman is near the windows of a building.,0,snli_ve_synthetic_neg
+train_22932.jpg,A cat rolls in the grass.,0,snli_ve
+train_22934.jpg,A girl in yellow is climbing a tree.,0,snli_ve
+train_22935.jpg,People walking by a set of stairs.,1,snli_ve
+train_22937.jpg,The shirtless man is cutting the grass.,0,snli_ve
+train_22938.jpg,A young girl is asleep in her bed.,0,snli_ve
+train_22939.jpg,Some men are watching TV at a bar.,1,snli_ve
+train_22939.jpg,Some women are watching TV at a bar.,0,snli_ve_synthetic_neg
+train_22940.jpg,The man is selling pasta,0,snli_ve
+train_22941.jpg,The children and man were outdoors.,1,snli_ve
+train_22941.jpg,The children and woman were outdoors.,0,snli_ve_synthetic_neg
+train_22943.jpg,People are going up steps,1,snli_ve
+train_22944.jpg,A girl is stepping around a mud puddle so she doesn't get wet.,0,snli_ve
+train_22946.jpg,A man is climbing an indoor rockwall.,0,snli_ve
+train_22948.jpg,A boy with a beard in a captain suit with a bike next time him.,0,snli_ve
+train_22949.jpg,A man is preparing food.,1,snli_ve
+train_22949.jpg,A woman is preparing food.,0,snli_ve_synthetic_neg
+train_22950.jpg,A man wearing shorts and a yellow shirt on the bus carrying a shopping bag.,0,snli_ve
+train_22951.jpg,A guy is posing for a picture.,1,snli_ve
+train_22952.jpg,A homeless person is reading.,1,snli_ve
+train_22954.jpg,a man is wakeboarding,1,snli_ve
+train_22954.jpg,a woman is wakeboarding,0,snli_ve_synthetic_neg
+train_22955.jpg,The boy is surrounded by snow,1,snli_ve
+train_22955.jpg,The girl is surrounded by snow,0,snli_ve_synthetic_neg
+train_22956.jpg,A gray dog and a yellow dog sleep in a bed.,0,snli_ve
+train_22957.jpg,The children are in line at the cafeteria.,0,snli_ve
+train_22959.jpg,a young girl is near a crowd,1,snli_ve
+train_22959.jpg,a young boy is near a crowd,0,snli_ve_synthetic_neg
+train_22960.jpg,There is a lone skier jumping into the air.,1,snli_ve
+train_22961.jpg,A women who is has a high BMP is wearing something kind of provocative.,1,snli_ve
+train_22961.jpg,A men who is has a high BMP is wearing something kind of provocative.,0,snli_ve_synthetic_neg
+train_22962.jpg,A young black man has two guns pointed at his head.,1,snli_ve
+train_22962.jpg,A young black woman has two guns pointed at his head.,0,snli_ve_synthetic_neg
+train_22963.jpg,A man looks at the water.,0,snli_ve
+train_22966.jpg,The people are singing in the rain,0,snli_ve
+train_22967.jpg,Children are playing in a tent.,1,snli_ve
+train_22968.jpg,A man wearing maroon and lavender rolls around a muddy field.,0,snli_ve
+train_22969.jpg,No gymnast is practicing or performing.,0,snli_ve
+train_22970.jpg,Professional soccer teams playing for the World Cup.,0,snli_ve
+train_22971.jpg,A man is driving to a show.,0,snli_ve
+train_22972.jpg,The woman is sitting at her dining table.,0,snli_ve
+train_22973.jpg,A child in a red shirt is eating a burger.,0,snli_ve
+train_22975.jpg,A boy is waiting to go ride a go-cart.,1,snli_ve
+train_22975.jpg,A girl is waiting to go ride a go-cart.,0,snli_ve_synthetic_neg
+train_22976.jpg,people chase bulls,0,snli_ve
+train_22979.jpg,He is petting his dog.,1,snli_ve
+train_22979.jpg,He is petting his cat.,0,snli_ve_synthetic_neg
+train_22980.jpg,The little girl is playing a game.,1,snli_ve
+train_22980.jpg,The little boy is playing a game.,0,snli_ve_synthetic_neg
+train_22981.jpg,Two kids parachuting down onto a beach.,0,snli_ve
+train_22982.jpg,A red and gold monster truck waits for its turn to jump cars.,0,snli_ve
+train_22983.jpg,A man is shirtless at the beach,0,snli_ve
+train_22984.jpg,Two hockey players have let it come to blows.,1,snli_ve
+train_22984.jpg,Three hockey players have let it come to blows.,0,snli_ve_synthetic_neg
+train_22985.jpg,man barbecuing steaks,1,snli_ve
+train_22985.jpg,woman barbecuing steaks,0,snli_ve_synthetic_neg
+train_22986.jpg,The woman is young,0,snli_ve
+train_22988.jpg,One girl ties another to a chair using red tape.,0,snli_ve
+train_22990.jpg,A couple of hockey players are fighting,1,snli_ve
+train_22991.jpg,The person is riding a four wheeler.,1,snli_ve
+train_22991.jpg,The person is riding a two wheeler.,0,snli_ve_synthetic_neg
+train_22993.jpg,Two girls and horses.,1,snli_ve
+train_22993.jpg,Three girls and horses.,0,snli_ve_synthetic_neg
+train_22996.jpg,A man is using a kitchen.,1,snli_ve
+train_22996.jpg,A woman is using a kitchen.,0,snli_ve_synthetic_neg
+train_22997.jpg,Doctors are operating on someone.,1,snli_ve
+train_22998.jpg,The dog is asleep.,0,snli_ve
+train_22999.jpg,The womans head is visible,0,snli_ve
+train_23004.jpg,The two old men are playing basketball with their friends.,0,snli_ve
+train_23005.jpg,A woman is standing on the ground,0,snli_ve
+train_23006.jpg,The woman is wearing a pink dress.,0,snli_ve
+train_23008.jpg,Two animals are outdoors.,1,snli_ve
+train_23008.jpg,Two animals are indoors.,0,snli_ve_synthetic_neg
+train_23011.jpg,Children are sitting outside.,1,snli_ve
+train_23011.jpg,Children are running outside.,0,snli_ve_synthetic_neg
+train_23015.jpg,A girls holds onto her scooter and a lady adjusts her camera amidst a large group of people.,1,snli_ve
+train_23016.jpg,A person is wearing black.,1,snli_ve
+train_23019.jpg,A woman in a white shirt stands in the city.,1,snli_ve
+train_23023.jpg,Toddlers are singing.,1,snli_ve
+train_23030.jpg,A couple old men are looking at a piece of paper.,1,snli_ve
+train_23031.jpg,A person tries to get unstuck.,1,snli_ve
+train_23038.jpg,There are two people walking outdoors.,1,snli_ve
+train_23039.jpg,A quiet corner in the city.,1,snli_ve
+train_23040.jpg,The two hockey players are opponents.,1,snli_ve
+train_23043.jpg,A dog is outside in a field.,1,snli_ve
+train_23047.jpg,The men are near cows.,1,snli_ve
+train_23048.jpg,A man is preparing a plate.,1,snli_ve
+train_23049.jpg,Some dogs are playing with a stick,1,snli_ve
+train_23053.jpg,A group of people partying on a balcony.,1,snli_ve
+train_23054.jpg,a person is reading,1,snli_ve
+train_23056.jpg,A person is in front of an automobile.,1,snli_ve
+train_23058.jpg,A young man is wearing all gray.,1,snli_ve
+train_23065.jpg,The dogs are playing,1,snli_ve
+train_23067.jpg,There are people outside of a university building.,1,snli_ve
+train_23068.jpg,The children have part of their head covered by balloons.,1,snli_ve
+train_23071.jpg,There are animals near the water.,1,snli_ve
+train_23073.jpg,A man is standing behind a counter.,1,snli_ve
+train_23074.jpg,A climber is scaling a big rock.,1,snli_ve
+train_23075.jpg,Someone is holding a fruit.,1,snli_ve
+train_23077.jpg,A woman is next to an ad that looks like it is interacting with her,1,snli_ve
+train_23080.jpg,5 people are standing together,1,snli_ve
+train_23081.jpg,The young man is a pitcher.,1,snli_ve
+train_23089.jpg,There are multiple people present.,1,snli_ve
+train_23090.jpg,People are in a parade.,1,snli_ve
+train_23093.jpg,The girls are talking with each other.,1,snli_ve
+train_23100.jpg,"A seamstress was visited at work, and it was a surprise.",1,snli_ve
+train_23101.jpg,People are sitting next to a fountain.,1,snli_ve
+train_23102.jpg,A couple play their guitars on stage.,1,snli_ve
+train_23103.jpg,A person in the rain.,1,snli_ve
+train_23106.jpg,Some people are holding cameras.,1,snli_ve
+train_23108.jpg,A child is playing,1,snli_ve
+train_23110.jpg,Young kids play with animals,1,snli_ve
+train_23111.jpg,There is a cat outside.,1,snli_ve
+train_23113.jpg,The man is outside.,1,snli_ve
+train_23119.jpg,Men is throwing a baby in the air.,1,snli_ve
+train_23120.jpg,There is a group of people skiing.,1,snli_ve
+train_23124.jpg,There is a young girl sweeping something,1,snli_ve
+train_23129.jpg,A picture is being taken.,1,snli_ve
+train_23131.jpg,A person give another person a piggyback ride.,1,snli_ve
+train_23137.jpg,Two girls reading a book together.,1,snli_ve
+train_23138.jpg,A person is a selling a variety of things at a market.,1,snli_ve
+train_23142.jpg,Two men are wearing uniforms.,1,snli_ve
+train_23144.jpg,The people drove to a scenic location.,1,snli_ve
+train_23147.jpg,A woman is wearing a white shirt.,1,snli_ve
+train_23151.jpg,Two women are talking to each other.,1,snli_ve
+train_23152.jpg,The women touch each other.,1,snli_ve
+train_23154.jpg,a person is at the beach,1,snli_ve
+train_23161.jpg,There are people in school.,1,snli_ve
+train_23163.jpg,The basketball player has legs,1,snli_ve
+train_23165.jpg,a dogs plays,1,snli_ve
+train_23168.jpg,A guys shopping for a new coffee maker.,1,snli_ve
+train_23169.jpg,A baby in a blue outfit looking toward a mop bucket while holding the mop in his right hand inside.,1,snli_ve
+train_23170.jpg,There are men swinging with wooden sticks.,1,snli_ve
+train_23175.jpg,The guy is near the floor.,1,snli_ve
+train_23179.jpg,The dog is walking on the grass.,1,snli_ve
+train_23181.jpg,the boy has a happy look,1,snli_ve
+train_23184.jpg,Two cheerleaders are doing a cheer.,1,snli_ve
+train_23186.jpg,A couple taking their dogs on a walk through a park outside.,1,snli_ve
+train_23190.jpg,The boys hold unicef items.,1,snli_ve
+train_23191.jpg,A boy falls in the sand.,1,snli_ve
+train_23192.jpg,It's not uncommon for teenagers to enjoy skateboarding.,1,snli_ve
+train_23194.jpg,There are women singing.,1,snli_ve
+train_23197.jpg,Both women are wearing coats.,1,snli_ve
+train_23199.jpg,The group of boys are being read to,1,snli_ve
+train_23206.jpg,A woman is turned away from the camera.,1,snli_ve
+train_23208.jpg,People are dancing to a guitar.,1,snli_ve
+train_23209.jpg,A child wearing baggy shorts is taking a picture.,1,snli_ve
+train_23210.jpg,a player throwing a ball is tackled by another,1,snli_ve
+train_23211.jpg,Two small children standing.,1,snli_ve
+train_23213.jpg,A woman walking in the city.,1,snli_ve
+train_23215.jpg,A sport person is performing a sport activity.,1,snli_ve
+train_23216.jpg,A group of people sitting.,1,snli_ve
+train_23220.jpg,The people are amused.,1,snli_ve
+train_23221.jpg,Somebody is looking at something.,1,snli_ve
+train_23222.jpg,A lady with a bag standing on a city street.,1,snli_ve
+train_23224.jpg,A uniformed person stands near a bridge.,1,snli_ve
+train_23226.jpg,The worker is holding the line.,1,snli_ve
+train_23229.jpg,A girl is moving her feet,1,snli_ve
+train_23232.jpg,A young boy takes a drink,1,snli_ve
+train_23233.jpg,The motorcycle is moving on a dirt path.,1,snli_ve
+train_23235.jpg,The people stood outside the theater.,1,snli_ve
+train_23238.jpg,There is a skateboard.,1,snli_ve
+train_23239.jpg,Four people outside at a football station.,1,snli_ve
+train_23244.jpg,A person in clothes.,1,snli_ve
+train_23248.jpg,A person cooks rice.,1,snli_ve
+train_23249.jpg,A group of men are performing an act.,1,snli_ve
+train_23260.jpg,There are at least two instruments.,1,snli_ve
+train_23261.jpg,A human gestures.,1,snli_ve
+train_23263.jpg,A crowd of people are outside.,1,snli_ve
+train_23265.jpg,Two girls interacting in a classroom full of girls.,1,snli_ve
+train_23267.jpg,A woman is smiling.,1,snli_ve
+train_23268.jpg,people kick a red ball,1,snli_ve
+train_23272.jpg,The man has a great view.,1,snli_ve
+train_23274.jpg,Basketball player inbounds the ball while the other team tries to prevent it.,1,snli_ve
+train_23280.jpg,A human reading,1,snli_ve
+train_23281.jpg,The man is outside,1,snli_ve
+train_23283.jpg,A large building stands in the background with people around it.,1,snli_ve
+train_23284.jpg,Two boys have their arms in the air.,1,snli_ve
+train_23287.jpg,A child sits with cut outs.,1,snli_ve
+train_23290.jpg,The crowd is looking at the accident that just occurred.,1,snli_ve
+train_23291.jpg,A woman on bars doing gymnastics.,1,snli_ve
+train_23299.jpg,An athletic woman is exercising at a gym.,1,snli_ve
+train_23305.jpg,A woman smiles.,1,snli_ve
+train_23317.jpg,The group plays their games,1,snli_ve
+train_23318.jpg,a woman outside,1,snli_ve
+train_23319.jpg,Two men are working.,1,snli_ve
+train_23322.jpg,A man stands with a book.,1,snli_ve
+train_23326.jpg,The kids here are dressed fairly similarly.,1,snli_ve
+train_23329.jpg,the kid pushes a sledge through the snow,1,snli_ve
+train_23332.jpg,A person is at the work site.,1,snli_ve
+train_23335.jpg,People riding an object outdoors.,1,snli_ve
+train_23338.jpg,There is a person outside.,1,snli_ve
+train_23339.jpg,The watch as the truck zooms along outside,1,snli_ve
+train_23341.jpg,she is in NYC,1,snli_ve
+train_23344.jpg,A man sends a ball down the lane to pick up the last pin of a spare.,1,snli_ve
+train_23346.jpg,The dogs are outside playing.,1,snli_ve
+train_23351.jpg,A man is singing before a crowd.,1,snli_ve
+train_23355.jpg,A kid is outside shovelling snow.,1,snli_ve
+train_23357.jpg,A couple of dogs are jumping into a pool.,1,snli_ve
+train_23359.jpg,People on the Lido deck enjoying the sun.,1,snli_ve
+train_23363.jpg,There are mammals in the snow.,1,snli_ve
+train_23366.jpg,The people are playing soccer.,1,snli_ve
+train_23368.jpg,The woman is young.,1,snli_ve
+train_23371.jpg,two men put paddles in the water,1,snli_ve
+train_23372.jpg,Child jumping,1,snli_ve
+train_23375.jpg,A young man has a cigarette,1,snli_ve
+train_23379.jpg,A band is playing,1,snli_ve
+train_23380.jpg,People are playing in the water.,1,snli_ve
+train_23381.jpg,Two girls are holding hands outside.,1,snli_ve
+train_23382.jpg,A group of people watch a singer perform.,1,snli_ve
+train_23383.jpg,There are children close to a person.,1,snli_ve
+train_23387.jpg,A pitcher throws a ball.,1,snli_ve
+train_23392.jpg,The woman's feet are on the ground.,1,snli_ve
+train_23399.jpg,Young black children playing.,1,snli_ve
+train_23400.jpg,a guy in red and white stands atop another similarly dressed man whose is also atop a third,1,snli_ve
+train_23401.jpg,A person with a cap,1,snli_ve
+train_23402.jpg,"There are two men, one in blue and the other in red that are playing hockey on the field.",1,snli_ve
+train_23403.jpg,The small girl is at the playground.,1,snli_ve
+train_23405.jpg,A young boy has his head bowed down,1,snli_ve
+train_23406.jpg,Three people are talking,1,snli_ve
+train_23413.jpg,Children and adults are together.,1,snli_ve
+train_23416.jpg,A vendor at a hebrew stand.,1,snli_ve
+train_23417.jpg,A saleswoman in a market.,1,snli_ve
+train_23418.jpg,Four men walking down a street.,1,snli_ve
+train_23420.jpg,People riding a tractor.,1,snli_ve
+train_23424.jpg,Two girls play with a kite.,1,snli_ve
+train_23425.jpg,A group of people look onward.,1,snli_ve
+train_23426.jpg,a man plays in the snow,1,snli_ve
+train_23427.jpg,Man in a boat on a lake.,1,snli_ve
+train_23428.jpg,A boy plays a punching game.,1,snli_ve
+train_23432.jpg,A blue and silver monster truck is doing stunts.,1,snli_ve
+train_23435.jpg,A truck is speeding over the grassy knolls.,1,snli_ve
+train_23438.jpg,There is a child outside,1,snli_ve
+train_23439.jpg,A dog racing other dogs,1,snli_ve
+train_23443.jpg,The dog has a stick.,1,snli_ve
+train_23445.jpg,The American flag is being held by a happy toddler with blond-hair.,1,snli_ve
+train_23447.jpg,A woman is looking at a digital camera.,1,snli_ve
+train_23448.jpg,The woman has raised her hand for attention.,1,snli_ve
+train_23451.jpg,The quarterback is wearing a helmet.,1,snli_ve
+train_23456.jpg,A man tosses a boy into the air.,1,snli_ve
+train_23457.jpg,A large truck goes over some cars.,1,snli_ve
+train_23458.jpg,A female wears blue jeans.,1,snli_ve
+train_23459.jpg,A woman plays piano.,1,snli_ve
+train_23466.jpg,The white dog is in the sand lying face up.,1,snli_ve
+train_23470.jpg,A toddler has a large SpongeBob stuffed toy.,1,snli_ve
+train_23474.jpg,There was a lot of spectators at the bull-run.,1,snli_ve
+train_23476.jpg,The players and fans are on the field and in the seats.,1,snli_ve
+train_23477.jpg,The men are probably not on the same hockey team.,1,snli_ve
+train_23479.jpg,The old man has a beer.,1,snli_ve
+train_23484.jpg,Something is broken,1,snli_ve
+train_23486.jpg,The woman has a case of eyeshadow nearby.,1,snli_ve
+train_23487.jpg,An army soldier calls headquarters.,1,snli_ve
+train_23488.jpg,There are kids playing on a jungle gym.,1,snli_ve
+train_23490.jpg,the woman has a book,1,snli_ve
+train_23492.jpg,A woman is strolling down the street.,1,snli_ve
+train_23498.jpg,A woman talking on a phone holds her daughter in a pink outfit.,1,snli_ve
+train_23500.jpg,Five workers wearing vests work outdoors.,1,snli_ve
+train_23504.jpg,There is a group watching two men play guitar and sing.,1,snli_ve
+train_23507.jpg,There are two people.,1,snli_ve
+train_23508.jpg,Two people are outside.,1,snli_ve
+train_23513.jpg,A dog outside,1,snli_ve
+train_23519.jpg,A dog bites another dog's ear.,1,snli_ve
+train_23521.jpg,"An older gentlemen is asleep on a bench, was wearing a gray jacket",1,snli_ve
+train_23523.jpg,A young lady is excited.,1,snli_ve
+train_23525.jpg,A boy is riding a skateboard on a stone handrail.,1,snli_ve
+train_23526.jpg,A dancer performs a routine.,1,snli_ve
+train_23528.jpg,a man is outside,1,snli_ve
+train_23532.jpg,A woman without a shirt has been smeared with a brown substance.,1,snli_ve
+train_23533.jpg,A person is living at the construction site.,1,snli_ve
+train_23535.jpg,A kid is playing outside,1,snli_ve
+train_23539.jpg,Some humans playing,1,snli_ve
+train_23546.jpg,A man's head pokes out from a group of small windows in a wall outside.,1,snli_ve
+train_23548.jpg,A group is gathered.,1,snli_ve
+train_23550.jpg,A man wearing a dress is walking down the street,1,snli_ve
+train_23552.jpg,Two women walk across the street.,1,snli_ve
+train_23553.jpg,Two men are outside the building.,1,snli_ve
+train_23558.jpg,A worker is analyzing a building.,1,snli_ve
+train_23567.jpg,Two men are sitting on benches,1,snli_ve
+train_23568.jpg,The woman is awake.,1,snli_ve
+train_23569.jpg,A large group of people are gathered outside around a security guard near a street.,1,snli_ve
+train_23574.jpg,a child on the beach,1,snli_ve
+train_23580.jpg,A basketball player looks to pass the ball.,1,snli_ve
+train_23584.jpg,A man is rollerblading outdoors.,1,snli_ve
+train_23585.jpg,Two boys in a tent smile,1,snli_ve
+train_23587.jpg,Two men with fishing gear.,1,snli_ve
+train_23593.jpg,the man shows off,1,snli_ve
+train_23595.jpg,There is a group of children indoors.,1,snli_ve
+train_23597.jpg,a black dude stands by his ride,1,snli_ve
+train_23598.jpg,A man looking at his beer.,1,snli_ve
+train_23600.jpg,A man on a seat sitting next to his bike.,1,snli_ve
+train_23602.jpg,The female is standing on her horse.,1,snli_ve
+train_23606.jpg,A human running.,1,snli_ve
+train_23609.jpg,A man is preparing some meat for later.,1,snli_ve
+train_23610.jpg,A woman is taking a picture.,1,snli_ve
+train_23622.jpg,A man pitches a ball.,1,snli_ve
+train_23624.jpg,a man is outside,1,snli_ve
+train_23626.jpg,Four dogs are in the grass.,1,snli_ve
+train_23630.jpg,There are a bunch of people walking on a street,1,snli_ve
+train_23632.jpg,Two people are fishing.,1,snli_ve
+train_23637.jpg,the big boat is sailing with passengers.,1,snli_ve
+train_23655.jpg,A man ropes a bull.,1,snli_ve
+train_23657.jpg,dog in snow,1,snli_ve
+train_23658.jpg,A woman in a white shirt is on her laptop.,1,snli_ve
+train_23660.jpg,A quarterback is being held onto by another player in the statue of liberty position,1,snli_ve
+train_23661.jpg,A dirt biker performing a jump,1,snli_ve
+train_23664.jpg,Some men are outdoors.,1,snli_ve
+train_23669.jpg,A biker riding down a tree-lined road.,1,snli_ve
+train_23670.jpg,A boy is in a stroller.,1,snli_ve
+train_23672.jpg,The children's boots are pink.,1,snli_ve
+train_23673.jpg,There are two old men sitting.,1,snli_ve
+train_23676.jpg,A man is inline skating.,1,snli_ve
+train_23678.jpg,There are flowers in the garden.,1,snli_ve
+train_23679.jpg,A man is getting his hair cut.,1,snli_ve
+train_23682.jpg,A man with a piece of paper looks at a screen through glasses.,1,snli_ve
+train_23689.jpg,The girls are waiting for a carriage.,1,snli_ve
+train_23690.jpg,Two dogs are near each other,1,snli_ve
+train_23691.jpg,a woodworker making a chest,1,snli_ve
+train_23693.jpg,Two little girls are glancing over the paper together.,1,snli_ve
+train_23695.jpg,The person in a red shirt has a backpack.,1,snli_ve

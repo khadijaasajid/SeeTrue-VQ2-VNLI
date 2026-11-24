@@ -1,0 +1,301 @@
+image,text,label,dataset_source
+val_0.jpg,A clothed man is taking pictures.,0,snli_ve
+val_1.jpg,the boys were angry,0,snli_ve
+val_2.jpg,A couple women are playing frisbee.,1,snli_ve
+val_2.jpg,A couple men are playing frisbee.,0,snli_ve_synthetic_neg
+val_3.jpg,A human in a shirt,1,snli_ve
+val_5.jpg,A boy is outside.,1,snli_ve
+val_5.jpg,A girl is outside.,0,snli_ve_synthetic_neg
+val_6.jpg,The people are in the city.,1,snli_ve
+val_11.jpg,Nobody has a shirt,0,snli_ve
+val_13.jpg,Brown and white dog sleeps on a bed.,0,snli_ve
+val_17.jpg,There are no vehicles in the traffic.,0,snli_ve
+val_22.jpg,The man is on the phone outside.,1,snli_ve
+val_22.jpg,The woman is on the phone outside.,0,snli_ve_synthetic_neg
+val_23.jpg,A women is on the phone.,1,snli_ve
+val_23.jpg,A men is on the phone.,0,snli_ve_synthetic_neg
+val_26.jpg,An old person looks at a menu.,0,snli_ve
+val_27.jpg,A man is taking a picture of a woman.,0,snli_ve
+val_29.jpg,A woman sitting on a bus holding a paper bag and a carrier in her hand.,1,snli_ve
+val_29.jpg,A woman running on a bus holding a paper bag and a carrier in her hand.,0,snli_ve_synthetic_neg
+val_32.jpg,A crowd by a train.,1,snli_ve
+val_33.jpg,There's a person in a spotted shirt holding a puppy standing on some grass.,0,snli_ve
+val_37.jpg,A child holds a small child who sits on a table in a mall food court.,0,snli_ve
+val_38.jpg,The woman is waving the Mexican flag.,0,snli_ve
+val_40.jpg,Everyone in the photo is standing on the ground.,0,snli_ve
+val_41.jpg,A man orders food at a drive thru.,0,snli_ve
+val_43.jpg,A child is standing by a wall.,1,snli_ve
+val_43.jpg,A child is sitting by a wall.,0,snli_ve_synthetic_neg
+val_44.jpg,A woman is leaving a church.,0,snli_ve
+val_46.jpg,The food is being eaten by women sitting on a ledge.,1,snli_ve
+val_46.jpg,The food is being eaten by women running on a ledge.,0,snli_ve_synthetic_neg
+val_49.jpg,A group of hikers are closely packed together during a race on wooded trails.,0,snli_ve
+val_50.jpg,a person is stuck in a cave,0,snli_ve
+val_52.jpg,The small dog is walking outdoors.,1,snli_ve
+val_52.jpg,The small dog is walking indoors.,0,snli_ve_synthetic_neg
+val_54.jpg,Two boys are playing catch in the front yard.,0,snli_ve
+val_55.jpg,The man is busy knitting a hat while he sits in an empty room with no windows.,0,snli_ve
+val_56.jpg,People are competing in figure skating.,0,snli_ve
+val_60.jpg,Two teammates are enjoying video games.,0,snli_ve
+val_61.jpg,Men are pulling a hose out of the water.,1,snli_ve
+val_61.jpg,Women are pulling a hose out of the water.,0,snli_ve_synthetic_neg
+val_64.jpg,A man rides his bike with his face painted while wearing drag.,1,snli_ve
+val_64.jpg,A woman rides his bike with his face painted while wearing drag.,0,snli_ve_synthetic_neg
+val_65.jpg,Men are walking,1,snli_ve
+val_65.jpg,Women are walking,0,snli_ve_synthetic_neg
+val_68.jpg,The people sit on the beach and watch the whales swim by.,0,snli_ve
+val_69.jpg,A dinosaur chases after a car in Jurassic Park.,0,snli_ve
+val_70.jpg,the people are walking,1,snli_ve
+val_71.jpg,The camp leader sits at his desk.,0,snli_ve
+val_73.jpg,An accordionist plays.,1,snli_ve
+val_74.jpg,Two people don't wait on a train,0,snli_ve
+val_75.jpg,People walk up a street.,1,snli_ve
+val_76.jpg,There are men with hats.,1,snli_ve
+val_76.jpg,There are women with hats.,0,snli_ve_synthetic_neg
+val_78.jpg,There are two females present.,1,snli_ve
+val_78.jpg,There are three females present.,0,snli_ve_synthetic_neg
+val_80.jpg,There is a child eating dinner.,0,snli_ve
+val_82.jpg,The man is afraid,0,snli_ve
+val_83.jpg,Two toddlers are sitting down and reading books.,1,snli_ve
+val_83.jpg,Three toddlers are sitting down and reading books.,0,snli_ve_synthetic_neg
+val_85.jpg,The childen are playing outside.,1,snli_ve
+val_91.jpg,"In a wide open, treeless field, an elephant is being chased by a mouse.",0,snli_ve
+val_92.jpg,Dogs search for shade in the desert.,0,snli_ve
+val_93.jpg,The women are outdoors.,1,snli_ve
+val_93.jpg,The men are outdoors.,0,snli_ve_synthetic_neg
+val_94.jpg,some kids interact by some animals,1,snli_ve
+val_95.jpg,Two men sit in a room,1,snli_ve
+val_95.jpg,Three men sit in a room,0,snli_ve_synthetic_neg
+val_97.jpg,The dog has a leg made from sugar.,0,snli_ve
+val_98.jpg,The boy is using binoculars.,0,snli_ve
+val_99.jpg,Women are all sitting on the floor together working on a project.,1,snli_ve
+val_99.jpg,Men are all sitting on the floor together working on a project.,0,snli_ve_synthetic_neg
+val_100.jpg,Two men are searching their backpacks.,1,snli_ve
+val_100.jpg,Two women are searching their backpacks.,0,snli_ve_synthetic_neg
+val_101.jpg,There is a rider at a rodeo.,1,snli_ve
+val_102.jpg,A woman is inside.,0,snli_ve
+val_103.jpg,Two girls are outdoors.,1,snli_ve
+val_103.jpg,Two girls are indoors.,0,snli_ve_synthetic_neg
+val_105.jpg,A boy is in a blue shirt,0,snli_ve
+val_107.jpg,Two people walking outside a castle.,1,snli_ve
+val_107.jpg,Three people walking outside a castle.,0,snli_ve_synthetic_neg
+val_110.jpg,The boy is in school.,0,snli_ve
+val_111.jpg,The people are walking in the church.,0,snli_ve
+val_113.jpg,Nobody is riding,0,snli_ve
+val_114.jpg,A man is surfing.,1,snli_ve
+val_114.jpg,A woman is surfing.,0,snli_ve_synthetic_neg
+val_115.jpg,A Caucasian boy in a red shirt holds onto an aqua balloon.,0,snli_ve
+val_116.jpg,People waiting to go into a museum.,0,snli_ve
+val_117.jpg,There is a group of kids in town square.,1,snli_ve
+val_118.jpg,Three workers are in the city.,1,snli_ve
+val_118.jpg,Four workers are in the city.,0,snli_ve_synthetic_neg
+val_119.jpg,The bog has something it its mouth.,1,snli_ve
+val_120.jpg,Two race car drivers are driving on a track.,0,snli_ve
+val_122.jpg,A three woman band is performing on stage.,0,snli_ve
+val_124.jpg,The three children are watching a dog.,0,snli_ve
+val_128.jpg,A competitive sports event doesnt exist.,0,snli_ve
+val_129.jpg,"There are several people in this picture, and they are all outside.",1,snli_ve
+val_130.jpg,Both people are in motion.,1,snli_ve
+val_131.jpg,The man is chasing the woman on a city street.,0,snli_ve
+val_132.jpg,A man is in the police station.,0,snli_ve
+val_136.jpg,a man carrying metal poles,1,snli_ve
+val_136.jpg,a woman carrying metal poles,0,snli_ve_synthetic_neg
+val_138.jpg,a guy carries a stack of poles somewhere,1,snli_ve
+val_139.jpg,A man demonstrates how to climb.,1,snli_ve
+val_139.jpg,A woman demonstrates how to climb.,0,snli_ve_synthetic_neg
+val_142.jpg,Andretti races his Ferrari down the street.,0,snli_ve
+val_143.jpg,Players are playing basketball.,1,snli_ve
+val_144.jpg,The woman is walking on the train station platform.,1,snli_ve
+val_144.jpg,The man is walking on the train station platform.,0,snli_ve_synthetic_neg
+val_146.jpg,Dogs run after other,1,snli_ve
+val_147.jpg,There are two dogs and a man in the snow.,1,snli_ve
+val_147.jpg,There are three dogs and a man in the snow.,0,snli_ve_synthetic_neg
+val_149.jpg,Men are racing go karts.,0,snli_ve
+val_150.jpg,A child is outdoors.,1,snli_ve
+val_150.jpg,A child is indoors.,0,snli_ve_synthetic_neg
+val_151.jpg,A man cutting branches outdoors.,1,snli_ve
+val_151.jpg,A man cutting branches indoors.,0,snli_ve_synthetic_neg
+val_152.jpg,A group of people are playing music with instruments.,1,snli_ve
+val_153.jpg,Speaker talking to large crowd,1,snli_ve
+val_154.jpg,Men in blue jumpsuits and yellow shirts are right by yellow cylinders.,1,snli_ve
+val_154.jpg,Men in blue jumpsuits and yellow shirts are right by black cylinders.,0,snli_ve_synthetic_neg
+val_159.jpg,The child is inside.,0,snli_ve
+val_161.jpg,Women dressed nicely are being quiet,0,snli_ve
+val_162.jpg,The dog is gray.,0,snli_ve
+val_163.jpg,A dog is running fast.,1,snli_ve
+val_163.jpg,A dog is sleeping fast.,0,snli_ve_synthetic_neg
+val_164.jpg,a group of  bakers rob an artist,0,snli_ve
+val_165.jpg,The boy had a black hat and red shirt on while skateboarding.,0,snli_ve
+val_166.jpg,A cowboy is riding a horse,1,snli_ve
+val_167.jpg,The dogs are asleep.,0,snli_ve
+val_168.jpg,The man is holding a pole in his hands.,1,snli_ve
+val_168.jpg,The woman is holding a pole in his hands.,0,snli_ve_synthetic_neg
+val_169.jpg,Several men are standing next to yellow cylinders,1,snli_ve
+val_169.jpg,Several men are standing next to black cylinders,0,snli_ve_synthetic_neg
+val_170.jpg,Man going down a mountain in the snow.,1,snli_ve
+val_170.jpg,Woman going down a mountain in the snow.,0,snli_ve_synthetic_neg
+val_172.jpg,The woman is looking at magazines.,1,snli_ve
+val_172.jpg,The man is looking at magazines.,0,snli_ve_synthetic_neg
+val_174.jpg,Some girls are sitting,0,snli_ve
+val_175.jpg,A woman is running down the street with a beer in her hand.,0,snli_ve
+val_176.jpg,The woman is looking at her cell phone.,0,snli_ve
+val_179.jpg,Two men farming.,0,snli_ve
+val_181.jpg,Several young men are competing outdoors,1,snli_ve
+val_181.jpg,Several young women are competing outdoors,0,snli_ve_synthetic_neg
+val_182.jpg,Someone is looking through a telescope.,1,snli_ve
+val_183.jpg,People are playing a on beach.,1,snli_ve
+val_184.jpg,The boy wore a red hat while skateboarding near a curb with a red stripe.,1,snli_ve
+val_184.jpg,The boy wore a blue hat while skateboarding near a curb with a red stripe.,0,snli_ve_synthetic_neg
+val_187.jpg,A woman is drinking some coffee at a cafe,0,snli_ve
+val_188.jpg,A man is talking in a mike.,1,snli_ve
+val_188.jpg,A woman is talking in a mike.,0,snli_ve_synthetic_neg
+val_190.jpg,The parents are in a public area.,1,snli_ve
+val_191.jpg,A Taiwan man holds up a sign with a political slogan on it,1,snli_ve
+val_191.jpg,A Taiwan woman holds up a sign with a political slogan on it,0,snli_ve_synthetic_neg
+val_192.jpg,A man is dressed as a woman.,1,snli_ve
+val_192.jpg,A woman is dressed as a woman.,0,snli_ve_synthetic_neg
+val_195.jpg,A lady is in the middle of some rollerskaters.,1,snli_ve
+val_196.jpg,"There are 2 boys, and they are outside in a garden of some type",1,snli_ve
+val_197.jpg,A young newlywed holds the door for his bride.,0,snli_ve
+val_200.jpg,A young lady with a broken leg is being wheeled out of the hospital.,0,snli_ve
+val_201.jpg,Two people were waiting for the train.,1,snli_ve
+val_201.jpg,Three people were waiting for the train.,0,snli_ve_synthetic_neg
+val_202.jpg,Two players in blue jerseys and white pants stand on a pitcher's mound.,1,snli_ve
+val_202.jpg,Three players in blue jerseys and white pants stand on a pitcher's mound.,0,snli_ve_synthetic_neg
+val_205.jpg,There is a person outside.,1,snli_ve
+val_206.jpg,Four men play baseball on the diamond.,0,snli_ve
+val_209.jpg,The woman is sitting on a fake alligator.,1,snli_ve
+val_209.jpg,The man is sitting on a fake alligator.,0,snli_ve_synthetic_neg
+val_210.jpg,A woman is carrying a dog.,0,snli_ve
+val_214.jpg,A bride is worried.,1,snli_ve
+val_215.jpg,The cart is full of tennis balls,1,snli_ve
+val_216.jpg,A woman and a young child walking.,0,snli_ve
+val_217.jpg,The boys are friendly with each other.,1,snli_ve
+val_218.jpg,The tow men have backpacks,1,snli_ve
+val_218.jpg,The tow women have backpacks,0,snli_ve_synthetic_neg
+val_219.jpg,The baby is outside.,1,snli_ve
+val_220.jpg,A child jumping off of a diving board at a public swimming pool on a sunny day.,1,snli_ve
+val_220.jpg,A child jumping off of a diving board at a public swimming pool on a sunny night.,0,snli_ve_synthetic_neg
+val_221.jpg,A brown dog is walking.,1,snli_ve
+val_221.jpg,A gray dog is walking.,0,snli_ve_synthetic_neg
+val_224.jpg,Some children are playing together.,1,snli_ve
+val_225.jpg,The girl and the dog are not interacting.,0,snli_ve
+val_227.jpg,Black dresses play Twister.,0,snli_ve
+val_229.jpg,a child sits and reads a book,0,snli_ve
+val_231.jpg,The girls are taking a picture.,1,snli_ve
+val_232.jpg,A man playing on a plastic horse.,0,snli_ve
+val_233.jpg,A stone wall is shown outdoors.,1,snli_ve
+val_233.jpg,A stone wall is shown indoors.,0,snli_ve_synthetic_neg
+val_234.jpg,A man in uniform is standing outdoors.,1,snli_ve
+val_234.jpg,A woman in uniform is standing outdoors.,0,snli_ve_synthetic_neg
+val_235.jpg,People are boarding a public bus.,0,snli_ve
+val_237.jpg,A man in blue is doing a snowboarding trick.,1,snli_ve
+val_237.jpg,A woman in blue is doing a snowboarding trick.,0,snli_ve_synthetic_neg
+val_238.jpg,The man is in the ocean.,0,snli_ve
+val_239.jpg,The boy and girl are playing games together inside.,0,snli_ve
+val_240.jpg,A girl jumps in her newly cut lawn,1,snli_ve
+val_240.jpg,A boy jumps in her newly cut lawn,0,snli_ve_synthetic_neg
+val_241.jpg,There is a third glass that is invisible to the naked eye.,0,snli_ve
+val_246.jpg,A man is shucking ears of corn for the patrons.,0,snli_ve
+val_247.jpg,The man is watching a baseball game.,0,snli_ve
+val_248.jpg,A human sitting.,1,snli_ve
+val_248.jpg,A human running.,0,snli_ve_synthetic_neg
+val_250.jpg,A man in a dark suit runs toward the taxi in front of the white building.,0,snli_ve
+val_251.jpg,The blond toddler stands on the street corner hailing a taxi.,0,snli_ve
+val_252.jpg,Naked men cooking steak.,0,snli_ve
+val_253.jpg,A girl is standing inside a building.,1,snli_ve
+val_253.jpg,A girl is sitting inside a building.,0,snli_ve_synthetic_neg
+val_258.jpg,The two men are staring.,1,snli_ve
+val_258.jpg,The three men are staring.,0,snli_ve_synthetic_neg
+val_260.jpg,A few boys pick strawberries from a garden,0,snli_ve
+val_261.jpg,Some unemployed bums are being lazy as they always are.,0,snli_ve
+val_263.jpg,The kids' hands are empty.,0,snli_ve
+val_265.jpg,The surfer is skateboarding.,0,snli_ve
+val_266.jpg,A little girl and boy are reading books.,1,snli_ve
+val_266.jpg,A little boy and boy are reading books.,0,snli_ve_synthetic_neg
+val_267.jpg,a picture is being taken,1,snli_ve
+val_268.jpg,A dog is sitting outside.,0,snli_ve
+val_272.jpg,Two boys pose next to a statue.,0,snli_ve
+val_274.jpg,"Three people standing behind three older, identical phone booths.",1,snli_ve
+val_274.jpg,"Three people standing behind four older, identical phone booths.",0,snli_ve_synthetic_neg
+val_275.jpg,The man is eating pizza while talking on his cell phone.,0,snli_ve
+val_276.jpg,The girls are playing on a street.,0,snli_ve
+val_279.jpg,A blond woman in red and a woman in black smile at one another.,1,snli_ve
+val_279.jpg,A blond woman in red and a woman in black smile at two another.,0,snli_ve_synthetic_neg
+val_280.jpg,a man is riding a bicyle,1,snli_ve
+val_280.jpg,a woman is riding a bicyle,0,snli_ve_synthetic_neg
+val_283.jpg,A bird is in the air,1,snli_ve
+val_284.jpg,a teen is not using her phone,0,snli_ve
+val_285.jpg,a race car makes turn,1,snli_ve
+val_286.jpg,Teenage girl jumps in field,1,snli_ve
+val_286.jpg,Teenage boy jumps in field,0,snli_ve_synthetic_neg
+val_287.jpg,Nobody is taking a picture.,0,snli_ve
+val_289.jpg,Person with wounds on their face.,1,snli_ve
+val_290.jpg,A young girl is standing next to a bonfire in a field.,0,snli_ve
+val_291.jpg,A scene from a riot going on where protesters are being oppressed by the cops.,0,snli_ve
+val_292.jpg,Kids are playing soccer.,1,snli_ve
+val_293.jpg,The woman has something with her.,1,snli_ve
+val_293.jpg,The man has something with her.,0,snli_ve_synthetic_neg
+val_294.jpg,A woman plays softball.,0,snli_ve
+val_295.jpg,a kid in the air on his bike,1,snli_ve
+val_296.jpg,Someone is sitting without their shoes on.,1,snli_ve
+val_296.jpg,Someone is running without their shoes on.,0,snli_ve_synthetic_neg
+val_297.jpg,Kids are on amusement park rides,1,snli_ve
+val_298.jpg,A group of women is skinny-dipping.,0,snli_ve
+val_299.jpg,A child playing on a horse.,1,snli_ve
+val_300.jpg,A man taking a picture of several ghosts,0,snli_ve
+val_302.jpg,The man is holding an instrument.,1,snli_ve
+val_302.jpg,The woman is holding an instrument.,0,snli_ve_synthetic_neg
+val_303.jpg,A puppy is sitting.,0,snli_ve
+val_304.jpg,The surfer is making dinner.,0,snli_ve
+val_305.jpg,Women are wearing orange bathing suits,1,snli_ve
+val_306.jpg,The surfer is surfing.,1,snli_ve
+val_307.jpg,The man wears a hat.,1,snli_ve
+val_308.jpg,"There are two people in this picture, and they are competing against each other.",1,snli_ve
+val_313.jpg,A person is standing next to a doorway of a concrete building.,1,snli_ve
+val_314.jpg,The woman is outdoors.,1,snli_ve
+val_316.jpg,There are people in the ocean.,1,snli_ve
+val_321.jpg,A man is laying down.,1,snli_ve
+val_324.jpg,A young girl plays in the surf.,1,snli_ve
+val_330.jpg,The dog is outdoors.,1,snli_ve
+val_333.jpg,"4 guys, are wearing clothes",1,snli_ve
+val_334.jpg,There is a woman outside waiting for transportation.,1,snli_ve
+val_337.jpg,A group of girls feel the men looking at them.,1,snli_ve
+val_341.jpg,A man examines an advertisement,1,snli_ve
+val_346.jpg,Two men are working.,1,snli_ve
+val_352.jpg,A man prepares food.,1,snli_ve
+val_355.jpg,There is a person at a table.,1,snli_ve
+val_356.jpg,people listening to a lecture.,1,snli_ve
+val_357.jpg,Two women dance.,1,snli_ve
+val_359.jpg,Someone is doing something about a sink.,1,snli_ve
+val_361.jpg,"A group of people stand around indoors, one wearing a fedora hat and zip up hoodie with stripes.",1,snli_ve
+val_363.jpg,This is a black and white image of a person cooking something at a food stand on a street,1,snli_ve
+val_365.jpg,A boy is diving.,1,snli_ve
+val_367.jpg,A boy plays at the beach,1,snli_ve
+val_368.jpg,A man with a face problem.,1,snli_ve
+val_369.jpg,A woman carries a child on her back.,1,snli_ve
+val_371.jpg,a dog attempts a squeeze,1,snli_ve
+val_373.jpg,The women are wearing orange clothes.,1,snli_ve
+val_379.jpg,A group of kids are playing outside.,1,snli_ve
+val_380.jpg,The man is at a park.,1,snli_ve
+val_381.jpg,The men own backpacks.,1,snli_ve
+val_387.jpg,Workers making food.,1,snli_ve
+val_388.jpg,There is a man grilling food while another talks to the camera.,1,snli_ve
+val_389.jpg,A man in green is skateboarding.,1,snli_ve
+val_390.jpg,Two people are touching each other.,1,snli_ve
+val_391.jpg,A person is upright.,1,snli_ve
+val_392.jpg,a guy with a guitar stands by a lady,1,snli_ve
+val_393.jpg,a group of people look up,1,snli_ve
+val_395.jpg,The man is using a machine to dredge the river.,1,snli_ve
+val_397.jpg,"People standing, looking at art.",1,snli_ve
+val_403.jpg,A man walks around.,1,snli_ve
+val_412.jpg,These three make music together,1,snli_ve
+val_413.jpg,A surfer is surfing.,1,snli_ve
+val_417.jpg,The constuction workers were on a braek.,1,snli_ve
+val_418.jpg,A woman is sitting on the ground.,1,snli_ve
+val_419.jpg,There are mountains in the background.,1,snli_ve
+val_422.jpg,A little girl is outside.,1,snli_ve
+val_425.jpg,There are drinks being consumed at the bar.,1,snli_ve
+val_426.jpg,A couple on a walk goes under a narrow street arch.,1,snli_ve
+val_427.jpg,The skateboard is not on the ground.,1,snli_ve
+val_429.jpg,People are making art.,1,snli_ve

@@ -1,0 +1,4016 @@
+{
+  "A group of people standing next to bags of luggage.": [
+    {
+      "question": "A group of people standing next to what type of luggage?",
+      "answer": "bags"
+    },
+    {
+      "question": "A group of people standing next to bags of what?",
+      "answer": "luggage"
+    },
+    {
+      "question": "What is standing next to bags of luggage?",
+      "answer": "A group"
+    }
+  ],
+  "The old tow truck tries to lift an overturned truck that's on it's side.": [
+    {
+      "question": "What is on the side of the tow truck?",
+      "answer": "truck"
+    },
+    {
+      "question": "What is the name of the old truck that tries to lift an overturned truck?",
+      "answer": "tow"
+    },
+    {
+      "question": "On what side of the truck is the tow truck trying to lift?",
+      "answer": "side"
+    },
+    {
+      "question": "What type of tow truck tries to lift an overturned truck?",
+      "answer": "old"
+    },
+    {
+      "question": "Who tries to lift an overturned truck?",
+      "answer": "The old tow truck"
+    },
+    {
+      "question": "What does the old tow truck try to lift?",
+      "answer": "an overturned truck"
+    }
+  ],
+  "A cat on the lid of a toilet looking perturbed.": [
+    {
+      "question": "What part of a toilet looks perturbed?",
+      "answer": "lid"
+    },
+    {
+      "question": "What animal is on the lid of a toilet?",
+      "answer": "cat"
+    },
+    {
+      "question": "Who is on the lid of a toilet looking perturbed?",
+      "answer": "A cat"
+    },
+    {
+      "question": "A cat on the lid of what?",
+      "answer": "toilet"
+    }
+  ],
+  "A train pulls up along some buildings.": [
+    {
+      "question": "What pulls up along some buildings?",
+      "answer": "train"
+    },
+    {
+      "question": "A train pulls up along what?",
+      "answer": "buildings"
+    }
+  ],
+  "A baseball player is swinging and about to run.": [
+    {
+      "question": "Who is swinging and about to run?",
+      "answer": "player"
+    },
+    {
+      "question": "What sport does a player play?",
+      "answer": "baseball"
+    }
+  ],
+  "Girl trying out a game at a trade show.": [
+    {
+      "question": "What type of show did a girl try out a game at?",
+      "answer": "trade"
+    },
+    {
+      "question": "What did a girl try out at a trade show?",
+      "answer": "game"
+    },
+    {
+      "question": "Where is a girl trying out a game?",
+      "answer": "a trade show"
+    }
+  ],
+  "a women that is walking down a sidwalk": [
+    {
+      "question": "Who is walking down a sidwalk?",
+      "answer": "women"
+    },
+    {
+      "question": "What is a woman walking down?",
+      "answer": "sidwalk"
+    }
+  ],
+  "A grasshopper in a cage eating a slice of carrot.": [
+    {
+      "question": "What is in a cage eating a carrot?",
+      "answer": "A grasshopper"
+    },
+    {
+      "question": "What kind of animal is in a cage eating a carrot?",
+      "answer": "grasshopper"
+    },
+    {
+      "question": "What is a grasshopper in?",
+      "answer": "a cage"
+    },
+    {
+      "question": "What is a grasshopper eating in a cage?",
+      "answer": "carrot"
+    }
+  ],
+  "A person on a snow board high up in the air.": [
+    {
+      "question": "A person on a snow board is high up in what?",
+      "answer": "the air"
+    },
+    {
+      "question": "What kind of board is a person on?",
+      "answer": "snow"
+    },
+    {
+      "question": "What is a person on?",
+      "answer": "a snow board"
+    }
+  ],
+  "A road wet from rain, and clouds still on the mountain. ": [
+    {
+      "question": "What kind of weather did the road get from rain?",
+      "answer": "wet"
+    },
+    {
+      "question": "A road wet from what?",
+      "answer": "rain"
+    },
+    {
+      "question": "What is wet from rain?",
+      "answer": "road"
+    },
+    {
+      "question": "What is still on the mountain?",
+      "answer": "clouds"
+    }
+  ],
+  "A red fire hydrant sitting in the middle of the grass.": [
+    {
+      "question": "In what part of the grass is a fire hydrant located?",
+      "answer": "middle"
+    },
+    {
+      "question": "Where is the fire hydrant located?",
+      "answer": "the middle"
+    },
+    {
+      "question": "What is sitting in the middle of the grass?",
+      "answer": "A red fire hydrant"
+    },
+    {
+      "question": "What is in the middle of the grass?",
+      "answer": "hydrant"
+    },
+    {
+      "question": "What kind of vegetation is the fire hydrant in?",
+      "answer": "grass"
+    },
+    {
+      "question": "What kind of hydrant is in the middle of the grass?",
+      "answer": "fire"
+    },
+    {
+      "question": "What color is the fire hydrant?",
+      "answer": "red"
+    }
+  ],
+  "A large plate is adorned with broccoli and a rather small piece of meat.": [
+    {
+      "question": "Along with a small piece of meat, what is on a large plate?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "What size plate is adorned with broccoli and a small piece of meat?",
+      "answer": "large"
+    },
+    {
+      "question": "Along with broccoli, what is on the plate?",
+      "answer": "meat"
+    },
+    {
+      "question": "How big is the piece of meat on the plate?",
+      "answer": "small"
+    },
+    {
+      "question": "What is adorned with broccoli and a small piece of meat?",
+      "answer": "A large plate"
+    }
+  ],
+  "a girl jumping in the air to catch a frisbee": [
+    {
+      "question": "Where does a girl jump to catch a frisbee?",
+      "answer": "the air"
+    },
+    {
+      "question": "Who is jumping in the air to catch a frisbee?",
+      "answer": "girl"
+    },
+    {
+      "question": "What is a girl jumping in the air to catch?",
+      "answer": "frisbee"
+    },
+    {
+      "question": "What is a girl jumping in to catch a frisbee?",
+      "answer": "air"
+    }
+  ],
+  "Two baby gray elephants standing in front of each other.": [
+    {
+      "question": "Where are the baby gray elephants standing?",
+      "answer": "front"
+    },
+    {
+      "question": "What kind of animals are in front of each other?",
+      "answer": "elephants"
+    },
+    {
+      "question": "What color are the elephants?",
+      "answer": "gray"
+    },
+    {
+      "question": "What kind of elephants are in front of each other?",
+      "answer": "baby"
+    },
+    {
+      "question": "What are standing in front of each other?",
+      "answer": "Two baby gray elephants"
+    }
+  ],
+  "female tennis player running to intercept the ball": [
+    {
+      "question": "Who is running to intercept the ball?",
+      "answer": "female tennis player"
+    },
+    {
+      "question": "What type of tennis player is running to intercept the ball?",
+      "answer": "female"
+    }
+  ],
+  "A cup filled with umbrellas and canes next to a white wall.": [
+    {
+      "question": "What is filled with umbrellas and canes next to a wall?",
+      "answer": "cup"
+    },
+    {
+      "question": "What is filled with umbrellas and canes?",
+      "answer": "A cup"
+    },
+    {
+      "question": "Along with canes and canes, what is in a cup?",
+      "answer": "umbrellas"
+    },
+    {
+      "question": "What color is the wall next to the cup?",
+      "answer": "white"
+    },
+    {
+      "question": "A cup filled with umbrellas and canes is next to what?",
+      "answer": "a white wall"
+    },
+    {
+      "question": "A cup filled with umbrellas and what else is next to the white wall?",
+      "answer": "canes"
+    }
+  ],
+  "One light brown cow with hay in it's mouth.": [
+    {
+      "question": "What is in the mouth of a light brown cow?",
+      "answer": "hay"
+    },
+    {
+      "question": "What type of animal has hay in it's mouth?",
+      "answer": "cow"
+    },
+    {
+      "question": "What part of the cow has hay in it?",
+      "answer": "mouth"
+    },
+    {
+      "question": "What color is the cow with hay in it's mouth?",
+      "answer": "light"
+    }
+  ],
+  "A plate of chicken with herbs and steamed broccoli.": [
+    {
+      "question": "What vegetable is steamed with the chicken?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "Along with herbs, what is on the plate of chicken?",
+      "answer": "steamed broccoli"
+    },
+    {
+      "question": "What kind of broccoli is on the plate?",
+      "answer": "steamed"
+    },
+    {
+      "question": "What is on a plate with herbs and steamed broccoli?",
+      "answer": "chicken"
+    },
+    {
+      "question": "Along with steamed broccoli, what is on a plate of chicken?",
+      "answer": "herbs"
+    }
+  ],
+  "A table filled with a cake and paper plates with ice cream and cake.": [
+    {
+      "question": "A table filled with paper plates with ice cream and what else?",
+      "answer": "cake"
+    },
+    {
+      "question": "What kind of plates are filled with ice cream and cake?",
+      "answer": "paper"
+    },
+    {
+      "question": "What is a table filled with?",
+      "answer": "a cake and paper plates"
+    },
+    {
+      "question": "Along with cake and paper plates, what is on the table?",
+      "answer": "ice cream"
+    }
+  ],
+  "Two giraffes standing outdoors near a brick building.": [
+    {
+      "question": "What kind of animals are standing near a brick building?",
+      "answer": "giraffes"
+    },
+    {
+      "question": "What do giraffes stand near?",
+      "answer": "building"
+    },
+    {
+      "question": "How many giraffes are standing near a brick building?",
+      "answer": "Two giraffes"
+    },
+    {
+      "question": "Where are the giraffes standing?",
+      "answer": "a brick building"
+    },
+    {
+      "question": "What type of building are the giraffes standing near?",
+      "answer": "brick"
+    }
+  ],
+  "A child holding a flowered umbrella and petting a yak.": [
+    {
+      "question": "Who is holding an umbrella and petting a yak?",
+      "answer": "A child"
+    },
+    {
+      "question": "What animal is a child petting?",
+      "answer": "a yak"
+    },
+    {
+      "question": "What is a child holding and petting a yak?",
+      "answer": "a flowered umbrella"
+    },
+    {
+      "question": "What is a child holding when petting a yak?",
+      "answer": "umbrella"
+    },
+    {
+      "question": "What type of umbrella is a child holding?",
+      "answer": "flowered"
+    }
+  ],
+  "Dog lying on bedding material in suitcase in large room.": [
+    {
+      "question": "In what room is a dog sleeping in a suitcase?",
+      "answer": "large room"
+    },
+    {
+      "question": "What does a dog lie on in a suitcase?",
+      "answer": "bedding material"
+    },
+    {
+      "question": "Where is the dog seated in a large room?",
+      "answer": "suitcase"
+    }
+  ],
+  "Persons skating in the ice skating rink on the skateboard.": [
+    {
+      "question": "What do people skate on in the ice rink?",
+      "answer": "the skateboard"
+    },
+    {
+      "question": "Who skates in the ice skating rink?",
+      "answer": "Persons"
+    },
+    {
+      "question": "Where do people skate?",
+      "answer": "the ice skating rink"
+    },
+    {
+      "question": "What do people skate on in the ice skating rink?",
+      "answer": "skateboard"
+    },
+    {
+      "question": "What type of skating rink is used?",
+      "answer": "ice"
+    }
+  ],
+  "The man is posing with his umbrella up.": [
+    {
+      "question": "What is the man posing with?",
+      "answer": "his umbrella"
+    },
+    {
+      "question": "What is the man wearing when posing?",
+      "answer": "umbrella"
+    }
+  ],
+  "TWO LADIES ARE OUT SPENDING THE DAY SKIING": [
+    {
+      "question": "How many LADIES ARE OUT SPENDING THE DAY SKIING?",
+      "answer": "TWO LADIES"
+    },
+    {
+      "question": "WHAT ARE OUT SPENDING THE DAY SKIING?",
+      "answer": "LADIES"
+    }
+  ],
+  "A kneeling woman takes a photo of a park bench.": [
+    {
+      "question": "A kneeling woman takes a photo of what in a park?",
+      "answer": "bench"
+    },
+    {
+      "question": "What does a woman take of a park bench?",
+      "answer": "a photo"
+    },
+    {
+      "question": "What kind of woman takes a photo of a park bench?",
+      "answer": "kneeling"
+    },
+    {
+      "question": "Who takes a photo of a park bench?",
+      "answer": "woman"
+    },
+    {
+      "question": "A kneeling woman takes a photo of what type of bench?",
+      "answer": "park"
+    },
+    {
+      "question": "A kneeling woman takes a photo of what?",
+      "answer": "a park bench"
+    }
+  ],
+  "A beautiful woman with red hair sitting at a table.": [
+    {
+      "question": "What kind of woman is sitting at a table?",
+      "answer": "beautiful"
+    },
+    {
+      "question": "What is a beautiful woman sitting at?",
+      "answer": "table"
+    },
+    {
+      "question": "What kind of hair does a woman have?",
+      "answer": "red hair"
+    },
+    {
+      "question": "Who is sitting at a table with red hair?",
+      "answer": "woman"
+    },
+    {
+      "question": "What is a woman with red hair sitting at a table?",
+      "answer": "A beautiful woman"
+    },
+    {
+      "question": "What color hair does a woman have?",
+      "answer": "red"
+    }
+  ],
+  "A man riding a water ski kicking up waves.": [
+    {
+      "question": "Who is riding a water ski?",
+      "answer": "man"
+    },
+    {
+      "question": "A man riding a water ski kicking up what?",
+      "answer": "waves"
+    },
+    {
+      "question": "What type of ski is a man riding?",
+      "answer": "water"
+    }
+  ],
+  "We are looking up at a street sign with a building in the background.": [
+    {
+      "question": "What part of the sign is a building in?",
+      "answer": "background"
+    },
+    {
+      "question": "What is in the background of the street sign?",
+      "answer": "building"
+    },
+    {
+      "question": "What is in the background of a building?",
+      "answer": "sign"
+    }
+  ],
+  "A dog and cat lying  together on an orange couch.": [
+    {
+      "question": "A dog and what other animal are on an orange couch?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is an orange dog and cat lying on?",
+      "answer": "couch"
+    },
+    {
+      "question": "What is a dog and cat lying on?",
+      "answer": "an orange couch"
+    },
+    {
+      "question": "What kind of animal is on a couch with a cat?",
+      "answer": "dog"
+    },
+    {
+      "question": "What color couch is the dog and cat lying on?",
+      "answer": "orange"
+    }
+  ],
+  "A red fire hydrant is leaking onto a side walk.": [
+    {
+      "question": "What is leaking onto a side walk?",
+      "answer": "A red fire hydrant"
+    },
+    {
+      "question": "On what side of the street is a fire hydrant leaking?",
+      "answer": "walk"
+    },
+    {
+      "question": "Where is the fire hydrant leaking?",
+      "answer": "a side walk"
+    },
+    {
+      "question": "What type of hydrant is leaking onto a side walk?",
+      "answer": "fire"
+    },
+    {
+      "question": "What color is the fire hydrant?",
+      "answer": "red"
+    }
+  ],
+  "A water bird stands on the shore as the tide comes in.": [
+    {
+      "question": "When does a water bird stand on the shore?",
+      "answer": "the tide"
+    },
+    {
+      "question": "When does the water bird stand on the shore?",
+      "answer": "tide"
+    },
+    {
+      "question": "What type of bird stands on the shore when the tide comes in?",
+      "answer": "water"
+    },
+    {
+      "question": "Where does a water bird stand when the tide comes in?",
+      "answer": "the shore"
+    },
+    {
+      "question": "What stands on the shore as the tide comes in?",
+      "answer": "A water bird"
+    }
+  ],
+  "a man is riding a skateboard in the street": [
+    {
+      "question": "Who is riding a skateboard in the street?",
+      "answer": "man"
+    },
+    {
+      "question": "Where is a man riding a skateboard?",
+      "answer": "the street"
+    },
+    {
+      "question": "What is a man riding in the street?",
+      "answer": "a skateboard"
+    }
+  ],
+  "a kitchen with a refrigerator and tiled floors": [
+    {
+      "question": "What part of the kitchen is tiled?",
+      "answer": "floors"
+    },
+    {
+      "question": "What type of flooring is used in a kitchen with a refrigerator?",
+      "answer": "tiled"
+    },
+    {
+      "question": "What kind of flooring is included in a kitchen with a refrigerator?",
+      "answer": "tiled floors"
+    },
+    {
+      "question": "What is in a kitchen with tiled floors?",
+      "answer": "a refrigerator"
+    }
+  ],
+  "A surfer sits on his surfboard in the sand close to the water.": [
+    {
+      "question": "What type of person sits on his surfboard?",
+      "answer": "surfer"
+    },
+    {
+      "question": "A surfer sits on what in the sand near the water?",
+      "answer": "surfboard"
+    },
+    {
+      "question": "A surfer sits in the sand close to what?",
+      "answer": "water"
+    },
+    {
+      "question": "What kind of material does a surfer sit on when surfing?",
+      "answer": "sand"
+    },
+    {
+      "question": "Where does a surfer sit on his surfboard?",
+      "answer": "the sand"
+    }
+  ],
+  "Several people play a game with a Frisbee in a park.": [
+    {
+      "question": "What game do people play in a park?",
+      "answer": "Frisbee"
+    },
+    {
+      "question": "Where do people play Frisbee?",
+      "answer": "park"
+    },
+    {
+      "question": "What do people play in a park?",
+      "answer": "a Frisbee"
+    }
+  ],
+  "A bacon wrapped hotdog on a bun with onions": [
+    {
+      "question": "What is wrapped in a hotdog?",
+      "answer": "bacon"
+    },
+    {
+      "question": "What is a bacon wrapped hotdog on?",
+      "answer": "a bun"
+    },
+    {
+      "question": "What is a bacon wrapped hotdog on a bun with?",
+      "answer": "onions"
+    },
+    {
+      "question": "What is a bun with onions and bacon wrapped?",
+      "answer": "hotdog"
+    }
+  ],
+  "A sandwich is next to a yellow stuffed animal.": [
+    {
+      "question": "A sandwich is next to what?",
+      "answer": "a yellow stuffed animal"
+    },
+    {
+      "question": "What is next to a yellow stuffed animal?",
+      "answer": "A sandwich"
+    },
+    {
+      "question": "What is next to a sandwich?",
+      "answer": "animal"
+    },
+    {
+      "question": "What color is the stuffed animal next to the sandwich?",
+      "answer": "yellow"
+    }
+  ],
+  "A large brown dog walking in front of a woman holding two ski poles.": [
+    {
+      "question": "What is walking in front of a woman holding two ski poles?",
+      "answer": "A large brown dog"
+    },
+    {
+      "question": "What does the dog hold in front of the woman?",
+      "answer": "poles"
+    },
+    {
+      "question": "What size is a brown dog?",
+      "answer": "large"
+    },
+    {
+      "question": "In what direction is a large brown dog walking?",
+      "answer": "front"
+    },
+    {
+      "question": "Who is holding two ski poles?",
+      "answer": "a woman"
+    },
+    {
+      "question": "What kind of poles does the dog hold?",
+      "answer": "ski"
+    },
+    {
+      "question": "What type of animal is walking in front of a woman holding two ski poles?",
+      "answer": "dog"
+    },
+    {
+      "question": "What color is the dog?",
+      "answer": "brown"
+    }
+  ],
+  "a man is reaching back with a tennis racket": [
+    {
+      "question": "What is a man reaching back with?",
+      "answer": "racket"
+    },
+    {
+      "question": "What type of racket does a man use to reach back?",
+      "answer": "tennis"
+    },
+    {
+      "question": "Who is reaching back with a tennis racket?",
+      "answer": "man"
+    }
+  ],
+  "A man talking on a phone standing in front of a building.": [
+    {
+      "question": "Who is talking on a phone in front of a building?",
+      "answer": "man"
+    },
+    {
+      "question": "A man talking on a phone standing in front of what?",
+      "answer": "building"
+    },
+    {
+      "question": "What is a man talking on?",
+      "answer": "a phone standing"
+    },
+    {
+      "question": "What position is a man talking on a phone in front of a building?",
+      "answer": "standing"
+    },
+    {
+      "question": "What device is a man talking on?",
+      "answer": "phone"
+    }
+  ],
+  "A large white horse walking along side the road.": [
+    {
+      "question": "What type of animal is walking along the road?",
+      "answer": "horse"
+    },
+    {
+      "question": "What size is the white horse walking along the road?",
+      "answer": "large"
+    },
+    {
+      "question": "What color horse is walking along the road?",
+      "answer": "white"
+    },
+    {
+      "question": "What is walking along side the road?",
+      "answer": "A large white horse"
+    }
+  ],
+  "An orange tabby cat is curled up fast asleep on the top of a sofa cushion.": [
+    {
+      "question": "What is curled up on a sofa cushion?",
+      "answer": "An orange tabby cat"
+    },
+    {
+      "question": "Where is the orange tabby cat fast asleep?",
+      "answer": "a sofa cushion"
+    },
+    {
+      "question": "What type of cat is curled up on a sofa?",
+      "answer": "tabby"
+    },
+    {
+      "question": "What type of animal is curled up on a sofa?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is an orange tabby cat curled up fast on a sofa cushion?",
+      "answer": "asleep"
+    },
+    {
+      "question": "What is the top of a sofa?",
+      "answer": "cushion"
+    },
+    {
+      "question": "What type of cushion is the orange tabby on?",
+      "answer": "sofa"
+    },
+    {
+      "question": "What color is the tabby cat?",
+      "answer": "orange"
+    }
+  ],
+  "A young baseball player in uniform getting ready to bat.,": [
+    {
+      "question": "What sport does a young player play?",
+      "answer": "baseball"
+    },
+    {
+      "question": "What is a young baseball player wearing?",
+      "answer": "uniform"
+    }
+  ],
+  "A white dish plated with corn, carrots, tomatoes, onions, olives, herbs and oil.": [
+    {
+      "question": "Along with tomatoes, onions, olives, herbs and oil, what is on the white dish?",
+      "answer": "carrots"
+    },
+    {
+      "question": "What is plated with corn, carrots, tomatoes, onions, olives, herbs and oil?",
+      "answer": "A white dish"
+    },
+    {
+      "question": "Along with carrots, tomatoes, onions, olives, herbs and oil, what is on a white dish?",
+      "answer": "corn"
+    },
+    {
+      "question": "Along with corn, carrots, tomatoes, onions, herbs and oil, what else is included in the dish?",
+      "answer": "olives"
+    },
+    {
+      "question": "Along with corn, carrots, tomatoes, onions, olives, herbs and what else is included in the dish?",
+      "answer": "oil"
+    },
+    {
+      "question": "What color dish is plated with corn, carrots, tomatoes, onions, olives, herbs and oil?",
+      "answer": "white"
+    },
+    {
+      "question": "Along with corn, carrots, tomatoes, onions, olives, and oil, what is on the white dish?",
+      "answer": "herbs"
+    }
+  ],
+  "A cat on a toilet seat of some sort.": [
+    {
+      "question": "What animal is on a toilet seat?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is on a toilet seat of some sort?",
+      "answer": "A cat"
+    },
+    {
+      "question": "What kind of toilet is a cat on?",
+      "answer": "seat"
+    },
+    {
+      "question": "What kind of seat is a cat on?",
+      "answer": "toilet"
+    },
+    {
+      "question": "What is a cat on?",
+      "answer": "a toilet seat"
+    }
+  ],
+  "a group of people picking out bananas from carts": [
+    {
+      "question": "What do people pick out bananas from?",
+      "answer": "carts"
+    },
+    {
+      "question": "What do people pick out of carts?",
+      "answer": "bananas"
+    }
+  ],
+  "A toilet sitting in a bathroom next to a sink.": [
+    {
+      "question": "Where is a toilet sitting next to a sink?",
+      "answer": "a bathroom"
+    },
+    {
+      "question": "A toilet sits in a bathroom next to what?",
+      "answer": "sink"
+    },
+    {
+      "question": "What is a toilet in a bathroom next to?",
+      "answer": "a sink"
+    },
+    {
+      "question": "What is sitting in a bathroom next to a sink?",
+      "answer": "A toilet"
+    },
+    {
+      "question": "In what room is a toilet located next to a sink?",
+      "answer": "bathroom"
+    }
+  ],
+  "A man working on ski bindings with other ski gear around in a living area": [
+    {
+      "question": "Where is the man working on ski bindings?",
+      "answer": "area"
+    },
+    {
+      "question": "Where is a man working on ski bindings?",
+      "answer": "a living area"
+    },
+    {
+      "question": "What is a man working on in a living area?",
+      "answer": "bindings"
+    },
+    {
+      "question": "What is a man working on ski bindings with?",
+      "answer": "other ski gear"
+    },
+    {
+      "question": "What kind of equipment is a man working on?",
+      "answer": "ski"
+    }
+  ],
+  "A baby elephant and an adult elephant in sandy area.": [
+    {
+      "question": "A baby elephant and what other animal are in a sandy area?",
+      "answer": "an adult elephant"
+    },
+    {
+      "question": "In what area is a baby elephant and an adult elephant?",
+      "answer": "area"
+    },
+    {
+      "question": "What type of area is the elephant in?",
+      "answer": "sandy"
+    },
+    {
+      "question": "What kind of animal is a baby?",
+      "answer": "elephant"
+    },
+    {
+      "question": "Where are the baby elephants and an adult elephant?",
+      "answer": "sandy area"
+    },
+    {
+      "question": "Along with an adult elephant, what is in a sandy area?",
+      "answer": "A baby elephant"
+    }
+  ],
+  "A man snowboard down the side of a snow covered slope.": [
+    {
+      "question": "Who snowboards down the side of a snow covered slope?",
+      "answer": "man"
+    },
+    {
+      "question": "Who can snowboard down the side of a snow covered slope?",
+      "answer": "A man"
+    },
+    {
+      "question": "A man snowboards down a slope covered in what?",
+      "answer": "snow"
+    },
+    {
+      "question": "What part of a snow covered slope does a man snowboard down?",
+      "answer": "the side"
+    },
+    {
+      "question": "A man snowboards down a snow covered what?",
+      "answer": "slope"
+    },
+    {
+      "question": "A man snowboards down the side of what?",
+      "answer": "a snow covered slope"
+    }
+  ],
+  "A large group of people on a couple boats in the water.": [
+    {
+      "question": "What is a large group of people on in the water?",
+      "answer": "a couple boats"
+    },
+    {
+      "question": "Where are the people on the boats?",
+      "answer": "water"
+    },
+    {
+      "question": "Where are a couple of people on a boat?",
+      "answer": "the water"
+    },
+    {
+      "question": "A large group of what is on a couple boats in the water?",
+      "answer": "people"
+    }
+  ],
+  "A giraffe lying on the ground in a zoo pin.": [
+    {
+      "question": "What is a giraffe in a zoo?",
+      "answer": "pin"
+    },
+    {
+      "question": "Where is a giraffe lying in a zoo pin?",
+      "answer": "ground"
+    },
+    {
+      "question": "What animal is on the ground in a zoo pin?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "Where is the giraffe lying in a zoo pin?",
+      "answer": "the ground"
+    },
+    {
+      "question": "What type of pin is a giraffe in?",
+      "answer": "zoo"
+    },
+    {
+      "question": "What animal is lying on the ground in a zoo pin?",
+      "answer": "A giraffe"
+    },
+    {
+      "question": "What is a giraffe lying on the ground in?",
+      "answer": "a zoo pin"
+    }
+  ],
+  "A kitchen with a stainless steel stove.and white cabinets.": [
+    {
+      "question": "What is a kitchen equipped with?",
+      "answer": "a stainless steel stove.and white cabinets"
+    },
+    {
+      "question": "A kitchen with a stainless steel what?",
+      "answer": "stove.and"
+    },
+    {
+      "question": "A kitchen with a stainless steel stove and white what?",
+      "answer": "cabinets"
+    },
+    {
+      "question": "What color are the cabinets in the kitchen?",
+      "answer": "white"
+    },
+    {
+      "question": "What kind of stove is used in a kitchen?",
+      "answer": "steel"
+    },
+    {
+      "question": "What kind of steel is used in a kitchen?",
+      "answer": "stainless"
+    }
+  ],
+  "A lone elephant is walking through a field": [
+    {
+      "question": "What type of elephant is walking through a field?",
+      "answer": "lone"
+    },
+    {
+      "question": "What is walking through a field?",
+      "answer": "A lone elephant"
+    },
+    {
+      "question": "What animal is walking through a field?",
+      "answer": "elephant"
+    },
+    {
+      "question": "A lone elephant is walking through what?",
+      "answer": "field"
+    }
+  ],
+  "An airplane parked next to a terminal ready for passengers to board.": [
+    {
+      "question": "An airplane parked next to a terminal is ready for whom to board?",
+      "answer": "passengers"
+    },
+    {
+      "question": "An airplane parked next to a terminal ready for passengers to do what?",
+      "answer": "board"
+    },
+    {
+      "question": "What is parked next to a terminal ready for passengers to board?",
+      "answer": "An airplane"
+    },
+    {
+      "question": "An airplane is parked next to what?",
+      "answer": "terminal"
+    },
+    {
+      "question": "An airplane parked next to a terminal is what?",
+      "answer": "ready"
+    }
+  ],
+  "A plate with chicken,carrots and mashed potatoes with silverware.": [
+    {
+      "question": "Along with chicken,carrots and what else is on the plate?",
+      "answer": "potatoes"
+    },
+    {
+      "question": "Along with chicken, potatoes and mashed potatoes, what vegetable is on the plate?",
+      "answer": "carrots"
+    },
+    {
+      "question": "Along with chicken,carrots and silverware, what is on the plate?",
+      "answer": "mashed potatoes"
+    },
+    {
+      "question": "What is on the plate with chicken,carrots and mashed potatoes?",
+      "answer": "silverware"
+    },
+    {
+      "question": "Along with carrots and mashed potatoes, what is on the plate?",
+      "answer": "chicken"
+    },
+    {
+      "question": "What kind of potatoes are on the plate?",
+      "answer": "mashed"
+    }
+  ],
+  "A young boy riding a skateboard and wearing a helmet.": [
+    {
+      "question": "How old was the boy riding a skateboard?",
+      "answer": "young"
+    },
+    {
+      "question": "What is a young boy wearing when riding a skateboard?",
+      "answer": "a helmet"
+    },
+    {
+      "question": "What is a young boy riding?",
+      "answer": "a skateboard"
+    },
+    {
+      "question": "Who is riding a skateboard with a helmet?",
+      "answer": "A young boy"
+    }
+  ],
+  "a person sitting on the ground with a laptop": [
+    {
+      "question": "What is a person sitting on with a laptop?",
+      "answer": "ground"
+    },
+    {
+      "question": "What is a person sitting on the ground with?",
+      "answer": "laptop"
+    },
+    {
+      "question": "Where is a person sitting with a laptop?",
+      "answer": "the ground"
+    }
+  ],
+  "A black cat sleeping in the sun on a bench": [
+    {
+      "question": "Where is a black cat sleeping in the sun?",
+      "answer": "bench"
+    },
+    {
+      "question": "What type of animal is sleeping on a bench?",
+      "answer": "cat"
+    },
+    {
+      "question": "What color is a cat?",
+      "answer": "black"
+    },
+    {
+      "question": "What kind of cat is sleeping on a bench?",
+      "answer": "A black cat"
+    }
+  ],
+  "A MAN WITH A BIRTHDAY CUPCAKE BLOWING OUT CANDLES": [
+    {
+      "question": "A MAN WITH A BIRTHDAY CUPCAKE BLOWING WHAT?",
+      "answer": "OUT CANDLES"
+    },
+    {
+      "question": "A MAN WITH A BIRTHDAY WHAT BLOWS OUT CANDLES?",
+      "answer": "CUPCAKE"
+    },
+    {
+      "question": "A MAN WITH A BIRTHDAY CUPCAKE BLOWING OUT WHAT?",
+      "answer": "CANDLES"
+    },
+    {
+      "question": "A MAN WITH WHAT BLOWS OUT CANDLES?",
+      "answer": "A BIRTHDAY CUPCAKE"
+    },
+    {
+      "question": "A MAN WITH WHAT DAY CUPCAKE BLOWS OUT CANDLES?",
+      "answer": "BIRTHDAY"
+    }
+  ],
+  "A stack of banana's sitting next  to a pear and a pile of apples.": [
+    {
+      "question": "A stack of what is next to a pear and a pile of apples?",
+      "answer": "banana"
+    },
+    {
+      "question": "A stack of bananas and a pile of what?",
+      "answer": "apples"
+    },
+    {
+      "question": "A stack of banana's sitting next to what fruit?",
+      "answer": "pear"
+    },
+    {
+      "question": "A stack of banana's is what?",
+      "answer": "sitting"
+    },
+    {
+      "question": "What is a banana sitting next to a pear?",
+      "answer": "A stack"
+    },
+    {
+      "question": "What kind of bananas are sitting next to a pear and a pile of apples?",
+      "answer": "stack"
+    }
+  ],
+  "A train traveling through a dark tunnel next to green brush..": [
+    {
+      "question": "What is traveling through a dark tunnel next to green brush?",
+      "answer": "A train"
+    },
+    {
+      "question": "What color brush is next to the train?",
+      "answer": "green"
+    },
+    {
+      "question": "A train traveling through a dark tunnel next to what?",
+      "answer": "brush"
+    },
+    {
+      "question": "What kind of tunnel is a train traveling through?",
+      "answer": "dark"
+    }
+  ],
+  "A person is on a living room couch watching TV and there is a stuffed panda bear and a purse on the table.": [
+    {
+      "question": "In what room is a panda bear stuffed?",
+      "answer": "room"
+    },
+    {
+      "question": "Along with a stuffed panda bear, what else is on the table?",
+      "answer": "purse"
+    },
+    {
+      "question": "Where is a stuffed panda bear and a purse located?",
+      "answer": "table"
+    },
+    {
+      "question": "What animal is stuffed on the couch?",
+      "answer": "bear"
+    },
+    {
+      "question": "Where is a stuffed panda bear and a purse found?",
+      "answer": "the table"
+    },
+    {
+      "question": "Where is a person sitting watching TV?",
+      "answer": "couch"
+    },
+    {
+      "question": "Who is on a living room couch watching TV?",
+      "answer": "A person"
+    },
+    {
+      "question": "What is a person on a couch watching?",
+      "answer": "TV"
+    }
+  ],
+  "A very long table full of different kinds of food, which people are lining up to eat": [
+    {
+      "question": "What kind of food is a table full of?",
+      "answer": "kinds"
+    },
+    {
+      "question": "How long is the table that people line up to eat?",
+      "answer": "long"
+    },
+    {
+      "question": "What kind of food is on the table?",
+      "answer": "different"
+    },
+    {
+      "question": "People line up to eat what kind of food?",
+      "answer": "food"
+    },
+    {
+      "question": "What is a table full of different kinds of food?",
+      "answer": "A very long table"
+    }
+  ],
+  "A train traveling under a bridge next to a bunch of trees.": [
+    {
+      "question": "A train traveling under a bridge next to what kind of trees?",
+      "answer": "bunch"
+    },
+    {
+      "question": "What is traveling under a bridge next to a bunch of trees?",
+      "answer": "A train"
+    },
+    {
+      "question": "A train traveling under a bridge next to what?",
+      "answer": "trees"
+    },
+    {
+      "question": "What is a train traveling under?",
+      "answer": "a bridge"
+    },
+    {
+      "question": "A train traveling under what is next to a bunch of trees?",
+      "answer": "bridge"
+    }
+  ],
+  "A baseball player holding a bat walking across a field.": [
+    {
+      "question": "What is a baseball player holding when walking across a field?",
+      "answer": "bat"
+    },
+    {
+      "question": "What sport does a player play?",
+      "answer": "baseball"
+    },
+    {
+      "question": "What type of player is walking across a field?",
+      "answer": "A baseball player"
+    },
+    {
+      "question": "What is a baseball player walking across?",
+      "answer": "field"
+    }
+  ],
+  "Man playing tennis with tennis racket on court": [
+    {
+      "question": "What sport does a man play?",
+      "answer": "tennis"
+    },
+    {
+      "question": "What kind of tennis instrument is used by a tennis player?",
+      "answer": "racket"
+    }
+  ],
+  "A hard to miss street sign set between two traffic lights.": [
+    {
+      "question": "What is a street sign set between?",
+      "answer": "two traffic lights"
+    },
+    {
+      "question": "A street sign is set between two traffic what?",
+      "answer": "lights"
+    },
+    {
+      "question": "What type of sign is hard to miss?",
+      "answer": "street"
+    },
+    {
+      "question": "How difficult is the street sign between two traffic lights?",
+      "answer": "hard"
+    },
+    {
+      "question": "What is a hard to miss?",
+      "answer": "street sign"
+    }
+  ],
+  "A computer desk topped with a desktop computer and a laptop.": [
+    {
+      "question": "What is topped with a desktop computer and a laptop?",
+      "answer": "desk"
+    },
+    {
+      "question": "Along with a laptop, what is on a computer desk?",
+      "answer": "a desktop computer"
+    },
+    {
+      "question": "A computer desk topped with a desktop computer and what else?",
+      "answer": "laptop"
+    },
+    {
+      "question": "Along with a laptop, what type of computer is on a computer desk?",
+      "answer": "desktop"
+    },
+    {
+      "question": "What type of desk is topped with a desktop computer and a laptop?",
+      "answer": "computer"
+    }
+  ],
+  "Street art painted on the wall in an asian country.": [
+    {
+      "question": "Where is street art painted on the wall?",
+      "answer": "an asian country"
+    },
+    {
+      "question": "What is painted on a wall in an asian country?",
+      "answer": "Street art"
+    },
+    {
+      "question": "What type of art is painted on a wall in an asian country?",
+      "answer": "Street"
+    },
+    {
+      "question": "Where is street art painted in an asian country?",
+      "answer": "wall"
+    },
+    {
+      "question": "Where is street art painted in asian countries?",
+      "answer": "the wall"
+    },
+    {
+      "question": "In what country is street art painted on the wall?",
+      "answer": "asian"
+    }
+  ],
+  "an image of a child playing on a toy laptop": [
+    {
+      "question": "What is an image of playing on a toy laptop?",
+      "answer": "a child"
+    },
+    {
+      "question": "What kind of laptop is an image of a child playing on?",
+      "answer": "toy"
+    },
+    {
+      "question": "What toy is an image of a child playing on?",
+      "answer": "laptop"
+    },
+    {
+      "question": "What is an image of a child playing on?",
+      "answer": "a toy laptop"
+    }
+  ],
+  "A Pooh bear is sitting in a high chair.": [
+    {
+      "question": "What is a Pooh bear sitting in?",
+      "answer": "chair"
+    },
+    {
+      "question": "What is sitting in a high chair?",
+      "answer": "bear"
+    },
+    {
+      "question": "What kind of chair is a Pooh bear sitting in?",
+      "answer": "high"
+    },
+    {
+      "question": "What bear is sitting in a high chair?",
+      "answer": "Pooh"
+    }
+  ],
+  "The giraffe is sitting in the middle of the grass alone": [
+    {
+      "question": "The giraffe is sitting in the middle of what?",
+      "answer": "the grass"
+    },
+    {
+      "question": "Who is sitting in the middle of the grass alone?",
+      "answer": "The giraffe"
+    },
+    {
+      "question": "What animal is sitting in the middle of the grass?",
+      "answer": "giraffe"
+    }
+  ],
+  "A herd of cattle grazing on a dry grass covered field.": [
+    {
+      "question": "A herd of what animal grazes on a dry grass covered field?",
+      "answer": "cattle"
+    },
+    {
+      "question": "A herd of cattle grazing on what type of grass covered field?",
+      "answer": "dry"
+    },
+    {
+      "question": "What type of field does the herd of cattle graze on?",
+      "answer": "grass"
+    },
+    {
+      "question": "What is a herd of cattle?",
+      "answer": "A herd"
+    },
+    {
+      "question": "Where do cattle graze?",
+      "answer": "field"
+    },
+    {
+      "question": "Where do herds of cattle graze?",
+      "answer": "a dry grass covered field"
+    }
+  ],
+  "A large truck driving past a shopping center on a rain covered road.": [
+    {
+      "question": "A large truck driving past what on a rain covered road?",
+      "answer": "a shopping center"
+    },
+    {
+      "question": "What size truck is driving past a shopping center on a rain covered road?",
+      "answer": "large"
+    },
+    {
+      "question": "A large truck driving past what center on a rain covered road?",
+      "answer": "shopping"
+    },
+    {
+      "question": "What type of weather covered the road?",
+      "answer": "rain"
+    },
+    {
+      "question": "On what road is a large truck driving past a shopping center?",
+      "answer": "road"
+    },
+    {
+      "question": "What is driving past a shopping center on a rain covered road?",
+      "answer": "A large truck"
+    }
+  ],
+  "a kitchen with white counter tops and cabinets.": [
+    {
+      "question": "A kitchen with white counter tops and what else?",
+      "answer": "cabinets"
+    },
+    {
+      "question": "What color are the counter tops and cabinets in a kitchen?",
+      "answer": "white"
+    },
+    {
+      "question": "Along with cabinets, what part of a kitchen is white?",
+      "answer": "counter"
+    },
+    {
+      "question": "What kind of counter tops and cabinets are in a kitchen?",
+      "answer": "white counter tops"
+    }
+  ],
+  "A traffic light hanging over a street next to cross walks.": [
+    {
+      "question": "A traffic light hangs over a street next to what?",
+      "answer": "walks"
+    },
+    {
+      "question": "What is a traffic light hanging over?",
+      "answer": "a street"
+    },
+    {
+      "question": "What hangs over a street next to crosswalks?",
+      "answer": "A traffic light"
+    },
+    {
+      "question": "What type of light hangs over a street?",
+      "answer": "traffic"
+    },
+    {
+      "question": "What is hanging over a street next to crosswalks?",
+      "answer": "light"
+    }
+  ],
+  "A lunch salad in a yellow bowl made out of fruit, vegetables, and meats with chopsticks. ": [
+    {
+      "question": "Along with meat and fruit, what is a salad made of?",
+      "answer": "vegetables"
+    },
+    {
+      "question": "What is used to make a salad?",
+      "answer": "chopsticks"
+    },
+    {
+      "question": "What is a lunch salad in?",
+      "answer": "a yellow bowl"
+    },
+    {
+      "question": "Along with vegetables and meat, what is in a yellow bowl?",
+      "answer": "fruit"
+    },
+    {
+      "question": "What is a salad called?",
+      "answer": "salad"
+    },
+    {
+      "question": "What is a salad in a yellow bowl?",
+      "answer": "A lunch salad"
+    },
+    {
+      "question": "What color bowl is a lunch salad in?",
+      "answer": "yellow"
+    },
+    {
+      "question": "What is a salad for?",
+      "answer": "lunch"
+    }
+  ],
+  "A wooden bathroom with a wooden toilet next to a window.": [
+    {
+      "question": "What type of bathroom is next to a window?",
+      "answer": "wooden"
+    },
+    {
+      "question": "What is next to a window in a wooden bathroom?",
+      "answer": "a wooden toilet"
+    },
+    {
+      "question": "A wooden bathroom with a wooden toilet next to what?",
+      "answer": "a window"
+    }
+  ],
+  "a person in blue skies is skiing down a snowy hill": [
+    {
+      "question": "What color is a person skiing down a snowy hill?",
+      "answer": "blue skies"
+    },
+    {
+      "question": "What is a person in blue skies skiing down?",
+      "answer": "a snowy hill"
+    },
+    {
+      "question": "What color is the sky when a person is skiing down a snowy hill?",
+      "answer": "blue"
+    }
+  ],
+  "A person jumping as they swing at a incoming tennis ball.": [
+    {
+      "question": "What sport does a person play when they swing at a ball?",
+      "answer": "tennis"
+    },
+    {
+      "question": "A person jumping as they swing at what?",
+      "answer": "a incoming tennis ball"
+    },
+    {
+      "question": "A person jumping as they swing at what tennis ball?",
+      "answer": "incoming"
+    },
+    {
+      "question": "Who jumps as they swing at a tennis ball?",
+      "answer": "A person"
+    },
+    {
+      "question": "A person jumps as they swing at what?",
+      "answer": "ball"
+    }
+  ],
+  "A guy with a white shirt and jeans riding a skateboard.": [
+    {
+      "question": "What is a guy wearing a white shirt and jeans riding?",
+      "answer": "a skateboard"
+    },
+    {
+      "question": "What color shirt does a skateboarder wear?",
+      "answer": "white"
+    },
+    {
+      "question": "What type of board is a guy wearing?",
+      "answer": "skateboard"
+    },
+    {
+      "question": "What type of shirt is a skateboarder wearing?",
+      "answer": "a white shirt"
+    },
+    {
+      "question": "What is a skateboarder?",
+      "answer": "guy"
+    },
+    {
+      "question": "Along with jeans, what is a white person wearing when riding a skateboard?",
+      "answer": "shirt"
+    },
+    {
+      "question": "What type of clothing does a skateboarder wear?",
+      "answer": "jeans"
+    }
+  ],
+  "A young girl brushing her teeth with a tooth brush.": [
+    {
+      "question": "A young girl brushing her teeth with what kind of brush?",
+      "answer": "tooth"
+    },
+    {
+      "question": "How old is the girl brushing her teeth?",
+      "answer": "young"
+    },
+    {
+      "question": "Who is brushing her teeth?",
+      "answer": "A young girl"
+    },
+    {
+      "question": "What is a young girl using to brush her teeth?",
+      "answer": "a tooth brush"
+    },
+    {
+      "question": "A young girl brushing what with a tooth brush?",
+      "answer": "her teeth"
+    },
+    {
+      "question": "What does a young girl use to brush her teeth?",
+      "answer": "brush"
+    },
+    {
+      "question": "A young girl brushing her what with a tooth brush?",
+      "answer": "teeth"
+    }
+  ],
+  "A brown and white cat is in a suitcase.": [
+    {
+      "question": "A brown and white cat is in what?",
+      "answer": "suitcase"
+    },
+    {
+      "question": "What kind of animal is in a suitcase?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is the brown and white cat in?",
+      "answer": "a suitcase"
+    },
+    {
+      "question": "What color is the cat in the suitcase?",
+      "answer": "white"
+    },
+    {
+      "question": "What is in a suitcase?",
+      "answer": "A brown and white cat"
+    },
+    {
+      "question": "What color is the cat in a suitcase?",
+      "answer": "brown"
+    }
+  ],
+  "A man sanding next to a cow in a pen.": [
+    {
+      "question": "Who sands next to a cow in a pen?",
+      "answer": "man"
+    },
+    {
+      "question": "What animal is sanding next to?",
+      "answer": "cow"
+    },
+    {
+      "question": "A man sanding next to what animal in a pen?",
+      "answer": "a cow"
+    },
+    {
+      "question": "A man sanding next to a cow in what?",
+      "answer": "pen"
+    }
+  ],
+  "A plate that has a dessert on it.": [
+    {
+      "question": "A plate that has what on it?",
+      "answer": "dessert"
+    },
+    {
+      "question": "What is a dessert on?",
+      "answer": "A plate"
+    }
+  ],
+  "A dirt bike rider doing a stunt jump in the air": [
+    {
+      "question": "Who does a stunt jump in the air?",
+      "answer": "A dirt bike rider"
+    },
+    {
+      "question": "Where does a dirt bike rider jump?",
+      "answer": "the air"
+    },
+    {
+      "question": "What type of jump is a dirt bike rider doing?",
+      "answer": "stunt"
+    },
+    {
+      "question": "What stunt does a dirt bike rider do in the air?",
+      "answer": "jump"
+    },
+    {
+      "question": "What is a dirt bike rider doing in the air?",
+      "answer": "a stunt jump"
+    },
+    {
+      "question": "What type of person jumps in the air?",
+      "answer": "rider"
+    },
+    {
+      "question": "What kind of bike is a stunt rider riding?",
+      "answer": "dirt"
+    }
+  ],
+  "A boy playing a WII game at Christmas time.": [
+    {
+      "question": "Who is playing a WII game at Christmas time?",
+      "answer": "A boy"
+    },
+    {
+      "question": "What is a boy playing at Christmas?",
+      "answer": "game"
+    },
+    {
+      "question": "When is a boy playing a WII game?",
+      "answer": "Christmas"
+    },
+    {
+      "question": "What is a boy playing at Christmas time?",
+      "answer": "a WII game"
+    },
+    {
+      "question": "What game did a boy play at Christmas?",
+      "answer": "WII"
+    }
+  ],
+  "A bus traveling on a freeway next to other traffic.": [
+    {
+      "question": "What type of vehicle travels on a freeway?",
+      "answer": "bus"
+    },
+    {
+      "question": "What is a bus traveling on?",
+      "answer": "a freeway"
+    },
+    {
+      "question": "A bus traveling on a freeway is next to what?",
+      "answer": "other traffic"
+    },
+    {
+      "question": "What is traveling on a freeway next to other traffic?",
+      "answer": "A bus"
+    },
+    {
+      "question": "A bus traveling on what road is next to other traffic?",
+      "answer": "freeway"
+    }
+  ],
+  "The bottom half of a tennis player holding a racket.": [
+    {
+      "question": "What is the bottom half of a tennis player holding?",
+      "answer": "a racket"
+    },
+    {
+      "question": "What is the bottom half of?",
+      "answer": "a tennis player"
+    },
+    {
+      "question": "What part of a tennis player holds a racket?",
+      "answer": "The bottom half"
+    }
+  ],
+  "A bowl of cooked noodles and broccoli in sauce": [
+    {
+      "question": "Along with noodles, what vegetable is included in the sauce?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "What type of noodles are in a bowl?",
+      "answer": "cooked"
+    },
+    {
+      "question": "What is a bowl of with broccoli in sauce?",
+      "answer": "cooked noodles"
+    },
+    {
+      "question": "Along with broccoli, what is a bowl of cooked?",
+      "answer": "noodles"
+    }
+  ],
+  "A boy draped in a blanket holds a remote control on a couch": [
+    {
+      "question": "A boy draped in a blanket holds what type of control on a couch?",
+      "answer": "remote"
+    },
+    {
+      "question": "Who holds the remote control on a couch?",
+      "answer": "A boy"
+    },
+    {
+      "question": "Where is the remote controlled located?",
+      "answer": "couch"
+    },
+    {
+      "question": "Who holds a remote control on a couch?",
+      "answer": "boy"
+    },
+    {
+      "question": "What is a boy draped in?",
+      "answer": "a blanket"
+    },
+    {
+      "question": "What does a boy hold on a couch?",
+      "answer": "a remote control"
+    }
+  ],
+  "A guy on a snow board up in the air.": [
+    {
+      "question": "Where is a guy on a snow board?",
+      "answer": "the air"
+    },
+    {
+      "question": "What kind of board is a guy on?",
+      "answer": "snow"
+    },
+    {
+      "question": "What is a guy on?",
+      "answer": "a snow board"
+    },
+    {
+      "question": "Who is on a snow board?",
+      "answer": "guy"
+    },
+    {
+      "question": "In what direction is a guy on a snow board?",
+      "answer": "air"
+    }
+  ],
+  "A plate filled with a cut in half sandwich on top of a black table.": [
+    {
+      "question": "On what side of a black table is a sandwich placed?",
+      "answer": "top"
+    },
+    {
+      "question": "A plate filled with a cut in half sandwich is placed on top of what?",
+      "answer": "a black table"
+    },
+    {
+      "question": "A plate filled with a cut in half sandwich is placed on what?",
+      "answer": "table"
+    },
+    {
+      "question": "What color table is the sandwich on?",
+      "answer": "black"
+    },
+    {
+      "question": "What sandwich is placed on top of a black table?",
+      "answer": "cut"
+    },
+    {
+      "question": "What is on a plate on top of a black table?",
+      "answer": "sandwich"
+    },
+    {
+      "question": "A plate filled with a sandwich cut in what size?",
+      "answer": "half"
+    },
+    {
+      "question": "What is on top of a black table?",
+      "answer": "plate"
+    }
+  ],
+  "Woman holding a banana pointed at the camera.": [
+    {
+      "question": "What type of fruit is a woman holding?",
+      "answer": "banana"
+    },
+    {
+      "question": "Who is holding a banana pointed at the camera?",
+      "answer": "Woman"
+    },
+    {
+      "question": "What is a woman holding in front of a camera?",
+      "answer": "a banana"
+    },
+    {
+      "question": "Woman holding a banana pointed at what?",
+      "answer": "camera"
+    }
+  ],
+  "A blue and yellow fire hydrant next to a yellow cone.": [
+    {
+      "question": "What type of fire hydrant is next to a yellow cone?",
+      "answer": "A blue and yellow fire"
+    },
+    {
+      "question": "What is next to the fire hydrant?",
+      "answer": "cone"
+    },
+    {
+      "question": "What color is the fire hydrant?",
+      "answer": "blue"
+    },
+    {
+      "question": "What is next to a fire hydrant?",
+      "answer": "a yellow cone"
+    },
+    {
+      "question": "What color is the cone next to the fire hydrant?",
+      "answer": "yellow"
+    }
+  ],
+  "a big boat is going down a small river": [
+    {
+      "question": "A big boat is going down a what size river?",
+      "answer": "small"
+    },
+    {
+      "question": "What size boat is going down a small river?",
+      "answer": "big"
+    },
+    {
+      "question": "What is going down a small river?",
+      "answer": "a big boat"
+    }
+  ],
+  "A living room filled with furniture and a TV.": [
+    {
+      "question": "A living room is filled with furniture and what else?",
+      "answer": "a TV"
+    },
+    {
+      "question": "Along with a TV, what is in a living room?",
+      "answer": "furniture"
+    },
+    {
+      "question": "What type of room is filled with furniture and a TV?",
+      "answer": "A living room"
+    },
+    {
+      "question": "What room is filled with furniture and a TV?",
+      "answer": "living"
+    }
+  ],
+  "A man standing in a bathroom in front of a mirror.": [
+    {
+      "question": "Where is a man standing in front of a mirror?",
+      "answer": "a bathroom"
+    },
+    {
+      "question": "What is a man standing in a bathroom in front of?",
+      "answer": "mirror"
+    },
+    {
+      "question": "Who is standing in a bathroom in front of a mirror?",
+      "answer": "man"
+    },
+    {
+      "question": "In what room is a man standing in front of a mirror?",
+      "answer": "bathroom"
+    }
+  ],
+  "A plate with a banana and slices of cheese.": [
+    {
+      "question": "A plate with a banana and what kind of cheese?",
+      "answer": "slices"
+    },
+    {
+      "question": "What is on a plate with slices of cheese on it?",
+      "answer": "banana"
+    },
+    {
+      "question": "A plate with a banana and slices of what?",
+      "answer": "cheese"
+    },
+    {
+      "question": "What is a banana on?",
+      "answer": "plate"
+    }
+  ],
+  "Cattle lie in the grass to chew their cud.": [
+    {
+      "question": "What do cattle chew in the grass?",
+      "answer": "cud"
+    },
+    {
+      "question": "Where do cattle lie to chew their cud?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What animals lie in the grass to chew their cud?",
+      "answer": "Cattle"
+    },
+    {
+      "question": "What do cattle lie in the grass to chew?",
+      "answer": "their cud"
+    }
+  ],
+  "mopeds parked in a parking garage with a green floor.": [
+    {
+      "question": "What kind of floor are mopeds parked in a parking garage with?",
+      "answer": "a green floor"
+    },
+    {
+      "question": "What color floor are mopeds parked in?",
+      "answer": "green"
+    },
+    {
+      "question": "What type of vehicle is parked in a garage with a green floor?",
+      "answer": "mopeds"
+    },
+    {
+      "question": "What is green in a moped parking garage?",
+      "answer": "floor"
+    }
+  ],
+  "A man pushing a wheelchair on the street.": [
+    {
+      "question": "What is a man pushing on the street?",
+      "answer": "wheelchair"
+    },
+    {
+      "question": "Who is pushing a wheelchair on the street?",
+      "answer": "man"
+    },
+    {
+      "question": "Where is a man pushing a wheelchair?",
+      "answer": "the street"
+    }
+  ],
+  "a hot dog stand in a city with people": [
+    {
+      "question": "What kind of dog stand is in a city?",
+      "answer": "hot"
+    }
+  ],
+  "A pair of red and black skis on a white background.": [
+    {
+      "question": "What type of skis are on a white background?",
+      "answer": "red and black skis"
+    },
+    {
+      "question": "What color are the skis?",
+      "answer": "black"
+    },
+    {
+      "question": "On what background are the skis?",
+      "answer": "a white background"
+    },
+    {
+      "question": "What color are the skis on the white background?",
+      "answer": "red"
+    },
+    {
+      "question": "A pair of what is on a white background?",
+      "answer": "skis"
+    }
+  ],
+  "Two girls sitting on a bed eating bananas together.": [
+    {
+      "question": "How many girls are sitting on a bed eating bananas?",
+      "answer": "Two girls"
+    },
+    {
+      "question": "What are two girls sitting on?",
+      "answer": "bed"
+    },
+    {
+      "question": "What do two girls eat together?",
+      "answer": "bananas"
+    }
+  ],
+  "A couple of gray elephants standing next to each other in a wire cage.": [
+    {
+      "question": "What are the elephants in?",
+      "answer": "a wire cage"
+    },
+    {
+      "question": "In what type of enclosure are the elephants?",
+      "answer": "cage"
+    },
+    {
+      "question": "What kind of animals are in a cage?",
+      "answer": "elephants"
+    },
+    {
+      "question": "What color are the elephants in the cage?",
+      "answer": "gray"
+    },
+    {
+      "question": "What kind of elephants are in a cage?",
+      "answer": "gray elephants"
+    },
+    {
+      "question": "What kind of cage are the gray elephants in?",
+      "answer": "wire"
+    }
+  ],
+  "A street sign that reads broadway on  a traffic light.": [
+    {
+      "question": "What type of light is a broadway sign?",
+      "answer": "traffic"
+    },
+    {
+      "question": "What is a broadway sign on?",
+      "answer": "light"
+    },
+    {
+      "question": "What is a street sign that reads broadway on?",
+      "answer": "a traffic light"
+    },
+    {
+      "question": "What is a broadway on a traffic light?",
+      "answer": "sign"
+    }
+  ],
+  "A man riding a skateboard down a hall.": [
+    {
+      "question": "What is a skateboard rider?",
+      "answer": "man"
+    },
+    {
+      "question": "What is a man riding a skateboard down?",
+      "answer": "a hall"
+    },
+    {
+      "question": "Who is riding a skateboard down a hall?",
+      "answer": "A man"
+    },
+    {
+      "question": "What is a man riding down a hall?",
+      "answer": "a skateboard"
+    }
+  ],
+  "Small white toilet with spare rolls of toilet paper beside it.": [
+    {
+      "question": "What kind of roll of toilet paper is beside it?",
+      "answer": "spare"
+    },
+    {
+      "question": "What kind of toilet paper does the toilet have?",
+      "answer": "rolls"
+    },
+    {
+      "question": "What color is the toilet with spare rolls of toilet paper beside it?",
+      "answer": "white"
+    },
+    {
+      "question": "What type of toilet has spare rolls of toilet paper beside it?",
+      "answer": "Small white toilet"
+    },
+    {
+      "question": "What kind of paper is on the side of the toilet?",
+      "answer": "toilet paper"
+    },
+    {
+      "question": "What kind of toilet paper is beside it?",
+      "answer": "spare rolls"
+    }
+  ],
+  "A tennis player prepares to react during a match.": [
+    {
+      "question": "A tennis player prepares to react during what?",
+      "answer": "match"
+    },
+    {
+      "question": "What type of player prepares to react during a match?",
+      "answer": "tennis"
+    },
+    {
+      "question": "Who prepares to react during a match?",
+      "answer": "A tennis player"
+    }
+  ],
+  "A green pasture with lots of animals in the foreground and mountains in the back.": [
+    {
+      "question": "What color is the pasture?",
+      "answer": "green"
+    },
+    {
+      "question": "What part of the landscape has lots of animals in it?",
+      "answer": "foreground"
+    },
+    {
+      "question": "What type of pasture has lots of animals in the background?",
+      "answer": "A green pasture"
+    },
+    {
+      "question": "What part of the landscape has lots of animals?",
+      "answer": "the foreground"
+    },
+    {
+      "question": "What type of land has lots of animals in the foreground?",
+      "answer": "pasture"
+    },
+    {
+      "question": "What kind of animals are in the foreground?",
+      "answer": "animals"
+    }
+  ],
+  "Sugar donuts sitting in a white paper bag.": [
+    {
+      "question": "What kind of bag are sugar donuts in?",
+      "answer": "paper"
+    },
+    {
+      "question": "What color paper bag are sugar donuts in?",
+      "answer": "white"
+    },
+    {
+      "question": "What is sitting in a white paper bag?",
+      "answer": "Sugar donuts"
+    },
+    {
+      "question": "What donuts are in a white paper bag?",
+      "answer": "Sugar"
+    },
+    {
+      "question": "What is in a white paper bag?",
+      "answer": "donuts"
+    },
+    {
+      "question": "In what type of container are sugar donuts stored?",
+      "answer": "bag"
+    },
+    {
+      "question": "Where are sugar donuts stored?",
+      "answer": "a white paper bag"
+    }
+  ],
+  "A very dirty looking rest room with two toilets.": [
+    {
+      "question": "What is a dirty looking room with two toilets?",
+      "answer": "rest"
+    },
+    {
+      "question": "How many toilets are in the rest room?",
+      "answer": "two toilets"
+    },
+    {
+      "question": "What type of room has two toilets?",
+      "answer": "A very dirty looking rest room"
+    },
+    {
+      "question": "What is the look of the rest room?",
+      "answer": "dirty"
+    }
+  ],
+  "A fork next to an apple, orange and onion.": [
+    {
+      "question": "Along with an orange and an onion, what is a fork next to?",
+      "answer": "an apple"
+    },
+    {
+      "question": "What is next to an apple, orange, or onion?",
+      "answer": "A fork"
+    },
+    {
+      "question": "Along with an apple, orange and what other vegetable is a fork next to?",
+      "answer": "onion"
+    },
+    {
+      "question": "Along with an apple and an onion, what color is a fork next to an apple?",
+      "answer": "orange"
+    }
+  ],
+  "A group of people outside on snow skis.": [
+    {
+      "question": "A group of what is outside on snow skis?",
+      "answer": "people"
+    },
+    {
+      "question": "What kind of skis do people use?",
+      "answer": "snow"
+    }
+  ],
+  "A man secures a saddle on a horse that a girl is sitting on.": [
+    {
+      "question": "A man secures a saddle on what?",
+      "answer": "horse"
+    },
+    {
+      "question": "Who is sitting on a horse?",
+      "answer": "girl"
+    },
+    {
+      "question": "What does a man secure on a horse that a girl is sitting on?",
+      "answer": "a saddle"
+    },
+    {
+      "question": "Who secures a saddle on a horse that a girl is sitting on?",
+      "answer": "man"
+    },
+    {
+      "question": "What does a man secure a saddle on?",
+      "answer": "a horse"
+    },
+    {
+      "question": "Who is sitting on a horse that a man secures a saddle on?",
+      "answer": "a girl"
+    }
+  ],
+  "Two cats sitting on top of a pair of shoes.": [
+    {
+      "question": "How many cats are sitting on top of a pair of shoes?",
+      "answer": "Two cats"
+    },
+    {
+      "question": "Two cats sitting on what side of a pair of shoes?",
+      "answer": "top"
+    },
+    {
+      "question": "What kind of animals are sitting on top of shoes?",
+      "answer": "cats"
+    },
+    {
+      "question": "Two cats sitting on top of a pair of what?",
+      "answer": "shoes"
+    }
+  ],
+  "a large pizza is in a cardboard box": [
+    {
+      "question": "What type of box is a large pizza in?",
+      "answer": "cardboard"
+    },
+    {
+      "question": "What is in a cardboard box?",
+      "answer": "a large pizza"
+    },
+    {
+      "question": "Where is a large pizza placed?",
+      "answer": "a cardboard box"
+    }
+  ],
+  "A woman is riding a motorcycle down the street.": [
+    {
+      "question": "What type of vehicle is a woman riding down the street?",
+      "answer": "motorcycle"
+    },
+    {
+      "question": "Where is a woman riding a motorcycle?",
+      "answer": "the street"
+    },
+    {
+      "question": "Who is riding a motorcycle down the street?",
+      "answer": "woman"
+    },
+    {
+      "question": "What is a woman riding down the street?",
+      "answer": "a motorcycle"
+    }
+  ],
+  "A mirror that is on a tiled wall.": [
+    {
+      "question": "Where is a mirror located?",
+      "answer": "a tiled wall"
+    },
+    {
+      "question": "What is on a tiled wall?",
+      "answer": "mirror"
+    }
+  ],
+  "There are woman playing a video game together.": [
+    {
+      "question": "What are the women playing together?",
+      "answer": "a video game"
+    },
+    {
+      "question": "What kind of game are the women playing?",
+      "answer": "video"
+    },
+    {
+      "question": "Who is playing a video game together?",
+      "answer": "woman"
+    }
+  ],
+  "A crowd of people standing in front of a window.": [
+    {
+      "question": "What part of a window does a crowd stand in?",
+      "answer": "front"
+    },
+    {
+      "question": "A crowd of people standing in front of what?",
+      "answer": "a window"
+    },
+    {
+      "question": "What is standing in front of a window?",
+      "answer": "crowd"
+    },
+    {
+      "question": "What is it called when people are standing in front of a window?",
+      "answer": "A crowd"
+    },
+    {
+      "question": "A crowd of what standing in front of a window?",
+      "answer": "people"
+    }
+  ],
+  "A dog standing on a bed in a room.": [
+    {
+      "question": "What is a dog standing on in a room?",
+      "answer": "bed"
+    },
+    {
+      "question": "Where is a dog standing on a bed?",
+      "answer": "a room"
+    },
+    {
+      "question": "What is standing on a bed in a room?",
+      "answer": "dog"
+    }
+  ],
+  "A muffin sitting on a plate with a fork while customers sit in the background.": [
+    {
+      "question": "In what position do customers sit?",
+      "answer": "background"
+    },
+    {
+      "question": "What is on a muffin plate?",
+      "answer": "a fork"
+    },
+    {
+      "question": "What is on a plate with a fork?",
+      "answer": "muffin"
+    },
+    {
+      "question": "What is a muffin sitting on?",
+      "answer": "a plate"
+    },
+    {
+      "question": "Who sits in the background?",
+      "answer": "customers"
+    },
+    {
+      "question": "Where do customers sit?",
+      "answer": "the background"
+    }
+  ],
+  "there is a small glass vase that has purple flowers in it": [
+    {
+      "question": "What has purple flowers in it?",
+      "answer": "a small glass vase"
+    },
+    {
+      "question": "What kind of vase has purple flowers in it?",
+      "answer": "glass"
+    },
+    {
+      "question": "What color flowers are in a glass vase?",
+      "answer": "purple flowers"
+    },
+    {
+      "question": "What is the name of the small glass that has purple flowers in it?",
+      "answer": "vase"
+    },
+    {
+      "question": "What color are the flowers in the vase?",
+      "answer": "purple"
+    }
+  ],
+  "Pasta and vegetable salad served in bowl with meat and cheese.": [
+    {
+      "question": "Pasta and what else is served in a bowl with meat and cheese?",
+      "answer": "vegetable salad"
+    },
+    {
+      "question": "Pasta and vegetable salad served with cheese and what else?",
+      "answer": "meat"
+    },
+    {
+      "question": "Pasta and vegetable salad is served in what?",
+      "answer": "bowl"
+    },
+    {
+      "question": "Pasta and what kind of salad is served with meat and cheese?",
+      "answer": "vegetable"
+    },
+    {
+      "question": "Along with vegetable salad, what type of dish is served with meat and cheese?",
+      "answer": "Pasta"
+    },
+    {
+      "question": "Pasta and vegetable salad is served with meat and what else?",
+      "answer": "cheese"
+    }
+  ],
+  "The airplane in the sky is doing tricks while spitting out smoke.": [
+    {
+      "question": "Where is the airplane?",
+      "answer": "the sky"
+    },
+    {
+      "question": "What is the airplane doing while spitting out smoke?",
+      "answer": "tricks"
+    },
+    {
+      "question": "What is doing tricks while spitting out smoke?",
+      "answer": "The airplane"
+    },
+    {
+      "question": "What is in the sky?",
+      "answer": "airplane"
+    },
+    {
+      "question": "What is the airplane spitting out?",
+      "answer": "smoke"
+    }
+  ],
+  "A row of wall mounted sinks in a restroom.": [
+    {
+      "question": "A row of wall mounted sinks in what?",
+      "answer": "a restroom"
+    },
+    {
+      "question": "A row of what in a restroom?",
+      "answer": "sinks"
+    },
+    {
+      "question": "What type of sinks are mounted in a restroom?",
+      "answer": "wall"
+    },
+    {
+      "question": "A row of wall mounted sinks are in what type of space?",
+      "answer": "restroom"
+    }
+  ],
+  "A black dog running in a pen with a horse.": [
+    {
+      "question": "A black dog running in a pen with what animal?",
+      "answer": "horse"
+    },
+    {
+      "question": "What is a black dog in with a horse?",
+      "answer": "pen"
+    },
+    {
+      "question": "What color is a dog?",
+      "answer": "black"
+    },
+    {
+      "question": "What type of animal is running in a pen with a horse?",
+      "answer": "dog"
+    },
+    {
+      "question": "What type of dog is running in a pen with a horse?",
+      "answer": "A black dog"
+    },
+    {
+      "question": "What is a black dog running in with a horse?",
+      "answer": "a pen"
+    }
+  ],
+  "A table with a huge glass vase and fake flowers come out of it.": [
+    {
+      "question": "What kind of vase does a fake flower come out of?",
+      "answer": "glass"
+    },
+    {
+      "question": "What kind of flowers come out of the glass vase?",
+      "answer": "fake"
+    },
+    {
+      "question": "What is a vase with fake flowers on it?",
+      "answer": "A table"
+    },
+    {
+      "question": "What fake thing comes out of a glass vase?",
+      "answer": "flowers"
+    },
+    {
+      "question": "What is on a table with fake flowers on it?",
+      "answer": "vase"
+    },
+    {
+      "question": "What comes out of a table?",
+      "answer": "a huge glass vase and fake flowers"
+    },
+    {
+      "question": "How big is the glass vase on the table?",
+      "answer": "huge"
+    }
+  ],
+  "A horse and bug-gee is riding next to the buildings.": [
+    {
+      "question": "What kind of animal is riding next to the buildings?",
+      "answer": "horse"
+    },
+    {
+      "question": "What is riding next to the buildings?",
+      "answer": "A horse and bug-gee"
+    },
+    {
+      "question": "A horse and bug-gee are riding next to what?",
+      "answer": "buildings"
+    },
+    {
+      "question": "What kind of gee is riding next to the buildings?",
+      "answer": "bug"
+    },
+    {
+      "question": "Along with a horse, what animal is riding next to the buildings?",
+      "answer": "gee"
+    }
+  ],
+  "A sheet cake sitting on top of a table with lit candles.": [
+    {
+      "question": "A sheet cake sitting on top of a table with what?",
+      "answer": "lit candles"
+    },
+    {
+      "question": "What part of a table is a sheet cake on?",
+      "answer": "top"
+    },
+    {
+      "question": "What type of cake sits on top of a table with lit candles?",
+      "answer": "sheet"
+    },
+    {
+      "question": "What is on top of a table with lit candles?",
+      "answer": "cake"
+    },
+    {
+      "question": "A sheet cake is placed on top of what?",
+      "answer": "table"
+    },
+    {
+      "question": "A sheet cake sitting on top of what?",
+      "answer": "a table"
+    },
+    {
+      "question": "A sheet cake sitting on top of a table is lit with what?",
+      "answer": "candles"
+    },
+    {
+      "question": "What is sitting on top of a table with lit candles?",
+      "answer": "A sheet cake"
+    }
+  ],
+  "A small teddy bear is on a strange chair.": [
+    {
+      "question": "What is the teddy bear on?",
+      "answer": "a strange chair"
+    },
+    {
+      "question": "What is on a strange chair?",
+      "answer": "bear"
+    },
+    {
+      "question": "What kind of bear is on a strange chair?",
+      "answer": "teddy"
+    },
+    {
+      "question": "What kind of chair is the teddy bear on?",
+      "answer": "strange"
+    }
+  ],
+  "A brown teddy bear sitting on top of a table in front of a white plate with a piece of pie.": [
+    {
+      "question": "What is the teddy bear sitting on?",
+      "answer": "table"
+    },
+    {
+      "question": "What kind of bear sits on top of a white plate with a piece of pie?",
+      "answer": "teddy"
+    },
+    {
+      "question": "A brown teddy bear sits on a white plate with a piece of what?",
+      "answer": "pie"
+    },
+    {
+      "question": "What color plate is the teddy bear on?",
+      "answer": "white"
+    },
+    {
+      "question": "What is a teddy bear on a table in front of?",
+      "answer": "a white plate"
+    },
+    {
+      "question": "What color is the teddy bear?",
+      "answer": "brown"
+    }
+  ],
+  "A little girl sitting in the middle of a restaurant and smiling for picture.": [
+    {
+      "question": "In what part of a restaurant is a little girl sitting?",
+      "answer": "middle"
+    },
+    {
+      "question": "Where is a little girl sitting in a restaurant?",
+      "answer": "the middle"
+    },
+    {
+      "question": "What is a little girl smiling for?",
+      "answer": "picture"
+    },
+    {
+      "question": "A little girl is sitting in the middle of what?",
+      "answer": "restaurant"
+    },
+    {
+      "question": "What is sitting in the middle of a restaurant and smiling for a picture?",
+      "answer": "A little girl"
+    },
+    {
+      "question": "What is a little girl in the middle of?",
+      "answer": "a restaurant"
+    }
+  ],
+  "A building shines in the clear sky as cars drive underneath.": [
+    {
+      "question": "What shines in the clear sky as cars drive underneath?",
+      "answer": "building"
+    },
+    {
+      "question": "A building shines in what kind of sky?",
+      "answer": "clear"
+    },
+    {
+      "question": "What kind of vehicles drive underneath a building?",
+      "answer": "cars"
+    },
+    {
+      "question": "Where does a building shine?",
+      "answer": "the clear sky"
+    },
+    {
+      "question": "What color does a building shine in?",
+      "answer": "sky"
+    }
+  ],
+  "A plate of noodles and broccoli are shown.": [
+    {
+      "question": "What is shown with noodles and broccoli?",
+      "answer": "plate"
+    },
+    {
+      "question": "Along with noodles, what vegetable is shown on the plate?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "Along with broccoli, what is shown on the plate?",
+      "answer": "noodles"
+    }
+  ],
+  "Large elephant rubbing itself up against a large tree.": [
+    {
+      "question": "What size tree is an elephant rubbing against?",
+      "answer": "large"
+    },
+    {
+      "question": "Large elephant rubbing itself up against what?",
+      "answer": "a large tree"
+    },
+    {
+      "question": "What kind of animal rubs itself against a large tree?",
+      "answer": "elephant"
+    },
+    {
+      "question": "What kind of elephant rubs itself against a large tree?",
+      "answer": "Large elephant"
+    }
+  ],
+  "A man with glasses and a tie clip sits in his car.": [
+    {
+      "question": "Where does a man with glasses and a tie clip sit?",
+      "answer": "his car"
+    },
+    {
+      "question": "A man with glasses and what else sits in his car?",
+      "answer": "a tie clip"
+    },
+    {
+      "question": "A man with glasses and what kind of clip sits in his car?",
+      "answer": "tie"
+    },
+    {
+      "question": "What is a tie?",
+      "answer": "clip"
+    },
+    {
+      "question": "A man with glasses and a tie clip sits in what?",
+      "answer": "car"
+    },
+    {
+      "question": "Along with a tie clip, what is a man wearing when he sits in his car?",
+      "answer": "glasses"
+    }
+  ],
+  "A white cat sitting on the floor next to a feeding dish and a mat.": [
+    {
+      "question": "What type of animal is on the floor next to a feeding dish?",
+      "answer": "cat"
+    },
+    {
+      "question": "On what surface is a white cat sitting?",
+      "answer": "floor"
+    },
+    {
+      "question": "Along with a mat, what is a cat sitting on the floor next to?",
+      "answer": "dish"
+    },
+    {
+      "question": "A white cat sitting on the floor next to a feeding dish and what else?",
+      "answer": "mat"
+    },
+    {
+      "question": "What type of cat is sitting on the floor next to a feeding dish and a mat?",
+      "answer": "A white cat"
+    },
+    {
+      "question": "What color is a cat?",
+      "answer": "white"
+    },
+    {
+      "question": "Along with a feeding dish, what is a white cat sitting on the floor next to?",
+      "answer": "a mat"
+    },
+    {
+      "question": "Where is a white cat sitting?",
+      "answer": "the floor"
+    },
+    {
+      "question": "What is a white cat sitting next to?",
+      "answer": "a feeding dish"
+    }
+  ],
+  "A boy putting something in his mouth and smiling for a picture.": [
+    {
+      "question": "A boy putting something in his mouth and smiling for what?",
+      "answer": "picture"
+    },
+    {
+      "question": "What is the name of the person who smiles for a picture?",
+      "answer": "A boy"
+    },
+    {
+      "question": "What part of his body does a boy put something in?",
+      "answer": "mouth"
+    }
+  ],
+  "A bicycle is lying on the sidewalk beside a fire hydrant.": [
+    {
+      "question": "What is lying on the sidewalk beside a fire hydrant?",
+      "answer": "bicycle"
+    },
+    {
+      "question": "A bicycle is lying on the sidewalk beside what?",
+      "answer": "a fire hydrant"
+    },
+    {
+      "question": "Where is a bicycle parked beside a fire hydrant?",
+      "answer": "the sidewalk"
+    },
+    {
+      "question": "What type of hydrant is on the sidewalk?",
+      "answer": "fire"
+    }
+  ],
+  "A living room consisting of windows, rugs, chairs, and a coffee table.": [
+    {
+      "question": "A living room is composed of windows, rugs, chairs, and what else?",
+      "answer": "table"
+    },
+    {
+      "question": "Along with chairs and a coffee table, what is in a living room?",
+      "answer": "rugs"
+    },
+    {
+      "question": "What is a living room consisting of?",
+      "answer": "a coffee table"
+    },
+    {
+      "question": "Along with windows, rugs, and a coffee table, what is in a living room?",
+      "answer": "chairs"
+    },
+    {
+      "question": "What is comprised of windows, rugs, chairs, and a coffee table?",
+      "answer": "A living room"
+    },
+    {
+      "question": "Along with rugs, chairs, and a coffee table, what is in a living room?",
+      "answer": "windows"
+    },
+    {
+      "question": "What type of room is comprised of windows, rugs, chairs and a coffee table?",
+      "answer": "living"
+    },
+    {
+      "question": "What type of table is in a living room?",
+      "answer": "coffee"
+    }
+  ],
+  "a group of elephants standing around with some people sitting on their backs": [
+    {
+      "question": "What do some people sit on?",
+      "answer": "their backs"
+    },
+    {
+      "question": "Who sits on their backs?",
+      "answer": "some people"
+    },
+    {
+      "question": "What animals are standing around with some people sitting on their backs?",
+      "answer": "elephants"
+    },
+    {
+      "question": "What is sitting on the backs of the elephants?",
+      "answer": "people"
+    }
+  ],
+  "A person in  a white jacket skiing down a slope": [
+    {
+      "question": "What is a person wearing when skiing down a slope?",
+      "answer": "a white jacket"
+    },
+    {
+      "question": "What is a person in a white jacket skiing down?",
+      "answer": "a slope"
+    },
+    {
+      "question": "What color jacket is a skier wearing?",
+      "answer": "white"
+    }
+  ],
+  "A man holding a baseball bat while standing on a baseball field.": [
+    {
+      "question": "A man standing on a baseball field is holding what?",
+      "answer": "bat"
+    },
+    {
+      "question": "Who holds a baseball bat while standing on a baseball field?",
+      "answer": "A man"
+    },
+    {
+      "question": "Where is a man standing with a baseball bat?",
+      "answer": "a baseball field"
+    },
+    {
+      "question": "What is a man standing on?",
+      "answer": "field"
+    },
+    {
+      "question": "What is a man holding while standing on a baseball field?",
+      "answer": "a baseball bat"
+    }
+  ],
+  "A silver motorcycle parked next to a forest filled with lots of trees.": [
+    {
+      "question": "What type of vehicle is parked next to a forest filled with lots of trees?",
+      "answer": "motorcycle"
+    },
+    {
+      "question": "What is parked next to a forest filled with lots of trees?",
+      "answer": "A silver motorcycle"
+    },
+    {
+      "question": "What color is the motorcycle?",
+      "answer": "silver"
+    },
+    {
+      "question": "A silver motorcycle is next to a forest filled with lots of what?",
+      "answer": "trees"
+    },
+    {
+      "question": "A silver motorcycle is parked next to what?",
+      "answer": "forest"
+    }
+  ],
+  "A refrigerator sitting in front of a vandalized wall.": [
+    {
+      "question": "What is sitting in front of a vandalized wall?",
+      "answer": "refrigerator"
+    },
+    {
+      "question": "What is a refrigerator in front of?",
+      "answer": "a vandalized wall"
+    }
+  ],
+  "A pizza topped with cheese and pepperoni with veggies.": [
+    {
+      "question": "What is the topping of a pizza with cheese and pepperoni?",
+      "answer": "veggies"
+    },
+    {
+      "question": "Along with pepperoni and veggies, what topping is on a pizza?",
+      "answer": "cheese"
+    },
+    {
+      "question": "What is topped with cheese and pepperoni with veggies?",
+      "answer": "A pizza"
+    }
+  ],
+  "Two horses in a wooded area amongst bushes": [
+    {
+      "question": "What kind of animals are in a wooded area?",
+      "answer": "horses"
+    },
+    {
+      "question": "Two horses in a wooded area amongst what?",
+      "answer": "bushes"
+    }
+  ],
+  "A white and blue bird is perched on a tree branch that is sitting next to a bunch of bushes.": [
+    {
+      "question": "A white and blue bird is perched on a tree branch next to what kind of bushes?",
+      "answer": "bunch"
+    },
+    {
+      "question": "What part of a tree is the bird perched on?",
+      "answer": "branch"
+    },
+    {
+      "question": "What color is the bird on a tree branch?",
+      "answer": "blue"
+    },
+    {
+      "question": "What color bird is perched on a tree branch?",
+      "answer": "white"
+    },
+    {
+      "question": "A white and blue bird is perched next to what?",
+      "answer": "bushes"
+    },
+    {
+      "question": "On what is a white and blue bird perched?",
+      "answer": "a tree branch"
+    },
+    {
+      "question": "A white and blue bird is perched on what branch?",
+      "answer": "tree"
+    },
+    {
+      "question": "A white and blue bird is perched on a tree branch that is sitting next to what bushes?",
+      "answer": "a bunch"
+    },
+    {
+      "question": "What is perched on a tree branch that is next to a bunch of bushes?",
+      "answer": "A white and blue bird"
+    }
+  ],
+  "A person skate boarding on the top of a half pipe.": [
+    {
+      "question": "What does a person do on the top of a half pipe?",
+      "answer": "skate"
+    },
+    {
+      "question": "What is a person skateboarding on the top of?",
+      "answer": "pipe"
+    },
+    {
+      "question": "A person skates on the top of what?",
+      "answer": "a half pipe"
+    },
+    {
+      "question": "What does a skater do on the top of a half pipe?",
+      "answer": "boarding"
+    },
+    {
+      "question": "On what part of a half pipe is a skater?",
+      "answer": "the top"
+    }
+  ],
+  "A black kitten lays on her side beside remote controls.": [
+    {
+      "question": "A black kitten lays beside what type of controls?",
+      "answer": "remote"
+    },
+    {
+      "question": "What does a black kitten do on her side?",
+      "answer": "lays"
+    },
+    {
+      "question": "What color is the kitten on her side?",
+      "answer": "black"
+    },
+    {
+      "question": "Where does a black kitten lay beside remote controls?",
+      "answer": "her side"
+    },
+    {
+      "question": "A black kitten lays on her side beside what?",
+      "answer": "controls"
+    },
+    {
+      "question": "What type of animal lays on her side beside remote controls?",
+      "answer": "kitten"
+    },
+    {
+      "question": "A black kitten lays beside what?",
+      "answer": "remote controls"
+    }
+  ],
+  "Two people are at a computer desk with a mouse.": [
+    {
+      "question": "How many people are at a computer desk with a mouse?",
+      "answer": "Two people"
+    },
+    {
+      "question": "Two people are at what type of computer?",
+      "answer": "desk"
+    },
+    {
+      "question": "Two people are sitting at what desk with a mouse?",
+      "answer": "computer"
+    },
+    {
+      "question": "Two people are at a computer desk with what?",
+      "answer": "mouse"
+    },
+    {
+      "question": "Where are two people with a mouse?",
+      "answer": "a computer desk"
+    }
+  ],
+  "Two cows overlooking a mountain range and one is looking in the opposite direction of the other one.": [
+    {
+      "question": "What do two cows overlook?",
+      "answer": "a mountain range"
+    },
+    {
+      "question": "What is the other cow looking in?",
+      "answer": "direction"
+    },
+    {
+      "question": "How many cows overlooking a mountain range?",
+      "answer": "Two cows"
+    },
+    {
+      "question": "Which animal is looking in the opposite direction of the other?",
+      "answer": "cows"
+    }
+  ],
+  "a light a few ceiling fans a bicycle a couch and windows": [
+    {
+      "question": "A bicycle a couch and windows what kind of fans are there?",
+      "answer": "ceiling"
+    },
+    {
+      "question": "A bicycle a light a few ceiling fans a bicycle a what?",
+      "answer": "couch"
+    },
+    {
+      "question": "A bicycle a couch and windows what?",
+      "answer": "a few ceiling fans"
+    },
+    {
+      "question": "A bicycle a couch and windows what kind of light do you have?",
+      "answer": "fans"
+    },
+    {
+      "question": "Along with a bicycle, what else could be used?",
+      "answer": "a couch"
+    },
+    {
+      "question": "A couch and windows what type of item would you need?",
+      "answer": "a bicycle"
+    },
+    {
+      "question": "Along with a couch and a bicycle, what else is included in the living room?",
+      "answer": "windows"
+    },
+    {
+      "question": "A bicycle a couch and windows what kind of thing would you need?",
+      "answer": "light"
+    }
+  ],
+  "A person holding up a chocolate doughnut with a face drawn on it.": [
+    {
+      "question": "Who holds a chocolate doughnut with a face drawn on it?",
+      "answer": "person"
+    },
+    {
+      "question": "What is holding a chocolate doughnut with a face drawn on it?",
+      "answer": "A person"
+    },
+    {
+      "question": "What is a person holding with a face drawn on it?",
+      "answer": "doughnut"
+    },
+    {
+      "question": "A person holding a doughnut with a face drawn on it is holding what?",
+      "answer": "chocolate"
+    },
+    {
+      "question": "What is drawn on a chocolate doughnut?",
+      "answer": "a face"
+    }
+  ],
+  "a cat laying inside of a bathroom sink": [
+    {
+      "question": "What part of a bathroom is a cat in?",
+      "answer": "sink"
+    },
+    {
+      "question": "What type of animal is laying inside of a bathroom sink?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is inside of a bathroom sink?",
+      "answer": "a cat"
+    }
+  ],
+  "The people are at tables on an outdoor patio.": [
+    {
+      "question": "Where are people on an outdoor patio?",
+      "answer": "tables"
+    },
+    {
+      "question": "On what type of patio are people at tables?",
+      "answer": "outdoor"
+    },
+    {
+      "question": "Where are people at tables?",
+      "answer": "an outdoor patio"
+    },
+    {
+      "question": "Where are people sitting at tables?",
+      "answer": "patio"
+    },
+    {
+      "question": "Who is at tables on an outdoor patio?",
+      "answer": "The people"
+    },
+    {
+      "question": "Who is at a table on an outdoor patio?",
+      "answer": "people"
+    }
+  ],
+  "a street light is hanging on a pole": [
+    {
+      "question": "What is hanging on a pole?",
+      "answer": "a street light"
+    },
+    {
+      "question": "What is a street light hanging on?",
+      "answer": "pole"
+    },
+    {
+      "question": "What type of light is hanging on a pole?",
+      "answer": "street"
+    }
+  ],
+  "A view of a lake and mountains from a boat.": [
+    {
+      "question": "What is a view of from a boat?",
+      "answer": "lake"
+    },
+    {
+      "question": "A view of a lake and what else from a boat?",
+      "answer": "mountains"
+    },
+    {
+      "question": "What is a view of a lake and mountains from?",
+      "answer": "a boat"
+    }
+  ],
+  "Two giraffe standing next to each other on a grassy field.": [
+    {
+      "question": "How many giraffe are standing next to each other on a grassy field?",
+      "answer": "Two giraffe"
+    },
+    {
+      "question": "What animal is next to each other on a grassy field?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What type of field are the giraffes on?",
+      "answer": "grassy"
+    }
+  ],
+  "Zebras and rhinos out in the wild on a sunny day": [
+    {
+      "question": "Along with rhinos, what animals are out in the wild?",
+      "answer": "Zebras"
+    },
+    {
+      "question": "Where are zebras and rhinos out?",
+      "answer": "the wild"
+    },
+    {
+      "question": "Zebras and rhinos are out in what kind of environment?",
+      "answer": "wild"
+    },
+    {
+      "question": "What type of day are zebras out in the wild?",
+      "answer": "sunny"
+    },
+    {
+      "question": "Along with zebras, what animal is out in the wild on a sunny day?",
+      "answer": "rhinos"
+    }
+  ],
+  "A couple of giraffes that are standing in the grass.": [
+    {
+      "question": "What animals are standing in the grass?",
+      "answer": "giraffes"
+    },
+    {
+      "question": "Where are the giraffes standing?",
+      "answer": "the grass"
+    },
+    {
+      "question": "What are the giraffes standing in?",
+      "answer": "grass"
+    }
+  ],
+  "There are meats and vegetables on a flatbread": [
+    {
+      "question": "Along with meat, what is on a flatbread?",
+      "answer": "vegetables"
+    },
+    {
+      "question": "What kind of bread are meats and vegetables on?",
+      "answer": "flatbread"
+    },
+    {
+      "question": "Along with vegetables, what is on a flatbread?",
+      "answer": "meats"
+    },
+    {
+      "question": "On what type of bread are meats and vegetables found?",
+      "answer": "a flatbread"
+    }
+  ],
+  "A giraffe stands beneath a tree beside a marina.": [
+    {
+      "question": "A giraffe stands beside what?",
+      "answer": "marina"
+    },
+    {
+      "question": "What animal stands beside a marina?",
+      "answer": "giraffe"
+    },
+    {
+      "question": "What does a giraffe stand beneath?",
+      "answer": "a tree"
+    },
+    {
+      "question": "A giraffe stands beneath what?",
+      "answer": "tree"
+    },
+    {
+      "question": "What stands beneath a tree beside a marina?",
+      "answer": "A giraffe"
+    }
+  ],
+  "A lady sitting at an enormous dining table with lots of food.": [
+    {
+      "question": "What is a lady sitting at?",
+      "answer": "an enormous dining table"
+    },
+    {
+      "question": "Who sits at an enormous dining table with lots of food?",
+      "answer": "A lady"
+    },
+    {
+      "question": "What size is the dining table?",
+      "answer": "enormous"
+    },
+    {
+      "question": "How much food is there at the dining table?",
+      "answer": "lots"
+    },
+    {
+      "question": "A lady sitting at an enormous dining table with lots of what?",
+      "answer": "food"
+    },
+    {
+      "question": "Who sits at a large dining table with lots of food?",
+      "answer": "lady"
+    },
+    {
+      "question": "What type of table is a lady sitting at?",
+      "answer": "dining"
+    }
+  ],
+  "A person is seen using a snowboard on the packed snow.": [
+    {
+      "question": "Who is seen using a snowboard on the snow?",
+      "answer": "person"
+    },
+    {
+      "question": "On what is a person seen using a snowboard?",
+      "answer": "the packed snow"
+    },
+    {
+      "question": "On what kind of ground is a person seen using a snowboard?",
+      "answer": "snow"
+    },
+    {
+      "question": "What kind of snow is seen on a person's snowboard?",
+      "answer": "packed"
+    },
+    {
+      "question": "What is a person seen using on the snow?",
+      "answer": "a snowboard"
+    },
+    {
+      "question": "What is seen on the snow?",
+      "answer": "snowboard"
+    }
+  ],
+  "a tennis player attempting to reach a tennis ball": [
+    {
+      "question": "What sport does a player play?",
+      "answer": "tennis"
+    },
+    {
+      "question": "Who tries to reach a tennis ball?",
+      "answer": "a tennis player"
+    },
+    {
+      "question": "What is a tennis player trying to reach?",
+      "answer": "a tennis ball"
+    },
+    {
+      "question": "A tennis player attempting to reach what?",
+      "answer": "ball"
+    }
+  ],
+  "Dairy cows line up against a barber wire fence to graze the sweeter grass.": [
+    {
+      "question": "What animals line up against a barber wire fence to graze the sweeter grass?",
+      "answer": "Dairy cows"
+    },
+    {
+      "question": "What type of cows line up against a barber wire fence?",
+      "answer": "Dairy"
+    },
+    {
+      "question": "What do dairy cows line up against?",
+      "answer": "fence"
+    },
+    {
+      "question": "What type of wire fence do dairy cows line up against?",
+      "answer": "barber"
+    },
+    {
+      "question": "What do dairy cows line up against the fence to graze?",
+      "answer": "the sweeter grass"
+    },
+    {
+      "question": "What kind of fence do dairy cows line up against?",
+      "answer": "wire"
+    }
+  ],
+  "A cat sitting up on its hind feet on a park bench": [
+    {
+      "question": "What part of the body does a cat sit on?",
+      "answer": "feet"
+    },
+    {
+      "question": "Where is a cat sitting on its hind feet?",
+      "answer": "bench"
+    },
+    {
+      "question": "What kind of animal sits on a park bench?",
+      "answer": "cat"
+    },
+    {
+      "question": "What kind of feet does a cat sit on?",
+      "answer": "hind"
+    },
+    {
+      "question": "What is a cat sitting on on a park bench?",
+      "answer": "its hind feet"
+    },
+    {
+      "question": "Who sits on a park bench?",
+      "answer": "A cat"
+    },
+    {
+      "question": "What type of bench is a cat sitting on?",
+      "answer": "park"
+    }
+  ],
+  "A small white bird standing on top of a pond of water.": [
+    {
+      "question": "On what side of a pond is a small white bird?",
+      "answer": "top"
+    },
+    {
+      "question": "A small white bird standing on top of a pond of what?",
+      "answer": "water"
+    },
+    {
+      "question": "What size is a white bird standing on top of a pond of water?",
+      "answer": "small"
+    },
+    {
+      "question": "What is a white bird standing on top of?",
+      "answer": "a pond"
+    },
+    {
+      "question": "What color is the bird on top of a pond?",
+      "answer": "white"
+    },
+    {
+      "question": "What is standing on top of a pond of water?",
+      "answer": "A small white bird"
+    },
+    {
+      "question": "A small white bird standing on top of what kind of water?",
+      "answer": "pond"
+    },
+    {
+      "question": "What is the name of the small white thing that is standing on top of a pond of water?",
+      "answer": "bird"
+    }
+  ],
+  "A woman holding a pizza up in the air.": [
+    {
+      "question": "Where is a woman holding a pizza?",
+      "answer": "the air"
+    },
+    {
+      "question": "What is a woman holding in the air?",
+      "answer": "a pizza"
+    },
+    {
+      "question": "Who holds a pizza in the air?",
+      "answer": "woman"
+    }
+  ],
+  "a truck and two double deckered busses near a building": [
+    {
+      "question": "What type of busses are near a building?",
+      "answer": "two double deckered busses"
+    },
+    {
+      "question": "A truck and two double decked busses are near what?",
+      "answer": "building"
+    },
+    {
+      "question": "Along with two double decked busses, what is near a building?",
+      "answer": "a truck"
+    },
+    {
+      "question": "Along with two double decked busses, what type of vehicle is near a building?",
+      "answer": "truck"
+    }
+  ],
+  "A large American flag sitting on top of a building.": [
+    {
+      "question": "On what side of a building is a large American flag?",
+      "answer": "top"
+    },
+    {
+      "question": "What flag is on top of a building?",
+      "answer": "American"
+    },
+    {
+      "question": "A large American flag sits on top of what?",
+      "answer": "building"
+    },
+    {
+      "question": "What is sitting on top of a building?",
+      "answer": "A large American flag"
+    },
+    {
+      "question": "What is on top of a building?",
+      "answer": "flag"
+    }
+  ],
+  "A yellow and green fire hydrant in Canada.": [
+    {
+      "question": "What color is the fire hydrant in Canada?",
+      "answer": "green"
+    },
+    {
+      "question": "What is a fire hydrant in Canada?",
+      "answer": "A yellow and green fire"
+    },
+    {
+      "question": "Where is the yellow and green fire hydrant located?",
+      "answer": "Canada"
+    }
+  ],
+  "This is a room full of laptop computers.": [
+    {
+      "question": "What kind of computer is in the room?",
+      "answer": "laptop computers"
+    },
+    {
+      "question": "What type of computer is in the room?",
+      "answer": "laptop"
+    }
+  ],
+  "A trunk full of backpacks and other bags.": [
+    {
+      "question": "A trunk full of what kind of items?",
+      "answer": "backpacks"
+    },
+    {
+      "question": "A trunk full of backpacks and what else?",
+      "answer": "other bags"
+    },
+    {
+      "question": "A trunk full of what?",
+      "answer": "bags"
+    },
+    {
+      "question": "What is full of backpacks and other bags?",
+      "answer": "A trunk"
+    },
+    {
+      "question": "What part of the body is full of backpacks and other items?",
+      "answer": "trunk"
+    }
+  ],
+  "A pile of broccoli is being displayed on a plate.": [
+    {
+      "question": "What is displayed on a plate?",
+      "answer": "broccoli"
+    },
+    {
+      "question": "What type of broccoli is displayed on a plate?",
+      "answer": "A pile"
+    },
+    {
+      "question": "On what is a pile of broccoli displayed?",
+      "answer": "a plate"
+    },
+    {
+      "question": "A pile of broccoli is being displayed on what?",
+      "answer": "plate"
+    }
+  ],
+  "A herd of elephants walking next to each other.": [
+    {
+      "question": "What kind of animals are walking next to each other?",
+      "answer": "elephants"
+    }
+  ],
+  "A cat drinking out of a glass on top of a table.": [
+    {
+      "question": "On what surface of a table is a cat drinking from a glass?",
+      "answer": "top"
+    },
+    {
+      "question": "A cat drinking out of what kind of material is on top of a table?",
+      "answer": "glass"
+    },
+    {
+      "question": "A cat drinking out of a glass on top of what?",
+      "answer": "table"
+    },
+    {
+      "question": "What type of animal drinks out of a glass on top of a table?",
+      "answer": "cat"
+    },
+    {
+      "question": "What does a cat drink out of?",
+      "answer": "a glass"
+    },
+    {
+      "question": "Who is drinking out of a glass on top of a table?",
+      "answer": "A cat"
+    }
+  ],
+  "There is a woman taking out fresh baked bread": [
+    {
+      "question": "What does a woman take out?",
+      "answer": "fresh baked bread"
+    },
+    {
+      "question": "What does the woman take out?",
+      "answer": "bread"
+    },
+    {
+      "question": "Who takes out fresh baked bread?",
+      "answer": "a woman"
+    },
+    {
+      "question": "What kind of bread is taken out by a woman?",
+      "answer": "fresh"
+    }
+  ],
+  "A car with some surfboards in a field.": [
+    {
+      "question": "What type of vehicle has surfboards in a field?",
+      "answer": "car"
+    },
+    {
+      "question": "A car with what in a field?",
+      "answer": "surfboards"
+    }
+  ],
+  "Top of a fire hydrant covered in pink paint.": [
+    {
+      "question": "What is the top of covered in pink paint?",
+      "answer": "a fire hydrant"
+    },
+    {
+      "question": "What color paint is on the top of a fire hydrant?",
+      "answer": "pink paint"
+    },
+    {
+      "question": "What type of hydrant is covered in pink paint?",
+      "answer": "fire"
+    }
+  ],
+  "The top of the computer desk is very shiny.": [
+    {
+      "question": "What is the top of?",
+      "answer": "the computer desk"
+    },
+    {
+      "question": "What part of the computer is shiny?",
+      "answer": "desk"
+    },
+    {
+      "question": "What color is the top of the computer desk?",
+      "answer": "shiny"
+    },
+    {
+      "question": "What part of the computer desk is very shiny?",
+      "answer": "The top"
+    },
+    {
+      "question": "The top of what desk is very shiny?",
+      "answer": "computer"
+    }
+  ],
+  "That looks like a wall mural in the background of this photo with a lot of sheet.": [
+    {
+      "question": "What part of the photo shows a wall mural?",
+      "answer": "background"
+    },
+    {
+      "question": "What does the background of the photo look like?",
+      "answer": "mural"
+    },
+    {
+      "question": "What part of the photo looks like a wall mural?",
+      "answer": "the background"
+    },
+    {
+      "question": "What kind of material is in the background of the photo?",
+      "answer": "sheet"
+    }
+  ],
+  "A man on a bike near people on a bench": [
+    {
+      "question": "What is a man on?",
+      "answer": "a bike"
+    },
+    {
+      "question": "Who is on a bike near people on a bench?",
+      "answer": "man"
+    },
+    {
+      "question": "A man on a bike near people on what?",
+      "answer": "a bench"
+    },
+    {
+      "question": "What kind of vehicle is a man on?",
+      "answer": "bike"
+    },
+    {
+      "question": "A man on a bike is near what on a bench?",
+      "answer": "people"
+    }
+  ],
+  "A ferry going from one point to another point.": [
+    {
+      "question": "What is used to travel from one point to another?",
+      "answer": "A ferry"
+    },
+    {
+      "question": "What type of transport is used to travel from one point to another?",
+      "answer": "ferry"
+    }
+  ],
+  "A cat sitting on top of a red boat next to two dogs.": [
+    {
+      "question": "On what side of a red boat is a cat sitting?",
+      "answer": "top"
+    },
+    {
+      "question": "A cat sitting on top of a red boat next to how many dogs?",
+      "answer": "two dogs"
+    },
+    {
+      "question": "What is on top of a red boat next to two dogs?",
+      "answer": "cat"
+    },
+    {
+      "question": "What is a cat sitting on top of?",
+      "answer": "a red boat"
+    },
+    {
+      "question": "What is sitting on top of a red boat next to two dogs?",
+      "answer": "A cat"
+    },
+    {
+      "question": "A cat sitting on top of a red boat next to what other animal?",
+      "answer": "dogs"
+    },
+    {
+      "question": "What color boat is the cat sitting on?",
+      "answer": "red"
+    },
+    {
+      "question": "What type of vehicle is a cat sitting on?",
+      "answer": "boat"
+    }
+  ],
+  "A soccer player looks up at a soccer ball.": [
+    {
+      "question": "What sport does a player play?",
+      "answer": "soccer"
+    },
+    {
+      "question": "Who looks up at a soccer ball?",
+      "answer": "A soccer player"
+    },
+    {
+      "question": "What does a soccer player look at?",
+      "answer": "a soccer ball"
+    }
+  ],
+  "Light breaks through a cloudy day at the pier.": [
+    {
+      "question": "What type of day does light break through at the Pier?",
+      "answer": "a cloudy day"
+    },
+    {
+      "question": "Where does light break through a cloudy day?",
+      "answer": "the pier"
+    },
+    {
+      "question": "What type of day at the pier?",
+      "answer": "cloudy"
+    },
+    {
+      "question": "What breaks through a cloudy day at the pier?",
+      "answer": "Light"
+    }
+  ],
+  "A two layer cake sitting on top of a table.": [
+    {
+      "question": "What part of a table is a cake sitting on?",
+      "answer": "top"
+    },
+    {
+      "question": "What is on top of a table?",
+      "answer": "cake"
+    },
+    {
+      "question": "What is a two layer cake on top of?",
+      "answer": "table"
+    },
+    {
+      "question": "What is a two layer cake sitting on?",
+      "answer": "a table"
+    },
+    {
+      "question": "What type of cake sits on top of a table?",
+      "answer": "A two layer cake"
+    }
+  ],
+  "A parking meter next to a parked car.": [
+    {
+      "question": "A parking meter is next to what?",
+      "answer": "a parked car"
+    },
+    {
+      "question": "What is next to a parking meter?",
+      "answer": "car"
+    },
+    {
+      "question": "What is next to a parked car?",
+      "answer": "A parking meter"
+    }
+  ],
+  "The view of a giraffe through some vegetation.": [
+    {
+      "question": "What animal is seen through some vegetation?",
+      "answer": "a giraffe"
+    },
+    {
+      "question": "A giraffe is seen through what?",
+      "answer": "vegetation"
+    },
+    {
+      "question": "What is a giraffe through some vegetation?",
+      "answer": "view"
+    },
+    {
+      "question": "What is the view of a giraffe through?",
+      "answer": "some vegetation"
+    }
+  ],
+  "The reflection of a man taking  a picture in a mirror": [
+    {
+      "question": "What is the reflection of a man taking a picture in?",
+      "answer": "mirror"
+    },
+    {
+      "question": "What is the reflection of a man taking in a mirror?",
+      "answer": "picture"
+    },
+    {
+      "question": "What is the term for a man taking a picture in a mirror?",
+      "answer": "reflection"
+    }
+  ],
+  "Three teddy bears laying in bed under the covers.": [
+    {
+      "question": "Three teddy bears laying in bed under what?",
+      "answer": "the covers"
+    },
+    {
+      "question": "What kind of bears are laying in bed?",
+      "answer": "teddy"
+    }
+  ],
+  "White leather sofas with ottoman near lamps in orange living room.": [
+    {
+      "question": "In what room are white leather sofas with ottomans found?",
+      "answer": "room"
+    },
+    {
+      "question": "What kind of sofas are in orange living room?",
+      "answer": "White leather sofas"
+    },
+    {
+      "question": "What color leather sofas are in orange living room?",
+      "answer": "White"
+    },
+    {
+      "question": "White leather sofas with ottoman near what in orange living room?",
+      "answer": "lamps"
+    },
+    {
+      "question": "What kind of furniture are white leather sofas with?",
+      "answer": "ottoman"
+    },
+    {
+      "question": "What type of furniture is found in orange living room?",
+      "answer": "sofas"
+    },
+    {
+      "question": "What color are the sofas in the living room?",
+      "answer": "orange"
+    }
+  ]
+}

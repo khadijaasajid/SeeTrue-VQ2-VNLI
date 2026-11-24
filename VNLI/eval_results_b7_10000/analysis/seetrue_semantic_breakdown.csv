@@ -1,0 +1,5 @@
+Semantic_Category,Samples,Pos_Rate_%,VQ2_AUC_%,VNLI_AUC_%,Gain_VNLI_vs_VQ2,Ensemble_50_50_%,Weighted_Ens_20_80_%
+Object / Count,1844,56.7,74.78,82.35,7.57,81.32,82.06
+Attribute,1478,59.9,71.14,77.43,6.3,77.44,77.96
+Action / Interaction,825,53.7,67.51,78.69,11.19,77.2,78.22
+Spatial Relation,2783,50.6,63.57,77.64,14.07,75.23,76.92
