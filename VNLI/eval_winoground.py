@@ -67,8 +67,8 @@ def compute_winoground_quartets(df, score_col):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--adapter_dir", type=str, default="vnli_adapter_b7_latest")
-    parser.add_argument("--cartesian_csv", type=str, default="../winoground_cartesian.csv")
-    parser.add_argument("--vq2_csv", type=str, default="../winoground_vq2_scores.csv")
+    parser.add_argument("--cartesian_csv", type=str, default="../SeeTrue/outputs/winoground_cartesian.csv")
+    parser.add_argument("--vq2_csv", type=str, default="../SeeTrue/outputs/winoground_vq2_scores.csv")
     parser.add_argument("--seetrue_img_dir", type=str, default="../SeeTrue/images")
     parser.add_argument("--alt_img_dir", type=str, default="../images")
     parser.add_argument("--output_csv", type=str, default="eval_results_b7_10000/winoground_vnli_preds.csv")
