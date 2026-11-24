@@ -40,13 +40,10 @@ Zero-Shot VQ² provides human-readable, per-concept diagnostics (pinpointing exa
 ├── README.md                          # Project overview, setup, results, and code attribution
 ├── requirements.txt                   # Python environment dependencies
 ├── .gitignore                         # Excludes local virtualenvs, caches, and raw dataset images
-├── app_vq2.py                         # Standalone Zero-Shot VQ2 Gradio prototype
-├── winoground_cartesian.csv           # Winoground 400-example image-caption pairing metadata
-├── winoground_qa_cache.json           # Cached T5-QG questions for Winoground captions
-├── winoground_vq2_scores.csv          # Zero-Shot VQ2 evaluation scores on Winoground
 │
-├── SeeTrue/                           # Zero-Shot VQ2 evaluation pipeline & benchmark outputs
+├── SeeTrue/                           # Zero-Shot VQ2 evaluation pipeline, prototype & benchmark outputs
 │   ├── SeeTRUE.csv                    # Master SeeTRUE evaluation index (DrawBench, COCO-T2I, EditBench)
+│   ├── app_vq2.py                     # Standalone Zero-Shot VQ2 Gradio prototype
 │   ├── run_vq2_full.py                # Full Zero-Shot VQ2 evaluation across all 6,930 SeeTRUE pairs
 │   ├── run_vq2_local.py               # Single-split local VQ2 evaluation runner
 │   ├── run_editbench_Categories.py    # Fine-grained EditBench category breakdown analysis
@@ -55,7 +52,8 @@ Zero-Shot VQ² provides human-readable, per-concept diagnostics (pinpointing exa
 │   └── outputs/                       # Zero-Shot VQ2 score CSVs, QA caches, and ROC curves
 │       ├── drawbench_vq2_scores.csv / _qa_cache.json / _roc_curve.png
 │       ├── coco_t2i_vq2_scores.csv  / _qa_cache.json / _roc_curve.png
-│       └── editbench_vq2_scores.csv / _qa_cache.json / _roc_curve.png
+│       ├── editbench_vq2_scores.csv / _qa_cache.json / _roc_curve.png
+│       └── winoground_cartesian.csv / _qa_cache.json / _vq2_scores.csv
 │
 └── VNLI/                              # 4-Bit QLoRA-VNLI training, ConGen data & Unified Gradio App
     ├── app.py                         # Unified Gradio App (QLoRA-VNLI + Zero-Shot VQ2 + Ensemble)
